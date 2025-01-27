@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/shield.svg').default,
     description: (
       <>
-        Take offensive measures by standing your ground against temptations and defending against replay attacks through porn and other addictive substances.
+        Take offensive measures by standing your ground against temptation and defending from porn-induced relapse.
       </>
     ),
   },
