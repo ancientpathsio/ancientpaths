@@ -72,13 +72,12 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://discord.gg/xk6qxyZSkx',
-            // Use an icon instead of the label
+            // Use a local icon instead of the label
             position: 'right',
             className: 'navbar-icon', // Add custom class for the icon
             'aria-label': 'Discord Community', // Accessibility feature
-            // You can include a Discord icon image like this
-            // Replace the src URL with your actual icon path or URL
-            html: `<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Discord_Icon.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
+            // Reference the local Discord icon
+            html: `<img src="/img/discord-icon.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
           },
         ],
       },
@@ -103,7 +102,8 @@ const config = {
               },
               {
                 href: 'https://discord.gg/xk6qxyZSkx',
-                html: `<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Discord_Icon.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Discord icon
+                // Reference the local Discord icon
+                html: `<img src="/img/discord-icon.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Greyish Discord icon
               },
               {
                 label: 'Twitter',
