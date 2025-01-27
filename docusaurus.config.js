@@ -72,7 +72,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://discord.gg/xk6qxyZSkx',
-            label: 'Community (Discord)',
+            label: ':discord: Community (Discord)',
             position: 'right',
           },
         ],
