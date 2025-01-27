@@ -69,10 +69,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://discord.gg/xk6qxyZSkx',
-            label: ':discord: Community (Discord)',
+            label: ':discord: Community (Discord)', // Added emoji here
             position: 'right',
           },
         ],
