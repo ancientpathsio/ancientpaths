@@ -77,7 +77,7 @@ const config = {
             className: 'navbar-icon', // Add custom class for the icon
             'aria-label': 'Discord Community', // Accessibility feature
             // Reference the local Discord icon
-            html: `<img src="/img/discord-icon.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
+            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
           },
         ],
       },
@@ -103,7 +103,7 @@ const config = {
               {
                 href: 'https://discord.gg/xk6qxyZSkx',
                 // Reference the local Discord icon
-                html: `<img src="/img/discord-icon.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Greyish Discord icon
+                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Greyish Discord icon
               },
               {
                 label: 'Twitter',
