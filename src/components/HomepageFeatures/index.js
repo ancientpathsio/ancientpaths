@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Rally Together',
     Svg: require('@site/static/img/rally.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Join the fight with others in the battle for sexual purity and God-honoring values.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Victory Mindset',
     Svg: require('@site/static/img/book.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Develop a winning strategy by destroying addictive behaviors and renewing old thought patterns with Biblical truth.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/sword.svg').default,
+    title: 'Defend Your Honor',
+    Svg: require('@site/static/img/shield.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Take offensive measures by standing your ground against temptations and defending against replay attacks through porn and other addictive substances.
       </>
     ),
   },
