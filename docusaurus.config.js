@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AncientPaths.io',
-  tagline: 'Welcome to the Ancient Paths',
+  tagline: 'Sexual Purity, Integrity, and Honor',
   url: 'https://ancientpaths.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
