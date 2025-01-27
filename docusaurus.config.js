@@ -14,14 +14,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
-  projectName: 'ancientpaths', // Usually your repo name.
+  organizationName: 'ancientpaths', // GitHub org/user name
+  projectName: 'ancientpaths', // Repo name
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -34,17 +29,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -69,15 +58,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://discord.gg/xk6qxyZSkx',
-            // Use a local icon instead of the label
+            label: 'Community (Discord)',
             position: 'right',
-            className: 'navbar-icon', // Add custom class for the icon
-            'aria-label': 'Discord Community', // Accessibility feature
-            // Reference the local Discord icon
-            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
+            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`, // Discord icon path
           },
         ],
       },
@@ -101,9 +87,9 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
+                label: 'Discord',
                 href: 'https://discord.gg/xk6qxyZSkx',
-                // Reference the local Discord icon
-                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Greyish Discord icon
+                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Discord icon path
               },
               {
                 label: 'Twitter',
