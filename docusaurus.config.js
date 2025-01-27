@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AncientPaths',
-  tagline: 'Sexual Purity, Integrity, Honor',
+  tagline: 'Sexual Purity, Integrity, and Honor',
   url: 'https://ancientpaths.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -84,7 +84,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Strategy Guide',
                 to: '/docs/intro',
               },
             ],
@@ -93,16 +93,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/xk6qxyZSkx',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Twitter (X)',
+                href: 'https://twitter.com/ancientpaths.io',
               },
             ],
           },
@@ -113,14 +109,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ancientpathsio/ancientpaths',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AncientPaths.io`,
+        copyright: `Copyright © ${new Date().getFullYear()} | AncientPaths.io`,
       },
       prism: {
         theme: lightCodeTheme,
