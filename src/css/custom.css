@@ -18,18 +18,18 @@
   --ifm-color-primary-light: #5f0a06;
   --ifm-color-primary-lighter: #660a06;
   --ifm-color-primary-lightest: #710b07;
-  --ifm-code-font-size: 92%;
+  --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #8a0e09;
-  --ifm-color-primary-dark: #7c0d08;
-  --ifm-color-primary-darker: #700c07;
-  --ifm-color-primary-darkest: #5c0a06;
-  --ifm-color-primary-light: #99100a;
-  --ifm-color-primary-lighter: #a6110b;
-  --ifm-color-primary-lightest: #bf130c;
+  --ifm-color-primary: #b3140c;
+  --ifm-color-primary-dark: #a5120b;
+  --ifm-color-primary-darker: #99100a;
+  --ifm-color-primary-darkest: #7c0d08;
+  --ifm-color-primary-light: #c91710;
+  --ifm-color-primary-lighter: #d41a12;
+  --ifm-color-primary-lightest: #e31d14;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
