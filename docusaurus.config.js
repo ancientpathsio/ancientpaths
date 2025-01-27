@@ -58,12 +58,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://discord.gg/xk6qxyZSkx',
-            label: 'Community (Discord)',
             position: 'right',
-            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`, // Discord icon path
+            className: 'navbar-icon',
+            'aria-label': 'Discord Community',
+            // Using an image as an icon
+            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
           },
         ],
       },
@@ -89,7 +91,8 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/xk6qxyZSkx',
-                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`, // Discord icon path
+                // Adding Discord icon in the footer as well
+                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`,
               },
               {
                 label: 'Twitter',
