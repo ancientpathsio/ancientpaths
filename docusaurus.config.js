@@ -14,9 +14,14 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'ancientpaths', // GitHub org/user name
-  projectName: 'ancientpaths', // Repo name
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
+  projectName: 'ancientpaths', // Usually your repo name.
 
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -29,11 +34,17 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,14 +69,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://discord.gg/xk6qxyZSkx',
+            label: 'Community (Discord)',
             position: 'right',
-            className: 'navbar-icon',
-            'aria-label': 'Discord Community',
-            // Using an image as an icon
-            html: `<img src="/img/discord.svg" alt="Discord" style="height: 30px; width: 30px;" />`,
           },
         ],
       },
@@ -91,8 +99,6 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/xk6qxyZSkx',
-                // Adding Discord icon in the footer as well
-                html: `<img src="/img/discord.svg" alt="Discord" style="height: 20px; width: 20px;" />`,
               },
               {
                 label: 'Twitter',
