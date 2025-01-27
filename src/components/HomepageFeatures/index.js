@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/rally.svg').default,
     description: (
       <>
-        Engage in the battle for sexual purity and God-honoring values. Join our <a href="https://discord.gg/xk6qxyZSkx" target="blank">Community</a> Discord to get connected. 
+        Engage in the battle for sexual purity and God-honoring values. Join our <a href="https://discord.gg/xk6qxyZSkx" target="blank">Discord</a> community to get connected. 
       </>
     ),
   },
