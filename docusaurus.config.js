@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
   projectName: 'ancientpaths', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -71,8 +71,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/ancientpathsio/ancientpaths',
-            label: 'GitHub',
+            href: 'https://discord.gg/xk6qxyZSkx',
+            label: 'Community (Discord)',
             position: 'right',
           },
         ],
