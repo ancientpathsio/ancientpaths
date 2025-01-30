@@ -11,13 +11,13 @@
 :root {
   --ifm-font-family-base: 'Inter', sans-serif;
   --ifm-font-family-monospace: 'DM Mono', monospace;
-  --ifm-color-primary: #909635; /* 35% darker */
-  --ifm-color-primary-dark: #828731; /* 35% darker */
-  --ifm-color-primary-darker: #75792c; /* 35% darker */
-  --ifm-color-primary-darkest: #686b27; /* 35% darker */
-  --ifm-color-primary-light: #9ea442; /* Adjusted */
-  --ifm-color-primary-lighter: #adaf5d; /* Adjusted */
-  --ifm-color-primary-lightest: #bbb977; /* Adjusted */
+  --ifm-color-primary: #979c3d; /* 30% darker */
+  --ifm-color-primary-dark: #898d38; /* 30% darker */
+  --ifm-color-primary-darker: #7b7e33; /* 30% darker */
+  --ifm-color-primary-darkest: #6e702e; /* 30% darker */
+  --ifm-color-primary-light: #a5aa4a; /* Adjusted */
+  --ifm-color-primary-lighter: #b4b966; /* Adjusted */
+  --ifm-color-primary-lightest: #c3c87f; /* Adjusted */
   --ifm-code-font-size: 92%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
