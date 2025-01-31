@@ -42,7 +42,7 @@
 /* Show Contact link only on mobile */
 @media (max-width: 767px) {
   .navbar .navbar__item--contact {
-    display: none;
+    display: hidden;
   }
 }
 
