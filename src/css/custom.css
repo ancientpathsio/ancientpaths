@@ -37,7 +37,7 @@
 /* Hide the 'Contact' link from the mobile navbar (under 768px) */
 @media (max-width: 768px) {
   .navbar__item--contact {
-    display: none !important;
+    display: none;
   }
 }
 
