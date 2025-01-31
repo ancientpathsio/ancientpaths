@@ -68,7 +68,6 @@ const config = {
           className: 'navbar__item--contact', // Add the class name here
         },
         {
-          to: '/donate',
           label: 'Donate',
           href: 'https://your-donation-page.com',
           position: 'right',
