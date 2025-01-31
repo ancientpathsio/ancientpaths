@@ -65,7 +65,6 @@ const config = {
           to: 'mailto:ancientpaths.io@gmail.com',
           label: 'Contact',
           position: 'left',
-          className: 'navbar__item--contact', // Add the class name here
         },
         {
           label: 'Donate',
