@@ -62,11 +62,6 @@ const config = {
         },
         { to: '/blog', label: 'Dev_', position: 'left' },
         {
-          to: 'mailto:ancientpaths.io@gmail.com',
-          label: 'Contact',
-          position: 'left',
-        },
-        {
           label: 'Donate',
           href: 'https://your-donation-page.com',
           position: 'right',
