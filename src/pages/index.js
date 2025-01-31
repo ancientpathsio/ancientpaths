@@ -1,17 +1,14 @@
-import React, { useEffect, useState } from 'react';
-import Link from '@docusaurus/Link';
+import React from 'react';
 import clsx from 'clsx';
-import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+
+import styles from './index.module.css';
 
 function HomepageHeader() {
-  const [isClient, setIsClient] = useState(false);
-  useEffect(() => setIsClient(true), []);
-
-  if (!isClient) return null; // Avoid rendering on the server
-
-  const { siteConfig } = useDocusaurusContext();
-
+  const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -20,17 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://discord.gg/xk6qxyZSkx"
-            style={{ display: 'flex', alignItems: 'center', gap: '8px' }}
-          >
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Discord_Logo.svg"
-              alt="Discord"
-              width="20"
-              height="20"
-              style={{ filter: 'invert(0)' }}
-            />
-            Start your Journey
+            to="https://discord.gg/xk6qxyZSkx">
+            Start Here ↗
           </Link>
         </div>
       </div>
@@ -38,4 +26,16 @@ function HomepageHeader() {
   );
 }
 
-export default HomepageHeader;
+export default function Home() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <Layout
+      title={``}
+      description="">
+      <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
+    </Layout>
+  );
+}
