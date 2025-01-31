@@ -91,10 +91,6 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/xk6qxyZSkx',
               },
-              {
-                label: 'Twitter (X)',
-                href: 'https://twitter.com/ancientpaths.io',
-              },
             ],
           },
           {
@@ -103,6 +99,10 @@ const config = {
               {
                 label: 'Dev',
                 to: '/blog',
+              },
+              {
+                label: 'Contact',
+                href: 'mailto:ancientpaths.io@gmail.com',
               },
             ],
           },
