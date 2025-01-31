@@ -70,6 +70,7 @@ const config = {
         {
           to: '/donate',
           label: 'Donate',
+          href: 'https://your-donation-page.com',
           position: 'right',
           className: 'navbar__item--donate',
         },
