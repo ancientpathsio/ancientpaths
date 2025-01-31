@@ -34,9 +34,14 @@
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
 
-/* Hide the 'Contact' link from the mobile navbar (under 768px) */
-@media (max-width: 768px) {
-  .navbar__item--contact {
+/* Hide Contact link on larger screens */
+.navbar .navbar__item--contact {
+  display: none;
+}
+
+/* Show Contact link only on mobile */
+@media (max-width: 767px) {
+  .navbar .navbar__item--contact {
     display: none;
   }
 }
