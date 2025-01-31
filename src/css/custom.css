@@ -44,4 +44,16 @@
   .hero__subtitle {
     font-size: 1.25rem; /* Adjust as needed */
   }
+
+  /* Show Contact link only on mobile */
+  .navbar .navbar__item--contact {
+    display: block;
+  }
+}
+
+/* Hide Contact link on larger screens */
+@media (min-width: 769px) {
+  .navbar .navbar__item--contact {
+    display: none;
+  }
 }
