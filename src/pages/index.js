@@ -1,5 +1,17 @@
+import React, { useEffect, useState } from 'react';
+import Link from '@docusaurus/Link';
+import clsx from 'clsx';
+import styles from './styles.module.css';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
 function HomepageHeader() {
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => setIsClient(true), []);
+
+  if (!isClient) return null; // Avoid rendering on the server
+
   const { siteConfig } = useDocusaurusContext();
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -16,7 +28,7 @@ function HomepageHeader() {
               alt="Discord"
               width="20"
               height="20"
-              style={{ filter: 'invert(0)' }} // Ensures it's black
+              style={{ filter: 'invert(0)' }}
             />
             Start your Journey
           </Link>
@@ -25,3 +37,5 @@ function HomepageHeader() {
     </header>
   );
 }
+
+export default HomepageHeader;
