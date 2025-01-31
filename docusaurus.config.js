@@ -67,6 +67,12 @@ const config = {
           position: 'left',
           className: 'navbar__item--contact', // Add the class name here
         },
+        {
+          to: '/donate',
+          label: 'Donate',
+          position: 'right',
+          className: 'navbar__item--donate',
+        },
       ],
     },
     footer: {
