@@ -60,7 +60,7 @@ const config = {
           position: 'left',
           label: 'Strategy Guide',
         },
-        { to: '/blog', label: 'Dev', position: 'left' },
+        { to: '/blog', label: 'Dev_', position: 'left' },
         {
           to: 'mailto:ancientpaths.io@gmail.com',
           label: 'Contact',
@@ -94,7 +94,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Dev',
+              label: 'Dev_',
               to: '/blog',
             },
             {
