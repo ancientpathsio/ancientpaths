@@ -70,6 +70,7 @@ const config = {
             label: 'Strategy Guide',
           },
           {to: '/blog', label: 'Dev', position: 'left'},
+          {to: 'mailto:ancientpaths.io@gmail.com', label: 'Contact', position: 'left'},
         ],
       },
       footer: {
