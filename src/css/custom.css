@@ -34,26 +34,25 @@
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
 
-/* Hide Contact link on larger screens */
+/* Initially hide the Contact link on all screens */
 .navbar .navbar__item--contact {
   display: none;
 }
 
-/* Show Contact link only on mobile */
+/* Show the Contact link only on mobile when navbar is expanded */
 @media (max-width: 767px) {
-  .navbar .navbar__item--contact {
-    display: hidden;
-  }
-}
-
-/* Adjust H1 and H2 font sizes for mobile view only on the main page */
-@media (max-width: 768px) {
-  /* Target only the main page header and subtitle */
-  .hero__title {
-    font-size: 2.5rem; /* Adjust as needed */
+  /* Target navbar toggle (when expanded) */
+  .navbar .navbar__menu {
+    display: none; /* Hide the menu by default */
   }
 
-  .hero__subtitle {
-    font-size: 1.25rem; /* Adjust as needed */
+  /* Show the Contact link when the navbar is open */
+  .navbar .navbar__menu--opened .navbar__item--contact {
+    display: block;
+  }
+  
+  /* Ensure Contact link is visible when the navbar menu is open */
+  .navbar__item--contact {
+    display: block;
   }
 }
