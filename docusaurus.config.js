@@ -19,9 +19,6 @@ const config = {
   organizationName: 'ancientpaths', // Usually your GitHub org/user name.
   projectName: 'ancientpaths', // Usually your repo name.
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -34,15 +31,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -53,68 +46,71 @@ const config = {
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: '',
-        logo: {
-          alt: 'AncientPaths',
-          src: 'img/logo.svg',
+  themeConfig: {
+    navbar: {
+      title: '',
+      logo: {
+        alt: 'AncientPaths',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Strategy Guide',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Strategy Guide',
-          },
-          {to: '/blog', label: 'Dev', position: 'left'},
-          {to: 'mailto:ancientpaths.io@gmail.com', label: 'Contact', position: 'left'},
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Strategy Guide',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/xk6qxyZSkx',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Dev',
-                to: '/blog',
-              },
-              {
-                label: 'Contact',
-                href: 'mailto:ancientpaths.io@gmail.com',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} | AncientPaths.io`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        { to: '/blog', label: 'Dev', position: 'left' },
+        {
+          to: 'mailto:ancientpaths.io@gmail.com',
+          label: 'Contact',
+          position: 'left',
+          className: 'navbar__item--contact', // Add the class name here
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Strategy Guide',
+              to: '/docs/intro',
+            },
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/xk6qxyZSkx',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'Dev',
+              to: '/blog',
+            },
+            {
+              label: 'Contact',
+              href: 'mailto:ancientpaths.io@gmail.com',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} | AncientPaths.io`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
 };
 
 module.exports = config;
