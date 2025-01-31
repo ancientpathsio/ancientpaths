@@ -33,3 +33,15 @@
   --ifm-color-primary-lightest: #f0f5b8;
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
+
+/* Adjust H1 and H2 font sizes for mobile view only on the main page */
+@media (max-width: 768px) {
+  /* Target only the main page header and subtitle */
+  .hero__title {
+    font-size: 1.5rem; /* Adjust as needed */
+  }
+
+  .hero__subtitle {
+    font-size: 1.25rem; /* Adjust as needed */
+  }
+}
