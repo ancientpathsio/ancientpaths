@@ -49,7 +49,7 @@
 /* Donate button styling */
 .navbar__donate-button {
   background-color: var(--ifm-color-primary);
-  color: white;
+  color: gray;
   padding: 6px 12px;
   border-radius: 8px;
   font-weight: 600;
