@@ -34,6 +34,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
 
+/* Hide the 'Contact' link from the mobile navbar (under 768px) */
+@media (max-width: 768px) {
+  .navbar__item--contact {
+    display: none !important;
+  }
+}
+
 /* Adjust H1 and H2 font sizes for mobile view only on the main page */
 @media (max-width: 768px) {
   /* Target only the main page header and subtitle */
@@ -43,17 +50,5 @@
 
   .hero__subtitle {
     font-size: 1.25rem; /* Adjust as needed */
-  }
-
-  /* Show Contact link only on mobile */
-  .navbar .navbar__item--contact {
-    display: block;
-  }
-}
-
-/* Hide Contact link on larger screens */
-@media (min-width: 769px) {
-  .navbar .navbar__item--contact {
-    display: none;
   }
 }
