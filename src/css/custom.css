@@ -38,7 +38,7 @@
 @media (max-width: 768px) {
   /* Target only the main page header and subtitle */
   .hero__title {
-    font-size: 1.5rem; /* Adjust as needed */
+    font-size: 3rem; /* Adjust as needed */
   }
 
   .hero__subtitle {
