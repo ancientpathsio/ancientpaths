@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Dev', position: 'left'},
         ],
       },
       footer: {
@@ -101,7 +101,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Dev',
                 to: '/blog',
               },
             ],
