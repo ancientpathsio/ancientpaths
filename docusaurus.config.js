@@ -56,7 +56,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'study',
+          docId: 'index',
           position: 'left',
           label: 'Strategy Guide',
         },
