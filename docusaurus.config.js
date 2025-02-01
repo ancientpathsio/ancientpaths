@@ -56,9 +56,9 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'study-guide/study',  // Pointing to docs/study-guide/study.md
           position: 'left',
-          label: 'Strategy Guide',
+          label: 'Study Guide',  // Updated label to "Study Guide"
         },
         { to: '/blog', label: 'Dev_', position: 'left' },
         {
@@ -76,8 +76,8 @@ const config = {
           title: 'Docs',
           items: [
             {
-              label: 'Strategy Guide',
-              to: '/study-guide/study',
+              label: 'Study Guide',  // Updated label to "Study Guide"
+              to: '/docs/study-guide/study',  // Pointing to docs/study-guide/study.md
             },
           ],
         },
