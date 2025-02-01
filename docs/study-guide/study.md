@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Ancient Paths - Study Guide
+# Study Guide
 
-**Exercise 1: The Ancient Paths (Jeremiah 6:16)**
+## **Exercise 1: The Ancient Paths (Jeremiah 6:16)**
 
 **_Thus says the LORD:_**
 **_“Stand by the roads, and look,_**
