@@ -56,7 +56,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'study-guide/study',  // Pointing to docs/study-guide/study.md
+          docId: 'study',  // Pointing to docs/study-guide/study.md
           position: 'left',
           label: 'Study Guide',  // Updated label to "Study Guide"
         },
