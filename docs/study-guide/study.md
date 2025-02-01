@@ -7,15 +7,10 @@ sidebar_position: 1
 **EXERCISE 1: THE ANCIENT PATHS (JEREMIAH 6:16)**
 
 **_Thus says the LORD:_**
-
 **_“Stand by the roads, and look,_**
-
 **_and ask for the ancient paths,_**
-
 **_where the good way is; and walk in it,_**
-
 **_and find rest for your souls.”_**
-
 **_But they said, ‘We will not walk in it.’_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of was ancient during his time (630 BC). The paths were known by learned men.
@@ -278,15 +273,10 @@ Bonus: Journal WHEN (not if) you make a conscious decision to review verses rath
 ## **EXERCISE 8: FASTING**
 
 **_“Is not this the fast that I choose:_**
-
 **_to loose the bonds of wickedness,_**
-
 **_to undo the straps of the yok_**
-
 **_to let the oppressed go free,_**
-
 **_and to break every yoke?”_**
-
 **_\-Isaiah 58:6_**
 
 Loose the bonds of wickedness, undo, go free, and break every yoke……….in the entire conversation of recovery/killing lust, do you think we might be missing something that is prescribed by God?
@@ -574,6 +564,12 @@ reading, ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgH
 - You will be held accountable by your Time Zone Captains.
 
 See you at the dance.
+
+**_“But as for you, O man of God, flee these things._**
+**_Pursue righteousness, godliness, faith, love, steadfastness, gentleness._**
+**_Fight the good fight of the faith._**
+**_Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.”_**
+**_- 1 Timothy 6:11-12_**
 
 **RESOURCES**
 
