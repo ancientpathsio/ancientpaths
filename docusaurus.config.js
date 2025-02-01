@@ -77,7 +77,7 @@ const config = {
           items: [
             {
               label: 'Study Guide',  // Updated label to "Study Guide"
-              to: '/docs/study-guide/study',  // Pointing to docs/study-guide/study.md
+              to: '/docs/study',  // Pointing to docs/study-guide/study.md
             },
           ],
         },
