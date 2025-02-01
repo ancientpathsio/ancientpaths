@@ -83,3 +83,15 @@
 [data-theme='dark'] .navbar__donate-button:hover {
   border-color: var(--ifm-color-primary-lighter);
 }
+
+/* Adjust H1 and H2 font sizes for mobile view only on the main page */
+@media (max-width: 768px) {
+  /* Target only the main page header and subtitle */
+  .hero__title {
+    font-size: 2.5rem; /* Adjust as needed */
+  }
+
+  .hero__subtitle {
+    font-size: 1.25rem; /* Adjust as needed */
+  }
+}
