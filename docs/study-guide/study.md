@@ -72,7 +72,7 @@ Now, look to the left of “Useful Tools” at the bottom of this document, and 
 - “Praying the Bible” by Donald Whitney, will restructure your prayer life like you never thought possible. It is a game-changer. I get more comments from brothers about this book than any other resource. Is $10.00 worth it to you to have a vibrant transformative prayer life? If you can’t afford it, I’ll buy it for you. Yeah, it’s that good.
 - “The Mortification of Sin” by John Owen, gets down to the nitty-gritty and reveals what most sin-soaked men missed in their Christian education, largely because the churches fail to teach. This is a classic and being discipled by a pastor from the year 1536 is worth the price of admission. You can get this book FREE in the audio form online, but I highly recommend the hard cover as you will keep referring to it.
 
-## **SELF-EXAMINATION:**
+**SELF-EXAMINATION:**
 
 - Do I understand the Gospel?
 - Question 1 on both Catechisms: Describe how lust prevents your chief purpose from being realized.
