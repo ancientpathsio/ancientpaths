@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Study Guide
 
-## **Exercise 1: The Ancient Paths (Jeremiah 6:16)**
+## **Exercise 1: The Ancient Paths**
 
 **_Thus says the LORD:_**
 **_“Stand by the roads, and look,_**
@@ -12,6 +12,7 @@ sidebar_position: 1
 **_where the good way is; and walk in it,_**
 **_and find rest for your souls.”_**
 **_But they said, ‘We will not walk in it.’_**
+**_- Jeremiah 6:16_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of was ancient during his time (630 BC). The paths were known by learned men.
 
