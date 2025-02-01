@@ -222,8 +222,7 @@ These short videos combine great theology and application.
 - [If You Don't Pray, You Won't Live - John Piper (12mins 21 secs)](https://www.youtube.com/watch?v=QJ9sfxMv3qE&t=7s)
 - [A Theology of Prayer in 3 Minutes - John Piper](https://www.youtube.com/watch?v=OssBHX5rSiE&t=4s)
 - [Teach us to Pray - John Piper (4min 12 secs)](https://www.youtube.com/watch?v=V-_lmGR9EdE&t=14s)
-
-[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
+- [Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
 
 **TALK TO YOUR SILAS:**
 
@@ -241,7 +240,7 @@ In fact, if you memorized just the verses dealing with sexual immorality in Ephe
 
 Please understand two major points concerning this discipline:
 
-- 1. God needs to pressure wash your soul from all of the garbage you invited in, and ingested. I say “pressure wash” because it is objectively understood by everyone in the physical world, that some states of dirtiness or so thoroughly deep, that a regular garden hose and dish detergent isn’t going to get the job done. That garbage isn’t limited to pornographic images. Bad theology. Worldly wisdom. Outright rebellion. Horrendous sermons that you preached to your soul, like “I am worthless,” or “I am beyond God’s love,” or “The Bible doesn’t have all the answers I need.” or “I tried praying and reading the Bible and it hasn’t worked.” All of these issues require pressure washing multiple times. Not coincidentally, God has chosen to “wash” his people and transform/sanctify them by his Word.
+- God needs to pressure wash your soul from all of the garbage you invited in, and ingested. I say “pressure wash” because it is objectively understood by everyone in the physical world, that some states of dirtiness or so thoroughly deep, that a regular garden hose and dish detergent isn’t going to get the job done. That garbage isn’t limited to pornographic images. Bad theology. Worldly wisdom. Outright rebellion. Horrendous sermons that you preached to your soul, like “I am worthless,” or “I am beyond God’s love,” or “The Bible doesn’t have all the answers I need.” or “I tried praying and reading the Bible and it hasn’t worked.” All of these issues require pressure washing multiple times. Not coincidentally, God has chosen to “wash” his people and transform/sanctify them by his Word.
 - “wash” “washed” and “washing” in the New Testament: 1 Cor 6:11; Heb 10:22; Eph 5:26; Tit 3:5
 - “transform” and “transformed” in the New Testament: Rom 12:2; 2 Cor 3:18
 - “sanctify” and “sanctifying” in the New Testament: John 17:17; Eph 5:26 (again); John 17:19; Acts 20:32; Heb 10:14
@@ -368,7 +367,7 @@ John Piper has several videos addressing this, and I’ll provide them below. Ha
 - your wife needs to see commitment rather than hearing you talk about it (that includes the spiritual disciplines mentioned in these exercises)
 - your wife needs to see transformation (you cannot remain the same person-- and that only comes from God through the spiritual disciplines)
 - you must accept you cannot force your wife to remain in the marriage: nonetheless, that should have zero bearing on your seriousness to abandon a shallow relationship with Christ, and press in on cultivating a love for Christ
-- if journaling scares you because of privacy issues, have a straight-forward conversation with you wife and establish boundaries allowing you to work through your sin with God, in private
+- if journaling scares you because of privacy issues, have a straight-forward conversation with your wife and establish boundaries allowing you to work through your sin with God, in private
 - having your wife as an ally monitoring your internet/cell usage is generally a bad idea; more accountability with other men is usually a better option because you need to develop walking in the light by encouragement from other men-- not breaking your wife’s heart and discouraging her, even though you are on the right path
 
 I hope these videos from John Piper help orient you and your wife towards a life-long pursuit of Christ:
@@ -390,14 +389,11 @@ I hope these videos from John Piper help orient you and your wife towards a life
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
 **Ephesians 5:3-7**
-
 **Hebrews 10:26-31**
 
 It isn’t profitable to whistle past the graveyard, nor for me to exhort anyone on the Ancient Paths, while skipping over an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what is means, along with its ugly sister, legalism. The church has largely ignored it-- to its peril. In Exercise #1 tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, “The Whole Christ.”
 
-It isn’t profitable to whistle past the graveyard, nor for me to exhort anyone on the Ancient Paths, while
-
-skipping over an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what is means, along with its ugly sister, legalism. The church has largely ignored it-- to its peril. In Exercise #1 tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, “_The Whole Christ._”
+It isn’t profitable to whistle past the graveyard, nor for me to exhort anyone on the Ancient Paths, while skipping over an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what is means, along with its ugly sister, legalism. The church has largely ignored it-- to its peril. In Exercise #1 tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, “_The Whole Christ._”
 
 What does legalism and antinomianism have to do with the above passages? Both theological camps short-circuit repentance, and by doing so, causes a poor understanding of the Gospel and how to harmonize the doctrines of Justification and Sanctification. Here is how both are deadly poisonous:
 
