@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Ancient Paths Exercise 1
+# Ancient Paths - Study Guide
 
-**EXERCISE 1: THE ANCIENT PATHS (JEREMIAH 6:16)**
+**Exercise 1: The Ancient Paths (Jeremiah 6:16)**
 
 **_Thus says the LORD:_**
 **_“Stand by the roads, and look,_**
@@ -79,7 +79,7 @@ Now, look to the left of “Useful Tools” at the bottom of this document, and 
 - How can your Silas (or another Christian brother) keep you accountable on this path?
 - What does fleeing sexual immorality look from a practical day-to-day standpoint?
 
-## **EXERCISE 2: GODLINESS THROUGH DISCIPLINE**
+## **Exercise 2: Godliness Through Discipline**
 
 As soon as I read the pamphlet “[Godliness Through Discipline](https://www.christianbook.com/godliness-through-discipline-jay-adams/9780875520216/pd/5520219?utm_source=bing&kw=1241348712202415&mt=b&dv=c&event=PPCSRC&p=1215904&msclkid=fd138c685bfd15374a59e807582b88c5&utm_source=bing&utm_medium=cpc&utm_campaign=Dynamic%20Search%20Ads&utm_term=%2Fpd%2F&utm_content=DSA%20detail%20pages)” from the father of the modern biblical counseling movement, Dr. Jay E Adams, I knew I had to include this early in the Ancient Paths curriculum. Why? Because it addresses an issue so many men face: the elusiveness of change and their frustration when it seems no change is happening.
 
@@ -110,7 +110,7 @@ Now it’s your turn to respond.
 
 You either fight, or you go quietly in the night.
 
-## **EXERCISE 3: REPENTANCE VERSES RECOVERY**
+## **Exercise 3: Repentance Verses Recovery**
 
 There is a lot of shallow teaching on repentance. Many churches focus their entire ministry on the doctrine of justification (salvation) and do little work on the doctrine of sanctification/transformation. Ironically, sanctification should be where the believer should focus the remainder of his time on earth after coming to Christ. Justification is a one-time event. Sanctification is the rest of your life prior to the final progression of salvation, which is glorification.
 
@@ -138,7 +138,7 @@ In addition to RC SprouI, I also recommend anything Tim Conway or Paul Washer do
 - What part of these resources on repentance impacted you the most?
 - What is your next step, and how will accountability be built in?
 
-## **EXERCISE 4: GET IN THE WORD – SELECT A BIBLE READING PLAN**
+## **Exercise 4: Get In The Word – Select A Bible Reading Plan**
 
 Exercise #1 gave us the introduction to the Ancient Paths. Exercises #2 and #3 gave us a foundation on two of the main issues in which men get wrong from the start in the sanctification process. Exercise #4 provides us the first spiritual discipline that will be the foundational for the rest of your life.
 
@@ -190,7 +190,7 @@ Here are some others:
 
 - Will you continue this year to seek your own glory by fighting lust by your own plans and schemes, or will God get the glory by feeding off of His Word and changing you from the inside out?
 
-## **EXERCISE 5: BIBLE STUDY/JOURNALING**
+## **Exercise 5: Bible Study/Journaling**
 
 Now we put on the big-boy pants. I hope you notice a trend in all the exercises in Ancient Paths. Namely, STRUCTURE. Holy structure. The sexually immoral live the antithesis of structure in their life: it’s selfish, chaotic, unstructured, and rebellious living. It fractures structured areas of our life. Anyone lose a marriage? Relationships? Employment? Ministry opportunities? Is it possible that true repentance and healing comes from Jesus remaking (sanctifying) you with biblical structure, found in the spiritual disciplines he designed?
 
@@ -206,7 +206,7 @@ Matt also did this teaching for [crosswalk.com,](http://crosswalk.com/) it is fo
 - How are you going to fence this time off from all distractions?
 - How will you build in accountability so that this “task” leads to permanent structure in your life as you commune with the Lord?
 
-## **EXERCISE 6: PRAYER**
+## **Exercise 6: Prayer**
 
 _“Encouraged by my Silas and others, I develop the daily disciplines of PRAYER……”_
 
@@ -223,7 +223,7 @@ These short videos combine great theology and application.
 
 - After you get the hang of the technique, compare your evolving new prayer life to what existed before.
 
-## **EXERCISE 7: SCRIPTURE MEMORIZATION**
+## **Exercise 7: Scripture Memorization**
 
 **_“I have stored up your word in my heart, that I might not sin against you.” Psalm 119:11_**
 
@@ -270,7 +270,7 @@ I still use spiraled 3x5 index cards, but I’m not going to lie….I like the f
 
 Bonus: Journal WHEN (not if) you make a conscious decision to review verses rather than seek porn. It’s going to happen if you stay on this path.
 
-## **EXERCISE 8: FASTING**
+## **Exercise 8: Fasting**
 
 **_“Is not this the fast that I choose:_**
 **_to loose the bonds of wickedness,_**
@@ -321,7 +321,7 @@ Pointers on fasting:
 - To date, What has been my attitude concerning fasting?
 - How will I add fasting to my worship to demonstrate dependence on God to loose the bands of wickedness?
 
-## **EXERCISE 9: MEMORIZE A GOOD HYMN**
+## **Exercise 9: Memorize A Good Hymn**
 
 This is one of my favorites, and those that know my story can understand why. Brothers, when facing temptation or experiencing the “dip” in faith that precedes a choice to obey Christ, or give into lust: A theologically rich hymn cuts through temptation like a hot knife through butter. There is biblical precedent in this part of spiritual warfare, and in the life of God in the broader sense. It’s as ancient as the ancient paths we seek to walk in.
 
@@ -340,7 +340,7 @@ What separated Cain from Able in Genesis 4? Fundamentally, a heart for worshipin
 
 [Theologically Rich Christian Music Playlist](https://www.youtube.com/watch?v=sk7qj4OGX1k)
 
-## **EXERCISE 10: HELP! MY MARRIAGE IS ON THE BRINK BECAUSE OF SEXUAL IMOORALITY!**
+## **Exercise 10: Help! My Marriage Is On The Brink Because Of Sexual Immorality!**
 
 This is a recurring topic I’m sure many have faced. It is one of the toughest topic because the trajectory of the marriage has as much to do with the wife’s spiritual formation as the husband. There are two forces at work here:
 
@@ -374,7 +374,7 @@ I hope these videos from John Piper help orient you and your wife towards a life
 - What things must be re-ordered, added, or cut from my life to show my wife my new approach is serious about restoring my marriage to biblical standards?
 - How will I build accountability to ensure this path isn’t only aspirational, but becomes objectively real?
 
-## **EXERCISE 11: THE 800LB GORILLA IN THE ROOM**
+## **Exercise 11: The 800lb Gorilla In The Room**
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
@@ -434,7 +434,7 @@ FINALLY: The last part of the 800lb gorilla we need to address-- one of the by-p
 - What is the functional difference between listening to messages to help you escape the snare of lust, and discipleship?
 - Is my fear of God honest, clean, and active in my heart?
 
-## **EXERCISE 12: HOW DO I KILL SECRET SIN?**
+## **Exercise 12: How Do I Kill Secret Sin?**
 
 Follow along with John MacArthur on this exceptionally important topic. He gets to the “how to” toward the latter part of the message: ["How to Kill Secret Sin"](https://www.youtube.com/watch?v=mQkkwzCaddc)
 
@@ -455,7 +455,7 @@ A couple more resources:
 
 - Make a list of secret sins, and ask your Silas to pray with you, asking God for forgiveness — this will bring everything into the light. Remember, we tell the truth about ourselves and our brothers are just as broken.
 
-## **EXERCISE 13: ADVANCED SCRIPTURE MEMORIZATION**
+## **Exercise 13: Advanced Scripture Memorization**
 
 In exercise #5 the importance and basic theology for Scripture memorization was discussed. Now we press in on the aspect of “washing” and turn it into its own exercise. I see so many men in Samson come into the Samson Society channel on the Bible Memory app, do a few verses, and then……nothing more. Scripture memorization wasn’t an established discipline as part of their lives, and so when the lust didn’t stop on a dime with a handful of verses, they quit.
 
