@@ -6,11 +6,10 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
-<div style={{ textAlign: "center" }}>
-  <p><strong>Exercise 1: The Ancient Paths</strong></p>
+<div style={{ textAlign: "left" }}>
+  <p><strong>Listen to this exercise:</strong></p>
   <audio controls>
     <source src="/audio/sample.mp3" type="audio/mpeg" />
-    Your browser does not support the audio element.
   </audio>
 </div>
 
