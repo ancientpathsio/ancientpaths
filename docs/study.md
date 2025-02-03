@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Study Guide
+# Guidebook
 
 ## **Exercise 1: The Ancient Paths**
 
