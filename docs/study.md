@@ -11,7 +11,7 @@ sidebar_position: 1
 <div style={{ textAlign: "left" }}>
   <p><strong>Listen to this exercise:</strong></p>
   <audio controls>
-    <source src="./sample.wav" type="audio/wav" />
+    <source src="../static/audio/sample.wav" type="audio/wav" />
   </audio>
 </div>
 
