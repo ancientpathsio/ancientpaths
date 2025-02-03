@@ -9,9 +9,8 @@ sidebar_position: 1
 ## **Exercise 1: The Ancient Paths**
 
 <div style={{ textAlign: "left" }}>
-  <p><strong>Listen to this exercise:</strong></p>
   <audio controls>
-    <source src="../static/audio/sample.wav" type="audio/wav" />
+    <source src="/audio/sample.wav" type="audio/wav" />
   </audio>
 </div>
 
