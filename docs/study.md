@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
-## **Exercise 1: The Ancient Paths**
+## Exercise 1: The Ancient Paths
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
