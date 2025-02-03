@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # The Guidebook
 
-![Alt text](/static/img/warrior.png)
+![Alt text](../static/img/warrior.png)
 
 ## **Exercise 1: The Ancient Paths**
 
