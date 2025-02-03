@@ -7,7 +7,7 @@ sidebar_position: 1
 ![Alt text](../static/img/warrior.png)
 
 <audio controls>
-  <source src="../audio/sample.mp3" type="audio/mpeg">
+  <source src="../audio/sample.mp3" type="audio/mpeg" />
 </audio>
 
 ## **Exercise 1: The Ancient Paths**
