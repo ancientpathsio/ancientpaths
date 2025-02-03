@@ -6,14 +6,13 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
+## **Exercise 1: The Ancient Paths**
+
 <div style={{ textAlign: "left" }}>
-  <p><strong>Listen to this exercise:</strong></p>
   <audio controls>
-    <source src="/audio/sample.mp3" type="audio/mpeg" />
+    <source src="../audio/sample.mp3" type="audio/mpeg" />
   </audio>
 </div>
-
-## **Exercise 1: The Ancient Paths**
 
 **_Thus says the LORD:_**
 **_“Stand by the roads, and look,_**
