@@ -11,7 +11,7 @@ We’re excited to announce the launch of **AncientPaths.io**! This platform is 
 
 ## Introducing The Guidebook  
 
-![The Guidebook](../static/img/warrior.png)  
+![The Guidebook](/img/warrior.png)  
 
 The **Ancient Paths Guidebook** is a theologically rich and practical manual of exercises designed to help you navigate sexual purity and integrity with honor in the present age.  
 
