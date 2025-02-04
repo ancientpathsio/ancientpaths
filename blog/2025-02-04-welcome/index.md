@@ -1,13 +1,13 @@
 ---
 slug: dev-update-1
-title: Dev_ — Site Launch & The Guidebook
+title: Dev_ (Blog)
 authors: [jason]
 tags: [ancientpaths, guidebook, site-launch, updates]
 ---
 
 # Welcome to AncientPaths.io  
 
-We’re excited to announce the launch of **AncientPaths.io**! This platform is dedicated to providing theological resources and practical tools to help individuals grow in integrity, faith, and wisdom.  
+We’re excited to announce the launch of **AncientPaths.io**! This platform is dedicated to providing theological resources and practical tools to help individuals grow in purity, integrity, and honor.  
 
 ## Introducing The Guidebook  
 
