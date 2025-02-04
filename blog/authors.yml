@@ -2,4 +2,4 @@ jason:
   name: Jason (Admin)
   title: Brother
   url: https://www.ancientpaths.io/
-  image_url: https://github.com/ancientpathsio/ancientpaths/blob/main/static/img/lion.png
+  image_url: "/img/lion.png"
