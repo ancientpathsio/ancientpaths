@@ -15,6 +15,6 @@ We’re excited to announce the launch of **AncientPaths**! This community is de
 
 [![Guidebook](https://img.shields.io/badge/📖-Download-blue)](https://www.ancientpaths.io/docs/study)
 
-**The Guidebook** is a theologically rich and practical manual of exercises designed to help you navigate sexual purity with Biblical virtues in the present age. 
+[**The Guidebook**](https://www.ancientpaths.io/docs/study) is a theologically rich and practical manual of exercises designed to help you navigate sexual purity with Biblical virtues in the present age. 
 
 🧭 Stay tuned for more updates as we continue to develop and expand AncientPaths.io!  
