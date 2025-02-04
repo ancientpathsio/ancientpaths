@@ -1,25 +1,20 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: dev-update-1
+title: Dev_ — Site Launch & The Guidebook
+authors: [jason]
+tags: [ancientpaths, guidebook, site-launch, updates]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+# Welcome to AncientPaths.io  
 
-Simply add Markdown files (or folders) to the `blog` directory.
+We’re excited to announce the launch of **AncientPaths.io**! This platform is dedicated to providing theological resources and practical tools to help individuals grow in integrity, faith, and wisdom.  
 
-Regular blog authors can be added to `authors.yml`.
+## Introducing The Guidebook  
 
-The blog post date can be extracted from filenames, such as:
+![The Guidebook](../static/img/warrior.png)  
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+The **Ancient Paths Guidebook** is a theologically rich and practical manual of exercises designed to help you navigate sexual purity and integrity with honor in the present age.  
 
-A blog post folder can be convenient to co-locate blog post images:
+📖 Start exploring the Guidebook here: [The Guidebook](https://www.ancientpaths.io/docs/study)  
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Stay tuned for more updates as we continue to develop and expand AncientPaths.io!  
