@@ -12,7 +12,7 @@ description: Support our community with a donation
 💸 **CashApp:** [Donate via CashApp](https://cash.me/$ancientpathsio)
 💳 **PayPal:** [Donate via PayPal](https://paypal.me/ancientpathsio)
 🪙 **BTC:** [Send Crypto](https://btc.com/ancientpathsio)
-📬 **Check/Money Order:** [Check/Money Order](mailto:ancientpathsio@gmail.com)
+📬 **Check/Money Order:** [Contact](mailto:ancientpathsio@gmail.com)
 
 Your generosity makes a difference! Thank you for supporting our community. 🙌
 
