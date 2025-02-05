@@ -14,7 +14,7 @@ We do not entertain psychology, or any other worldly idea. All answers come from
 
 [**The Guidebook**](https://www.ancientpaths.io/docs/guidebook) is a theologically rich and practical manual of exercises designed to help you navigate sexual purity with Biblical virtues in the present age.
 
-[![Guidebook](https://img.shields.io/badge/📖-Download-blue)](https://www.ancientpaths.io/docs/study)
+[![Guidebook](https://img.shields.io/badge/📖-Download-blue)](https://www.ancientpaths.io/docs/guidebook)
 
 ```text
       _,.
