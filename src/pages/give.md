@@ -17,5 +17,5 @@ Your generosity makes a difference! Thank you for supporting our community. 🙌
 
 ![Scales](/img/scales2.png)
 
-**_"Honest scales and balances belong to the LORD;<br>
+**_"Honest scales and balances belong to the LORD;<br />
 all the weights in the bag are of his making."_ - Proverbs 16:11**
