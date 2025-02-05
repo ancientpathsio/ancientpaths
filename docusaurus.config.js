@@ -79,6 +79,10 @@ const config = {
               label: 'Guidebook',  // Updated label to "Guidebook"
               to: '/docs/guidebook',  // Pointing to docs/guidebook.md
             },
+            {
+              label: 'Dev_',  // Updated label to "Guidebook"
+              to: '/blog',  // Pointing to docs/guidebook.md
+            },
           ],
         },
         {
@@ -91,20 +95,11 @@ const config = {
           ],
         },
         {
-          title: 'Support',
-          items: [
-            {
-              label: 'Donate',
-              href: '/give',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
-              label: 'Dev_',
-              to: '/blog',
+              label: 'Donate',
+              to: '/give/',
             },
             {
               label: 'Contact',
