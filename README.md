@@ -16,7 +16,7 @@ We do not entertain psychology, or any other worldly idea. All answers come from
 
 [![Guidebook](https://img.shields.io/badge/📖-Download-blue)](https://www.ancientpaths.io/docs/study)
 
-```shell
+```text
       _,.
     ,` -.)
    ( _/-\\-._
