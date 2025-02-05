@@ -56,7 +56,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'study',  // Pointing to docs/study.md
+          docId: 'guidebook',  // Pointing to docs/guidebook.md
           position: 'left',
           label: 'Guidebook',  // Updated label to "Guidebook"
         },
@@ -77,7 +77,7 @@ const config = {
           items: [
             {
               label: 'Guidebook',  // Updated label to "Guidebook"
-              to: '/docs/study',  // Pointing to docs/study.md
+              to: '/docs/guidebook',  // Pointing to docs/guidebook.md
             },
           ],
         },
