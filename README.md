@@ -5,6 +5,7 @@ The [Ancient Paths](https://ancientpaths.io) is the biblically-based, God-ordain
 ## Purpose/Beliefs
 
 We recognize much of the universal church as forgotten how to teach and demonstrate this vital part of following Christ, exchanging the concept of rival in the heart of sinful man, to revivalism that presupposes a man-centered and man-orchestrated revival. Colonial pastors observed, understood, and preached about this phenomenon before the United States and Canada were sovereign nations. The rotten fruit of that philosophy is currently in full-bloom in the church, and is why the church has lost its voice towards its outreach with the Gospel.
+
 We do not entertain psychology, or any other worldly idea. All answers come from Scripture, as accepted by the Reformers and Early Church to be the 66 books and letters that comprise the library of the Holy Bible.
 
 [![Discord](https://img.shields.io/badge/🔘-Join%20Discord-Blue)](https://discord.gg/xk6qxyZSkx)
