@@ -5,7 +5,7 @@ description: Support our community with a donation
 
 # Support Our Project
 
-![The Guidebook](/img/scales.png)
+![The Guidebook](/img/scales2.png)
 
 We appreciate the support! Your contributions help continue the development and maturity of faithful sons.
 
