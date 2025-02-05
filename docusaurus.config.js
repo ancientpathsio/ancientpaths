@@ -63,7 +63,7 @@ const config = {
         { to: '/blog', label: 'Dev_', position: 'left' },
         {
           label: 'Donate',
-          href: '/give',
+          href: 'https://ancientpaths.io/give',
           position: 'right',
           className: 'navbar__item--donate',
         },
