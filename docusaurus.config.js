@@ -91,6 +91,15 @@ const config = {
           ],
         },
         {
+          title: 'Support',
+          items: [
+            {
+              label: 'Donate',
+              href: '/give',
+            },
+          ],
+        },
+        {
           title: 'More',
           items: [
             {
