@@ -63,7 +63,7 @@ const config = {
         { to: '/blog', label: 'Dev_', position: 'left' },
         {
           label: 'Donate',
-          href: 'https://your-donation-page.com',
+          href: '/giving/give.md',
           position: 'right',
           className: 'navbar__item--donate',
         },
