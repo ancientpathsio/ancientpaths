@@ -7,8 +7,6 @@ description: Support our community with a donation
 
 [AncientPaths](https://www.ancientpaths.io/) exists to provide men with a pathway to sexual purity and hope found in Christ. Your contributions help continue the development and maturity of faithful sons.
 
-![The Guidebook](/img/scales2.png)
-
 ## How to Donate
 
 💸 **CashApp:** [Donate via CashApp](https://cash.me/$ancientpathsio)
@@ -16,3 +14,7 @@ description: Support our community with a donation
 🪙 **BTC:** [Send Crypto](https://btc.com/ancientpathsio)
 
 Your generosity makes a difference! Thank you for supporting our community. 🙌
+
+![The Guidebook](/img/scales2.png)
+
+**_"Honest scales and balances belong to the LORD; all the weights in the bag are of his making."_ - Proverbs 16:11**
