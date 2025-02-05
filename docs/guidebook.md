@@ -14,12 +14,12 @@ sidebar_position: 1
   </audio>
 </div>
 
-**_Thus says the LORD:_**
-**_“Stand by the roads, and look,_**
-**_and ask for the ancient paths,_**
-**_where the good way is; and walk in it,_**
-**_and find rest for your souls.”_**
-**_But they said, ‘We will not walk in it.’_**
+**_Thus says the LORD:_**<br />
+**_“Stand by the roads, and look,_**<br />
+**_and ask for the ancient paths,_**<br />
+**_where the good way is; and walk in it,_**<br />
+**_and find rest for your souls.”_**<br />
+**_But they said, ‘We will not walk in it.’_**<br />
 **_- Jeremiah 6:16_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of was ancient during his time (630 BC). The paths were known by learned men.
