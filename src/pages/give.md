@@ -9,10 +9,10 @@ description: Support our community with a donation
 
 ## How to Donate
 
-💸 **CashApp:** [Donate via CashApp](https://cash.me/$ancientpathsio)
-💳 **PayPal:** [Donate via PayPal](https://paypal.me/ancientpathsio)
-🪙 **BTC:** [Send Crypto](https://btc.com/ancientpathsio)
-📬 **Check/Money Order:** [Contact](mailto:ancientpathsio@gmail.com)
+💸 **CashApp:** [Donate](https://cash.me/$ancientpathsio)
+💳 **PayPal:** [Donate](https://paypal.me/ancientpathsio)
+🪙 **BTC:** [Send Crypto](https://btc.com/ancientpathsio)<br />
+📬 **Check/Money Order:** [Email for Address](mailto:ancientpathsio@gmail.com)
 
 Your generosity makes a difference! Thank you for supporting our community. 🙌
 
