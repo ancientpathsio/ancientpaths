@@ -58,7 +58,7 @@ const config = {
           type: 'doc',
           docId: 'guidebook',  // Pointing to docs/guidebook.md
           position: 'left',
-          label: 'The Guidebook',  // Updated label to "Guidebook"
+          label: 'Guidebook',  // Updated label to "Guidebook"
         },
         { to: '/blog', label: 'Dev_', position: 'left' },
         {
