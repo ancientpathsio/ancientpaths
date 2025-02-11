@@ -97,18 +97,12 @@ const config = {
               label: 'Discord',
               href: 'https://discord.gg/xk6qxyZSkx',
             },
-          ],
-        },
-        {
-          title: 'Store',
-          items: [
             {
               label: 'Store',
               href: 'https://www.bonfire.com/store/ancientpaths/',
             },
           ],
         },
-
         {
           title: 'More',
           items: [
