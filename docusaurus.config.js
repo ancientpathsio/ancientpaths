@@ -60,12 +60,12 @@ const config = {
           position: 'left',
           label: 'Guidebook',  // Updated label to "Guidebook"
         },
+        { to: '/blog', label: 'Dev_', position: 'left' },
         {
           label: 'Store',
           href: 'https://www.bonfire.com/store/ancientpaths/',
           position: 'left',
         },
-        { to: '/blog', label: 'Dev_', position: 'left' },
         {
           label: 'Donate',
           href: '/give',
