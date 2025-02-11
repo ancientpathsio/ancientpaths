@@ -10,8 +10,8 @@ description: Support our community with a donation
 ## How to Donate
 
 💸 **CashApp:** [Donate](https://cash.me/$ancientpathsio)
-💳 **PayPal:** [Donate](https://paypal.me/ancientpathsio)
-🪙 **BTC:** [Send Crypto](https://btc.com/ancientpathsio)
+💳 **PayPal:** [Donate](https://www.paypal.com/ncp/payment/5UEDTRTKWPZVC)
+🪙 **BTC:** [Send Crypto](https://cash.app/$jaderamo)
 📬 **Check/Money Order:** [Email for Address](mailto:ancientpathsio@gmail.com)
 
 Your generosity makes a difference! Thank you for supporting our community. 🙌
