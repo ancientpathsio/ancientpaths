@@ -60,7 +60,7 @@ const config = {
           //position: 'left',
           //label: 'Guidebook',  // Updated label to "Guidebook"
         //},
-        { to: 'https://imaginary-direction-38c.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
+        { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
           label: 'Store',
           href: 'https://www.bonfire.com/store/ancientpaths/',
@@ -86,7 +86,7 @@ const config = {
             //},
             {
               label: 'Dev_',  // Updated label to "Guidebook"
-              to: 'https://imaginary-direction-38c.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
+              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
             },
           ],
         },
