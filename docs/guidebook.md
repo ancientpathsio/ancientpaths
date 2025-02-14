@@ -520,7 +520,11 @@ a. Select your verses to construct the det cord.
         3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
         4.  Pick your favorite verse on worship, rejoicing, glorifying God
 
-**Tip:** This works for any sin or area in your life you need to overcome—start with the Resurrection, then chain biblical truth until it reaches thanksgiving, rejoicing, worship.
+:::Tip
+
+**Fact:** This works for any sin or area in your life you need to overcome—start with the Resurrection, then chain biblical truth until it reaches thanksgiving, rejoicing, worship.
+
+:::
 
 You MUST know these verses forwards and backwards—no fumbling or stumbling. Why? **Because the arousal template you have fallen so often has established a pattern in your heart and mind.** _Now you are “putting off the old man and putting on the new man”_ (Eph 4:22-24) and “_taking every thought captive to obey Christ”_ (2 Cor 10:4-5) at the same time by _“preparing your mind for action”_ (1 Pe 1:13-14).
 
