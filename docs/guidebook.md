@@ -516,7 +516,11 @@ Gentlemen: Remember to journal those days when you feel compelled to review vers
 
 The idea is to chain Godly thoughts together by way of Scripture, and to do so rapidly. You should know these verses so well that you can rapidly recite them. If you are fumbling with verses, you need more repetition. Use this technique to blow up the [Arousal Template](https://puredesire.org/wp-content/uploads/2020/09/RELAPSE-PREVENTION-EXERCISE.pdf) when you are tempted ([listen to the podcast](https://puredesire.org/podcast/arousal-template/) for more insights)
 
-**Remember this: EVERY sinful thought requires a response. You must repudiate each thought with Scripture and bring it captive to obey Jesus Christ 2 Cor 10:4-5.** _John Piper says you have about 5 seconds to do so; you cannot be fumbling around for a set of verses_. You know what I am talking about.
+:::tip
+
+**Remember this:** EVERY sinful thought requires a response. You must repudiate each thought with Scripture and bring it captive to obey Jesus Christ 2 Cor 10:4-5. _John Piper says you have about 5 seconds to do so; you cannot be fumbling around for a set of verses_. You know what I am talking about.
+
+:::
 
 *Here is how it works:*
 
@@ -533,7 +537,11 @@ a. Select your verses to construct the det cord.
 
 :::
 
-You MUST know these verses forwards and backwards—no fumbling or stumbling. Why? **Because the arousal template you have fallen so often has established a pattern in your heart and mind.** _Now you are “putting off the old man and putting on the new man”_ (Eph 4:22-24) and “_taking every thought captive to obey Christ”_ (2 Cor 10:4-5) at the same time by _“preparing your mind for action”_ (1 Pe 1:13-14).
+You MUST know these verses forwards and backwards—no fumbling or stumbling. Why?
+
+**Because the arousal template you have fallen so often has established a pattern in your heart and mind.**
+
+_Now you are “putting off the old man and putting on the new man”_ (Eph 4:22-24) and “_taking every thought captive to obey Christ”_ (2 Cor 10:4-5) at the same time by _“preparing your mind for action”_ (1 Pe 1:13-14).
 
 1. Here is an example:
     1. The Resurrection: John 11:25 _“Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live”_ (notice that this verse also contains an implication- but I’ll choose another to have two implications)
