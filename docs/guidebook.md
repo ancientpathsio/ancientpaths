@@ -671,8 +671,6 @@ Here is how it works:
 
 ## **Copyright/Credit**
 
-![Alt text](../static/img/logo.svg)
-
 **AncientPaths.io©** 2025. ALL RIGHTS RESERVED.
 
 The ESV® Bible (*The Holy Bible*, English Standard Version®) copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. ESV Text Edition: 2016. The ESV® text has been reproduced in cooperation with and by permission of Good News Publishers. Unauthorized reproduction of this publication is prohibited. All rights reserved.
@@ -684,9 +682,11 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 **Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 Attribution given to [Michael Durham](https://theancientpaths.org/)
 
-**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx)![Discord](../static/img/discord.svg)
+**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)
 **Website**: [www.ancientpaths.io](https://ancientpaths.io)
 
 **AncientPaths** exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. This is a community-funded organization. Contributions help to continue their development into maturity as faithful sons of God.
 
 **Special thanks**: Julian G, Brett H, Damian J, Seth W, & Noble LM ([@MissionIsAgape](https://linktr.ee/missionisagape))
+
+![Alt text](../static/img/logo.svg)
