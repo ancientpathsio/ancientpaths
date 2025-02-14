@@ -465,7 +465,7 @@ Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this 
 
 :::tip
 
-Did you notice how each point corresponds to at least one Ancient Paths Exercise?
+Did you notice how each point corresponds to at least one Ancient Paths Exercise? Examine these Scriptures as you complete each exercise. It may take a few cycles to engrain these truths deeper within. See [40-Day challenge](#instructions-for-the-40-day-challenge-destiny) below for more details.
 
 :::
 
