@@ -56,8 +56,13 @@ With that in mind, there are four things to keep in mind on the Ancient Paths:
 1. Your heart attitude towards Christ and his Scriptures will be the determining factor of whether or not you are victorious over lust. This is above all other factors, strategies, tools, or techniques. If you are failing, press in on this point.
 2. The Ancient Paths should develop holy structure and replaces unholy structure (or lack of any structure) in your life.
 3. Guard against partaking in religious exercise for the sole purpose of getting rid of sexual immorality. Fighting sin is holy, yes. But if your heart attitude is rooted in wanting to get on with life after ditching your lack of sexual control and its consequences, then you missed point 1: **The proper worship of God made possible by Christ, as revealed through Scripture.** Christ has zero interest remaining as an adjunct part of your life. He has to be the center. The majority of Christian counselors and para-church ministries, almost exclusively focus on dealing with sexual sin (the presenting problem), while ignoring the root problem: _the heart attitude towards Christ and Scripture_ (point 1). Brothers express anger and frustration because lust doesn’t immediately go away. Remember, you are on an Ancient Path to worship God because of revelation to you. Do your work while he does his.
-4. We must become masters as fleeing sexual immorality. **Did you know sexual immorality is the only sin in which we are commanded to flee from?** 1 Cor 6:18 is a great memory verse, sure; but it also establishes we must perfect the art of fleeing. Press in on it. Fleeing takes on many forms: what does it mean to you?
-5. [Antinomianism](https://www.gotquestions.org/antinomianism.html) in the church is largely responsible for how many of us got here, so guard against it. Don’t know what that means? I have some tools for you.
+4. We must become masters as fleeing sexual immorality.
+   :::tip Did you know
+
+   **Sexual immorality is the only sin in which we are commanded to flee from?** 1 Cor 6:18 is a great memory verse, sure; but it also establishes we must perfect the art of fleeing. Press in on it. Fleeing takes on many forms: what does it mean to you?
+
+   :::
+6. [Antinomianism](https://www.gotquestions.org/antinomianism.html) in the church is largely responsible for how many of us got here, so guard against it. Don’t know what that means? I have some tools for you.
 
 To prepare you for this journey, Exercise 1 introduces tools. They are good tools, but not the only tools. They are found at the top of the page, under “Useful Tools.” I gathered these tools from learned men—and you certainly may have some of your own.
 
@@ -67,7 +72,7 @@ What is a [catechism](https://www.thegospelcoalition.org/article/should-know-cat
 
 :::note Did you know
 
-**It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
+It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
 
 :::
 
