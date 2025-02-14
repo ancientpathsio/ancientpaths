@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
-## **Introduction: The Origin**
+## Introduction: The Origin
 
 The Ancient Paths is the biblically based, God-ordained path to walk in repentance by disciplining ourselves in a true discipleship process that starts with developing spiritual discipline and approaching God in faith that he will transform us; thereby killing off the desire to continually walk in sin.
 
@@ -20,7 +20,7 @@ After the initial Destiny has concluded, they are eligible to continue through [
 
 The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (1) unwilling to separate from the world and (2) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
 
-### **Copyright/Credit**
+### Copyright/Credit
 
 AncientPaths.io© 2025. ALL RIGHTS RESERVED.
 
@@ -231,14 +231,13 @@ These short videos combine great theology and application:
 - [Teach us to Pray - John Piper](https://www.youtube.com/watch?v=V-_lmGR9EdE&t=14s) (4min 12 secs)
 
 [Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
-
 [Psalms: The Prayer Book of the Bible - Dietrich Bonhoeffer](https://www.christianbook.com/psalms-the-prayer-book-the-bible/9781506480190/pd/480192?srsltid=AfmBOooQOgkORZJyBGyUKVuT7hR_zJeUEZFkjvF8OimT5G0uMOUZff_r)
 
 **TALK WITH YOUR GUARDIAN:**
 
 - After you get the hang of the technique, compare your evolving new prayer life to what existed before.
 
-## **Exercise 7: Scripture Memorization**
+## Exercise 7: Scripture Memorization
 
 **_“I have stored up your word in my heart, that I might not sin against you.” - Psalm 119:11_**
 
