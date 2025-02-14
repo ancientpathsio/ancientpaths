@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
-## Introduction: The Origin
+## **Introduction: The Origin**
 
 The Ancient Paths is the biblically based, God-ordained path to walk in repentance by disciplining ourselves in a true discipleship process that starts with developing spiritual discipline and approaching God in faith that he will transform us; thereby killing off the desire to continually walk in sin.
 
@@ -33,7 +33,7 @@ All Scripture quotations, unless otherwise indicated, are taken from the Holy Bi
 Image credit: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 Attribution given to [Michael Durham](https://theancientpaths.org/)
 
-## Exercise 1: The Ancient Paths
+## **Exercise 1: The Ancient Paths**
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
