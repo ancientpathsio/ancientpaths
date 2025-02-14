@@ -182,10 +182,7 @@ Main Point: Aim at God’s glory by joyfully keeping God’s Word in the power o
 Applications: Put these disciplines into practice and develop a daily rhythm to aid in your sanctification and renewal.
 
 - - Aim at glory by aiming at God’s Word
-    - Memorizing Scripture, meditating, feeding off Christ **daily**
-
-(Psalm 1:2-3, John 4:31)
-
+    - Memorizing Scripture, meditating, feeding off Christ **daily** (Psalm 1:2-3, John 4:31)
 - - Make every effort to add to your faith (1 Pe 1:5)
     - Aim at God’s glory by _depending on His Spirit_
     - Make use of the means he has given us; **the same power that resurrected Christ**
@@ -238,7 +235,8 @@ These short videos combine great theology and application:
 
 ## **Exercise 7: Scripture Memorization**
 
-**_“I have stored up your word in my heart, that I might not sin against you.” - Psalm 119:11_**
+**_“I have stored up your word in my heart, that I might not sin against you.”**<br /><br />
+**– Psalm 119:11_**
 
 Let’s face it gentlemen, _we have a problem with our thought life_. We are prone to go into fantasy land, and into sin. What’s needed?
 
