@@ -57,7 +57,7 @@ With that in mind, there are four things to keep in mind on the Ancient Paths:
 2. The Ancient Paths should develop holy structure and replaces unholy structure (or lack of any structure) in your life.
 3. Guard against partaking in religious exercise for the sole purpose of getting rid of sexual immorality. Fighting sin is holy, yes. But if your heart attitude is rooted in wanting to get on with life after ditching your lack of sexual control and its consequences, then you missed point 1: **The proper worship of God made possible by Christ, as revealed through Scripture.** Christ has zero interest remaining as an adjunct part of your life. He has to be the center. The majority of Christian counselors and para-church ministries, almost exclusively focus on dealing with sexual sin (the presenting problem), while ignoring the root problem: _the heart attitude towards Christ and Scripture_ (point 1). Brothers express anger and frustration because lust doesn’t immediately go away. Remember, you are on an Ancient Path to worship God because of revelation to you. Do your work while he does his.
 4. We must become masters as fleeing sexual immorality.
-   :::tip Did you know
+   :::note Did you know
 
    **Sexual immorality is the only sin in which we are commanded to flee from?** 1 Cor 6:18 is a great memory verse, sure; but it also establishes we must perfect the art of fleeing. Press in on it. Fleeing takes on many forms: what does it mean to you?
 
