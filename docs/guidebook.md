@@ -64,7 +64,11 @@ To prepare you for this journey, Exercise 1 introduces tools. They are good tool
 
 What is a [catechism](https://www.thegospelcoalition.org/article/should-know-catechisms/)? Think of it as Sunday School, well before computers and electricity. It summarizes what the Bible teaches. I posted two well-known catechisms: [Westminster Catechism](https://thewestminsterstandard.org/westminster-larger-catechism/) and [C.H. Spurgeon’s Catechism.](https://www.blueletterbible.org/study/ccc/chs_PuritanCatechism.cfm) Check out question 1 of each. _Learned men thought Question 1 was pretty important._ Then examine them so that you learn what they can do for you on this journey.
 
+:::tip
+
 **Did you know:** It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
+
+:::
 
 Latin Mass (which common people didn’t speak), rituals, relics, and indulgences took their place. **People were not reading the Bible**, and in many cases, it was illegal to do so or even own a Bible.
 
@@ -302,7 +306,7 @@ So, let’s cut to the chase: _We lust-filled men must fast_. From what? Food. R
 
 The Roman Christians normally fasted twice a week (see [Didache](https://www.ccel.org/ccel/richardson/fathers.viii.i.iii.html)), and they certainly didn’t live sedentary lives. They burned calories and did quite well in coming out of a culture of sin-soaked sexual immorality. **Every sexual pleasure for men was expected** _(there was a double standard with women)_ **which is why Christianity boldly collided with Roman culture**. Christians were hated because sexual purity was demanded.
 
-Pointers on fasting:
+*Pointers on fasting:*
 
 - Biblically, it almost always deals with the abstinence of food, but a thorough reading of Isaiah 58:6-12 broadens the scope; most pastors would agree that _abstaining from certain things that make you particularly uncomfortable (suffering loss) to pursue the glory of God, is worthy of consideration_
 - It always has a spiritual purpose
@@ -355,7 +359,6 @@ What separated Cain from Abel in Genesis 4? Fundamentally, a heart for worshipin
 This is a recurring topic I’m sure many have faced. It is one of the toughest topics due to the trajectory of marriage in the U.S. and abroad. There are two forces at work here:
 
 1. A misunderstanding of what Biblical marriage is supposed to look like (most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
-
 2. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
 
 John Piper has several videos addressing this (see below), including wisdom imparted by learned men along the way:
@@ -486,19 +489,21 @@ For advanced memorization, there are three principles:
 
 Whether you use an app or index cards, the principles don’t change. I’ll introduce two techniques for advanced memorization: **Pressure Washing**, and **Detonation Cord**.
 
-1. **Pressure Washing technique**. Just as it suggests, you are washing yourself with the Word. Not sprinkling. High-pressure spiritual hose. Here is how it works:
-    1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
-    2. Select the verses
+1. **Pressure Washing technique**. Just as it suggests, you are washing yourself with the Word. Not sprinkling. High-pressure spiritual hose.
+
+*Here is how it works:*
+- - 1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
+- - 2. Select the verses
         1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
         2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
         3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
         4. If you are using a memory app: CHEAT. Open the Blue Letter Bible (or similar), and type all of the Scripture at the “Mastery” level (that is the level where there are no helps). You will have to do this the first time, otherwise, the app will not recognize that you have mastered it, and will not keep it for review in subsequent days. Remember, we are not trying to memorize at this point.
         5. If you are using index cards, the first set of cards you prepare will have all of the verse on one side; and the reference on the opposite side. Again, we are not trying to memorize.
         6. Each day, type in the verses. Meditate and pray over them as you are doing so. If you do not understand a verse completely—Bible study. Use the tools in Exercise #1, or similar tools.
-2. After about a week or two, you will not need your Bible anymore—the 2nd level “Memorize” function on the app will take away half the words in the verses, and you will begin to complete verses without a Bible. I set my app for about 90% to account for mistakes, and still allow me to pass.
-3. After a week with **index cards**, you make a 2nd set of cards, but this time, you use only the FIRST LETTER of each word—including punctuation. This is the method taught in many Bible colleges, well before the Bible Memory App (and others) were created.
-4. After a few weeks, there will be some verses that touch your soul. [Studies](https://jamesclear.com/new-habit) show it takes on average two to three cycles of 21 days to replace a single thought or behavior (Interestingly, most 90-day addiction/recovery programs follow this pattern). Those are the ones you memorize. Use the flash card function on the Bible Memory App, or index cards. Repetition: keep them in your face all day long—you will already be intimately familiar with them.
-5. Keep at it until all of the verses are Mastered: that is, you need no helps, you know the verses and references by heart. Adjust the review frequency as needed. If it takes you three months, so be it. Do not be afraid to add more verses along the way. I am juggling about 140 right now, and **it is a natural part of my life. It glorifies God and transforms you**.
+4. After about a week or two, you will not need your Bible anymore—the 2nd level “Memorize” function on the app will take away half the words in the verses, and you will begin to complete verses without a Bible. I set my app for about 90% to account for mistakes, and still allow me to pass.
+5. After a week with **index cards**, you make a 2nd set of cards, but this time, you use only the FIRST LETTER of each word—including punctuation. This is the method taught in many Bible colleges, well before the Bible Memory App (and others) were created.
+6. After a few weeks, there will be some verses that touch your soul. [Studies](https://jamesclear.com/new-habit) show it takes on average two to three cycles of 21 days to replace a single thought or behavior (Interestingly, most 90-day addiction/recovery programs follow this pattern). Those are the ones you memorize. Use the flash card function on the Bible Memory App, or index cards. Repetition: keep them in your face all day long—you will already be intimately familiar with them.
+7. Keep at it until all of the verses are Mastered: that is, you need no helps, you know the verses and references by heart. Adjust the review frequency as needed. If it takes you three months, so be it. Do not be afraid to add more verses along the way. I am juggling about 140 right now, and **it is a natural part of my life. It glorifies God and transforms you**.
 
 Gentlemen: Remember to journal those days when you feel compelled to review verses, rather than seeking sexual sin. It will happen.
 
@@ -508,7 +513,7 @@ The idea is to chain Godly thoughts together by way of Scripture, and to do so r
 
 **Remember this: EVERY sinful thought requires a response. You must repudiate each thought with Scripture and bring it captive to obey Jesus Christ 2 Cor 10:4-5.** _John Piper says you have about 5 seconds to do so; you cannot be fumbling around for a set of verses_. You know what I am talking about.
 
-Here is how it works:
+*Here is how it works:*
 
 a. Select your verses to construct the det cord.
 
@@ -645,7 +650,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 **DESTINY** is an exercise in putting Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
 
-Here is how it works:
+*Here is how it works:*
 
 - After completing Exercises 1-8 and implementing them into your lives, DM an Admin with a true statement: “I have completed Destiny, and I am implementing Exercises 1-8”. If that is not true of you, then please don’t join. It would be putting the cart before the horse.
 - New participants are asked to attend the Thursday, Newcomer meeting @ 7PM EST, and stay after the meeting for the Roundtable.
