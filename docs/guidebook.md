@@ -237,7 +237,7 @@ These short videos combine great theology and application:
 
 - After you get the hang of the technique, compare your evolving new prayer life to what existed before.
 
-## Exercise 7: Scripture Memorization
+## **Exercise 7: Scripture Memorization**
 
 **_“I have stored up your word in my heart, that I might not sin against you.” - Psalm 119:11_**
 
