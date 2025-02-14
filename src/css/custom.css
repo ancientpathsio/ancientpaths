@@ -20,11 +20,6 @@
   --ifm-color-primary-lightest: #d0d373; /* Adjusted */
   --ifm-code-font-size: 92%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-
-  /* Tip box color update */
-  --ifm-alert-background-color-info: #d0d373; /* Mustard yellow */
-  --ifm-alert-border-color-info: #a4a83f; /* Darker mustard */
-  --ifm-alert-color-info: #5a5e1e; /* Text color for contrast */
 }
 
 /* Keep dark mode colors unchanged */
@@ -37,11 +32,20 @@
   --ifm-color-primary-lighter: #e3e992;
   --ifm-color-primary-lightest: #f0f5b8;
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
-  
-  /* Tip box color update for dark mode */
-  --ifm-alert-background-color-info: #bfc545; /* Adjusted mustard yellow */
-  --ifm-alert-border-color-info: #969a3a; /* Darker mustard */
-  --ifm-alert-color-info: #323618; /* Text color for contrast */
+}
+
+/* Force Tip Box to Use Mustard Yellow */
+.alert--info {
+  background-color: #d0d373 !important; /* Mustard yellow */
+  border-color: #a4a83f !important; /* Darker mustard */
+  color: #5a5e1e !important; /* Contrast text */
+}
+
+/* Adjust Tip Box Color in Dark Mode */
+[data-theme='dark'] .alert--info {
+  background-color: #bfc545 !important; /* Darker mustard yellow */
+  border-color: #969a3a !important; /* Dark border */
+  color: #323618 !important; /* Contrast text */
 }
 
 /* Hide the Contact link by default on all screen sizes */
