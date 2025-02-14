@@ -686,7 +686,7 @@ We’re all in sanctification process to the day we pass from death to life. Jus
 - Remember: you are implementing the graces God has given to his people throughout the ages, **so that he can transform you**. This is likely the first time in your life you will be doing so with any consistency. So buckle up and commune with the Lord, in the manner in which he has prescribed.
 - _You will be guided by your Admins, but the responsibility is yours alone._
 
-## **Appendix/Resources**
+## **Appendix & Resources**
 
 **AncientPaths Books:**
 
@@ -722,7 +722,7 @@ We’re all in sanctification process to the day we pass from death to life. Jus
 - [Samson Society](https://samsonsociety.com/) (Zoom meetings over Slack, 24/7)
 - [Pure Life Ministries](https://www.purelifeministries.org/) (Short/Long-term residential options)
 
-### Copyright & Credit
+### Copyright/Credit
 
 **AncientPaths.io©** 2025. ALL RIGHTS RESERVED.
 
