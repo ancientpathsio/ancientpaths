@@ -98,8 +98,8 @@ const config = {
               href: 'https://discord.gg/xk6qxyZSkx',
             },
             {
-              label: 'Store',
-              href: 'https://www.bonfire.com/store/ancientpaths/',
+              label: 'GitHub',
+              href: 'https://github.com/ancientpathsio/ancientpaths/',
             },
           ],
         },
@@ -109,6 +109,10 @@ const config = {
             {
               label: 'Donate',
               to: '/give/',
+            },
+            {
+              label: 'Store',
+              href: 'https://www.bonfire.com/store/ancientpaths/',
             },
             {
               label: 'Contact',
