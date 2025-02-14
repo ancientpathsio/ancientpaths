@@ -669,7 +669,7 @@ Here is how it works:
 - [Samson Society](https://samsonsociety.com/) (Zoom meetings over Slack, 24/7)
 - [Pure Life Ministries](https://www.purelifeministries.org/) (Short/Long-term residential options)
 
-### Copyright/Credit
+## **Copyright/Credit**
 
 ![Alt text](../static/img/logo.svg)
 
