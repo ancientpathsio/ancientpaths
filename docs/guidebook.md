@@ -354,11 +354,9 @@ What separated Cain from Abel in Genesis 4? Fundamentally, a heart for worshipin
 
 This is a recurring topic I’m sure many have faced. It is one of the toughest topics due to the trajectory of marriage in the U.S. and abroad. There are two forces at work here:
 
-1. A misunderstanding of what Biblical marriage is supposed to look like
+1. A misunderstanding of what Biblical marriage is supposed to look like (most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
 
-(most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
-
-1. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
+2. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
 
 John Piper has several videos addressing this (see below), including wisdom imparted by learned men along the way:
 
@@ -390,7 +388,7 @@ I hope these videos from John Piper help orient you and your wife towards a life
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
-**_Ephesians 5:3-7_**
+**_Ephesians 5:3-7_**<br />
 **_Hebrews 10:26-31_**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
