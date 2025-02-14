@@ -6,6 +6,32 @@ sidebar_position: 1
 
 ![Alt text](../static/img/warrior.png)
 
+**Introduction: The Origin**
+
+The Ancient Paths is the biblically based, God-ordained path to walk in repentance by disciplining ourselves in a true discipleship process that starts with developing spiritual discipline and approaching God in faith that he will transform us; thereby killing off the desire to continually walk in sin.
+
+We recognize much of the universal church as forgotten how to teach and demonstrate this vital part of following Christ, exchanging the concept of rival in the heart of sinful man, to revivalism that presupposes a man-centered and man-orchestrated revival. Colonial pastors observed, understood, and preached about this phenomenon before the United States and Canada were sovereign nations. The rotten fruit of that philosophy is currently in full bloom in the church and is why the church has lost its voice towards its outreach with the Gospel.
+
+We do not entertain psychology, or any other worldly idea. All answers come from Scripture, as accepted by the Reformers and Early Church to be the 66 books and letters that comprise the library of the Holy Bible. The exercises of the Ancient Paths can be pursued among the fellowship of believers or may be installed in local churches (which is the preferred method). More on that later.
+
+Once the brother has completed Exercises 1-8, he informs the Ancient Paths leadership that he is ready for the Ancient Paths 40-Day Challenge. In the AP Discord, the brother is placed on the Destiny private channel, where he will walk for 40 days with other brothers in installing and conducting the spiritual disciplines from exercises 1-8. It is asynchronous, where there is no need for all the brothers to meet at a specific time—that would be far too unrealistic. Rather, they pray, share, and post emojis on the channel for accountability. If they need more accountability, they ask for it: from other brothers, AP leaders, or even in their own household and church.
+
+After the initial Destiny has concluded, they are eligible to continue through ["Spiritual Disciplines for the Christian Life"](https://www.christianbook.com/spiritual-disciplines-christian-updated-anniversary-edition/donald-whitney/9781615216178/pd/216178?en=google&event=SHOP&kw=christian-living-0-20%7C216178&p=1179710&utm_source=google&p=1229913&dv=c&cb_src=google&cb_typ=shopping&cb_cmp=233748492&cb_adg=14306043372&cb_kyw=&utm_medium=shopping&snav=GMERCH&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvH_et1oPq8PwNR2hhfmJUC4KUGSWMI_DtujhJNfXfsdc8Ua7A4XeJBoCE9cQAvD_BwE) and a Bible Study of Ephesians. Why Ephesians? Because it perfectly summarizes Romans, and if you understand Romans, you understand the Bible.
+
+The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (1) unwilling to separate from the world and (2) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
+
+AncientPaths.io© 2025. ALL RIGHTS RESERVED.
+
+The ESV® Bible (The Holy Bible, English Standard Version®) copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. ESV Text Edition: 2016. The ESV® text has been reproduced in cooperation with and by permission of Good News Publishers. Unauthorized reproduction of this publication is prohibited. All rights reserved.
+
+Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org and 316publishing.com.
+
+All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. <www.zondervan.com> The “NIV” and “New International Version” are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
+
+Image credit: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
+
+Attribution given to [Michael Durham](https://theancientpaths.org/)
+
 ## Exercise 1: The Ancient Paths
 
 <div style={{ textAlign: "left" }}>
