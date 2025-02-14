@@ -722,7 +722,7 @@ We’re all in sanctification process to the day we pass from death to life. Jus
 - [Samson Society](https://samsonsociety.com/) (Zoom meetings over Slack, 24/7)
 - [Pure Life Ministries](https://www.purelifeministries.org/) (Short/Long-term residential options)
 
-### Copyright &amp; Credit
+### Copyright & Credit
 
 **AncientPaths.io©** 2025. ALL RIGHTS RESERVED.
 
