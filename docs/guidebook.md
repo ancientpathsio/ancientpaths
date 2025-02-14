@@ -67,7 +67,7 @@ What is a [catechism](https://www.thegospelcoalition.org/article/should-know-cat
 
 :::note Did you know
 
-**Did you know:** It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
+**It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
 
 :::
 
@@ -123,9 +123,9 @@ _“But they said, we will not walk in it”_ (the Ancient Paths).
 
 Now it’s your turn to respond. Will you fight, or go quietly in the night?
 
-:::tip
+:::note Note
 
-**Note:** Sexual sin was endemic when the kingdom of Judah refused. Most of the United States and Canada is refusing; indeed, most of the world.
+Sexual sin was endemic when the kingdom of Judah refused. Most of the United States and Canada is refusing; indeed, most of the world.
 
 :::
 
@@ -153,9 +153,9 @@ Let's understand what repentance is. Please acquire the cheap, 37-page booklet, 
 - What part of these resources on repentance impacted you the most?
 - What is your next step, and how will accountability be built in?
 
-:::tip
+:::note Definition
 
-**Note:** A _Guardian_ is a brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
+**Guardian**: A brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
 
 :::
 
@@ -277,9 +277,9 @@ I still use spiraled 3x5 index cards, but consider the functionality, portabilit
 - Journal how your thought life improves when memorizing Scripture.
 - Journal how much your TV time diminishes.
 
-:::tip
+:::note Bonus
 
-**Bonus:** Journal WHEN (not if) you make a conscious decision to review verses rather than seek porn. It’s going to happen if you stay on this path.
+Journal WHEN (not if) you make a conscious decision to review verses rather than seek porn. It’s going to happen if you stay on this path.
 
 :::
 
@@ -348,9 +348,9 @@ What separated Cain from Abel in Genesis 4? Fundamentally, a heart for worshipin
 
 [Theologically Rich Christian Music Playlist](https://www.youtube.com/watch?v=sk7qj4OGX1k)
 
-:::tip
+:::note Bonus
 
-**Bonus:** write a song to the Lord using Scripture and your imagination. David did it and we still read about them today (Psalms).
+Write a song to the Lord using Scripture and your imagination. David did it and we still read about them today (Psalms).
 
 :::
 
@@ -417,9 +417,9 @@ After studying the doctrines of Justification and Sanctification, using the tool
 
 To the brother with no evidence of progressive sanctification: Praise God from whom all blessings flow—because instead of spinning your wheels, you are now on an ancient path leading to restoration. Go back and review Exercise 1 and every other exercise that isn’t well-rooted in your life. Add more accountability when something isn’t taking root.
 
-:::tip
+:::note Know This
 
-**Know this:** God sifts all of humanity. He brought you to a place to hear a tough message that most avoid... rejoice! Then press in on it.
+God sifts all of humanity. He brought you to a place to hear a tough message that most avoid... rejoice! Then press in on it.
 
 :::
 
@@ -432,9 +432,9 @@ To the brother with no evidence of progressive sanctification: Praise God from w
 - [Part 5 How Does Thankfulness Clean up the Mouth?](https://www.youtube.com/watch?v=EAiMfi5DjKs) (12min 18sec)
 - [Part 6 How to Escape the Coming Wrath of God](https://www.youtube.com/watch?v=3JATpy4oBqQ) (12min 10sec)
 
-:::tip
+:::note AP Course 
 
-**AP Course:** Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-altar-sexual-idolatry-new-edition/steve-gallagher/9780986152825/pd/152822?srsltid=AfmBOorOiXNhqZM0X4cJVyrbiwIrH_9Ni4o63KpLzntDNcN6FDJSJEFX)” by Steve Gallagher (Champion read, very convicting stuff). They have [full-length sermons with handouts](https://purelifeministries.thinkific.com/courses/sexual-idolatry-group) that take each chapter from their book. Their [ministry](https://www.purelifeministries.org/) provides short/long term residential options for pornography and sexual sin.
+Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-altar-sexual-idolatry-new-edition/steve-gallagher/9780986152825/pd/152822?srsltid=AfmBOorOiXNhqZM0X4cJVyrbiwIrH_9Ni4o63KpLzntDNcN6FDJSJEFX)” by Steve Gallagher (Champion read, very convicting stuff). They have [full-length sermons with handouts](https://purelifeministries.thinkific.com/courses/sexual-idolatry-group) that take each chapter from their book. Their [ministry](https://www.purelifeministries.org/) provides short/long term residential options for pornography and sexual sin.
 
 :::
 
@@ -463,7 +463,7 @@ Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this 
 4. Think on righteous things; time: 38:23 (Phil 4:8)
 5. **Cultivate a love for Christ** (_the single greatest contributor to victory_); time: 39:07 (John 21:15-17)
 
-:::tip
+:::note Note
 
 Did you notice how each point corresponds to at least one Ancient Paths Exercise? Examine these Scriptures as you complete each module. It may take a few cycles to engrain these truths deeper within. See [40-Day challenge](#instructions-for-the-40-day-challenge-destiny) below for more details.
 
@@ -516,9 +516,9 @@ Gentlemen: Remember to journal those days when you feel compelled to review vers
 
 The idea is to chain Godly thoughts together by way of Scripture, and to do so rapidly. You should know these verses so well that you can rapidly recite them. If you are fumbling with verses, you need more repetition. Use this technique to blow up the [Arousal Template](https://puredesire.org/wp-content/uploads/2020/09/RELAPSE-PREVENTION-EXERCISE.pdf) when you are tempted ([listen to the podcast](https://puredesire.org/podcast/arousal-template/) for more insights)
 
-:::tip
+:::note REMEMBER
 
-**Remember this:** EVERY sinful thought requires a response. You must repudiate each thought with Scripture and bring it captive to obey Jesus Christ 2 Cor 10:4-5. _John Piper says you have about 5 seconds to do so; you cannot be fumbling around for a set of verses_. You know what I am talking about.
+EVERY sinful thought requires a response. You must repudiate each thought with Scripture and bring it captive to obey Jesus Christ 2 Cor 10:4-5. _John Piper says you have about 5 seconds to do so; you cannot be fumbling around for a set of verses_. You know what I am talking about.
 
 :::
 
@@ -531,9 +531,9 @@ a. Select your verses to construct the det cord.
         3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
         4.  Pick your favorite verse on worship, rejoicing, glorifying God
 
-:::tip
+:::note DIY:
 
-**Fact:** This works for any sin or area in your life you need to overcome—start with the Resurrection, then chain biblical truth until it reaches thanksgiving, rejoicing, worship.
+This works for any sin or area in your life you need to overcome—start with the Resurrection, then chain biblical truth until it reaches thanksgiving, rejoicing, worship.
 
 :::
 
@@ -556,9 +556,9 @@ _Now you are “putting off the old man and putting on the new man”_ (Eph 4:22
 
 What do these techniques do? **Chiefly, ending destructive thought patterns, and replacing them with God’s truth: for God’s glory.** Don’t fall into the trap of using verses like a _magic spell_.
 
-:::tip
+:::note REMEMBER
 
-**Remember:** the goal is to move your heart to a deeper relationship with Christ; not solely to remove sexual sin from your life so that you can get on with your life.
+The goal is to move your heart to a deeper relationship with Christ; not solely to remove sexual sin from your life so that you can get on with your life.
 
 :::
 
@@ -621,9 +621,9 @@ The original Ancient Paths playbook—attributed to [Michael Durham](https://the
 
 To be blunt, the disciple caught in pornography and masturbation is not acting correctly. It is equivalent to a uniformed soldier locked in jail because of public drunkenness, or a member of the Royal family cozying up with common folk outside the palace guard. We need to own our role as Ambassadors of Christ (2 Cor 5:20), being sober-minded and alert because the Devil is on the hunt for wayward sheep (1 Peter 5:8-9).
 
-:::tip
+:::note Key Verse to Memorize
 
-**Key Verse to Memorize**: “We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._” (2 Corinthians 10:5)
+**“We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._” (2 Corinthians 10:5)**
 
 :::
 
@@ -648,9 +648,9 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 2. Wait patiently in _hopeful expectation_ of God’s response. He may direct you to Scripture, another brother, or answer it in peculiar ways (leave that up to Him). The key is to surrender the outcome.
 3. Lastly, return to your journal entries in later seasons, to reflect on the goodness of God for helping you heal from broken thought patterns and addictions that destroy your soul.
 
-:::tip
+:::note Remember
 
-**Remember**: We’re all in sanctification process to the day we pass from death to life. Just make sure you _“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_ (Philippians 3:14)
+We’re all in sanctification process to the day we pass from death to life. Just make sure you **_“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_ (Philippians 3:14)**
 
 :::
 
