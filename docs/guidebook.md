@@ -544,7 +544,7 @@ Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctifica
 - Review your verse selections and build in accountability to get this done. Make it a point to be challenged often on your progress.
 - Talk about what other activities need to be chopped from your life (gaming anyone?) in order to install this holy habit.
 
-## **EXERCISE 14: FIGHT FOR YOUR LIFE**
+## **Exercise 14: Fight for Your Life**
 
 So, you've started on the Ancient Paths, but weeks and months have passed and very little has changed. In fact, in some instances, things have become worse now that you have come to realize the strength of a besetting sin. The confidence of what the Bible is accomplishers concerning the Spiritual Disciplines isn't manifesting itself. The hope you wanted held at the beginning, has since dissipated and you have returned to old habits.
 
@@ -582,7 +582,7 @@ Associate Dean for the School of Theology, Southern Baptist Theological Seminary
 
 [What is progressive sanctification? | GotQuestions.org](https://www.gotquestions.org/progressive-sanctification.html)
 
-## **EXERCISE 15: MIND-RENEWAL**
+## **Exercise 15: Mind-Renewal**
 
 **_“I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.”_**
 
@@ -632,7 +632,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 ![Alt text](../static/img/pentecost_gr.png)
 
-## **INSTRUCTIONS FOR THE 40-DAY CHALLENGE**
+## **Instructions for the 40-Day Challenge**
 
 **DESTINY** is an exercise in putting Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
 
@@ -646,7 +646,7 @@ Here is how it works:
 - Remember: you are implementing the graces God has given to his people throughout the ages, **so that he can transform you**. This is likely the first time in your life you will be doing so with any consistency. So buckle up and commune with the Lord, in the manner in which he has prescribed.
 - _You will be guided by your Admins, but the responsibility is yours alone._
 
-## **APPENDIX/RESOURCES**
+## **Appendix/Resources**
 
 **Ancient Paths Books:**
 
@@ -684,7 +684,7 @@ Here is how it works:
 
 ![Alt text](../static/img/logo.svg)
 
-Discord: [@AncientPaths](https://discord.gg/xk6qxyZSkx)
+Discord: [@AncientPaths](https://discord.gg/xk6qxyZSkx)![Discord](../static/img/discord.svg)
 Website: [www.ancientpaths.io](https://ancientpaths.io)
 
 **AncientPaths** exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. This is a community-funded organization. Contributions help to continue their development into maturity as faithful sons of God.
