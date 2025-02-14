@@ -54,12 +54,12 @@ const config = {
         src: 'img/logo.svg',
       },
       items: [
-        //{
-          //type: 'doc',
-          //docId: 'guidebook',  // Pointing to docs/guidebook.md
-          //position: 'left',
-          //label: 'Guidebook',  // Updated label to "Guidebook"
-        //},
+        {
+          type: 'doc',
+          docId: 'guidebook',  // Pointing to docs/guidebook.md
+          position: 'left',
+          label: 'Guidebook',  // Updated label to "Guidebook"
+        },
         { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
           label: 'Store',
@@ -80,10 +80,10 @@ const config = {
         {
           title: 'Docs',
           items: [
-            //{
-              //label: 'Guidebook',  // Updated label to "Guidebook"
-              //to: '/docs/guidebook',  // Pointing to docs/guidebook.md
-            //},
+            {
+              label: 'Guidebook',  // Updated label to "Guidebook"
+              to: '/docs/guidebook',  // Pointing to docs/guidebook.md
+            },
             {
               label: 'Dev_',  // Updated label to "Guidebook"
               to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
