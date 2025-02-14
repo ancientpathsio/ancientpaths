@@ -118,7 +118,11 @@ _“But they said, we will not walk in it”_ (the Ancient Paths).
 
 Now it’s your turn to respond. Will you fight, or go quietly in the night?
 
+:::tip
+
 **Note:** Sexual sin was endemic when the kingdom of Judah refused. Most of the United States and Canada is refusing; indeed, most of the world.
+
+:::
 
 ## **Exercise 3: Repentance Verses Recovery**
 
@@ -144,7 +148,11 @@ Let's understand what repentance is. Please acquire the cheap, 37-page booklet, 
 - What part of these resources on repentance impacted you the most?
 - What is your next step, and how will accountability be built in?
 
+:::tip
+
 **Note:** A _Guardian_ is a brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
+
+
 
 ## **Exercise 4: Get In The Word**
 
@@ -265,7 +273,11 @@ I still use spiraled 3x5 index cards, but consider the functionality, portabilit
 - Journal how your thought life improves when memorizing Scripture.
 - Journal how much your TV time diminishes.
 
+:::tip
+
 **Bonus:** Journal WHEN (not if) you make a conscious decision to review verses rather than seek porn. It’s going to happen if you stay on this path.
+
+:::
 
 ## **Exercise 8: Fasting**
 
@@ -333,7 +345,11 @@ What separated Cain from Abel in Genesis 4? Fundamentally, a heart for worshipin
 
 [Theologically Rich Christian Music Playlist](https://www.youtube.com/watch?v=sk7qj4OGX1k)
 
+:::tip
+
 **Bonus:** write a song to the Lord using Scripture and your imagination. David did it and we still read about them today (Psalms).
+
+:::
 
 ## **Exercise 10: Help! My Marriage is in Jeopardy**
 
@@ -376,7 +392,6 @@ I hope these videos from John Piper help orient you and your wife towards a life
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
 **_Ephesians 5:3-7_**
-
 **_Hebrews 10:26-31_**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
@@ -402,7 +417,11 @@ After studying the doctrines of Justification and Sanctification, using the tool
 
 To the brother with no evidence of progressive sanctification: Praise God from whom all blessings flow—because instead of spinning your wheels, you are now on an ancient path leading to restoration. Go back and review Exercise 1 and every other exercise that isn’t well-rooted in your life. Add more accountability when something isn’t taking root.
 
+:::tip
+
 **Know this:** God sifts all of humanity. He brought you to a place to hear a tough message that most avoid... rejoice! Then press in on it.
+
+:::
 
 Here are 6 short videos from John Piper on Ephesians 5:3-7:
 
@@ -518,7 +537,11 @@ You MUST know these verses forwards and backwards—no fumbling or stumbling. Wh
 
 What do these techniques do? **Chiefly, ending destructive thought patterns, and replacing them with God’s truth: for God’s glory.** Don’t fall into the trap of using verses like a _magic spell_.
 
+:::tip
+
 **Remember:** the goal is to move your heart to a deeper relationship with Christ; not solely to remove sexual sin from your life so that you can get on with your life.
+
+:::
 
 Meditate prayerfully and connect with God. Pray for joyful obedience. Don’t be discouraged if you don’t see immediate results; this is a _transformation process_ (2 Cor 3:18). Military bootcamp doesn’t produce soldiers or Marines in one week. Joyfully receive the admonition of the Lord as you walk the Ancient Paths.
 
