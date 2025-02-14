@@ -427,7 +427,11 @@ Here are 6 short videos from John Piper on Ephesians 5:3-7:
 - [Part 5 How Does Thankfulness Clean up the Mouth?](https://www.youtube.com/watch?v=EAiMfi5DjKs) (12min 18sec)
 - [Part 6 How to Escape the Coming Wrath of God](https://www.youtube.com/watch?v=3JATpy4oBqQ) (12min 10sec)
 
+:::tip
+
 **AP Course:** Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-altar-sexual-idolatry-new-edition/steve-gallagher/9780986152825/pd/152822?srsltid=AfmBOorOiXNhqZM0X4cJVyrbiwIrH_9Ni4o63KpLzntDNcN6FDJSJEFX)” by Steve Gallagher (Champion read, very convicting stuff). They have [full-length sermons with handouts](https://purelifeministries.thinkific.com/courses/sexual-idolatry-group) that take each chapter from their book. Their [ministry](https://www.purelifeministries.org/) provides short/long term residential options for pornography and sexual sin.
+
+:::
 
 I pray this Bible study establishes you and ignites a passion to pursue Christ with all diligence. The Ancient Paths leading to the life of God (Eph 4:18) from this point on, shouldn’t be an adjunct activity in your life, it should be “the thing” which leads to a total re-centering of your heart. Remember Exercise 1: the determining factor is your heart attitude towards Christ and Scripture. So, continue to restructure with holy structure.
 
