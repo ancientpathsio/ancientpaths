@@ -421,7 +421,7 @@ To the brother with no evidence of progressive sanctification: Praise God from w
 
 :::
 
-Here are 6 short videos from John Piper on Ephesians 5:3-7:
+*Here are 6 short videos from John Piper on Ephesians 5:3-7:*
 
 - [Part 1 Should Saints Be Warned About Wrath?](https://www.youtube.com/watch?v=kpx_6tC1kec) (12mins 5sec)
 - [Part 2 How is Covetousness the Root of Sexual Idolatry?](https://www.youtube.com/watch?v=5SPf7BZmNz4) (10min)
@@ -461,9 +461,13 @@ Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this 
 4. Think on righteous things; time: 38:23 (Phil 4:8)
 5. **Cultivate a love for Christ** (_the single greatest contributor to victory_); time: 39:07 (John 21:15-17)
 
+:::tip
+
 Did you notice how each point corresponds to at least one Ancient Paths Exercise?
 
-A couple more resources:
+:::
+
+*A couple more resources:*
 
 - For a related short book (really, really, short book), check out Kevin DeYoung’s [“The Art of Turning”](https://store.thegospelcoalition.org/product/9781911272212/the-art-of-turning-paperback). He deals with something few seminaries teach: **having a clear conscience towards God**.
 [A Prayer for those stuck in sin - John Piper](https://www.youtube.com/watch?v=3JhBJNYBK28&t=370s)
@@ -493,12 +497,12 @@ Whether you use an app or index cards, the principles don’t change. I’ll int
 
 1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
 2. Select the verses
-        1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
-        2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
-        3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
-        4. If you are using a memory app: CHEAT. Open the Blue Letter Bible (or similar), and type all of the Scripture at the “Mastery” level (that is the level where there are no helps). You will have to do this the first time, otherwise, the app will not recognize that you have mastered it, and will not keep it for review in subsequent days. Remember, we are not trying to memorize at this point.
-        5. If you are using index cards, the first set of cards you prepare will have all of the verse on one side; and the reference on the opposite side. Again, we are not trying to memorize.
-        6. Each day, type in the verses. Meditate and pray over them as you are doing so. If you do not understand a verse completely—Bible study. Use the tools in Exercise #1, or similar tools.
+    - 1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
+    - 2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
+    - 3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
+    - 4. If you are using a memory app: CHEAT. Open the Blue Letter Bible (or similar), and type all of the Scripture at the “Mastery” level (that is the level where there are no helps). You will have to do this the first time, otherwise, the app will not recognize that you have mastered it, and will not keep it for review in subsequent days. Remember, we are not trying to memorize at this point.
+    - 5. If you are using index cards, the first set of cards you prepare will have all of the verse on one side; and the reference on the opposite side. Again, we are not trying to memorize.
+6. Each day, type in the verses. Meditate and pray over them as you are doing so. If you do not understand a verse completely—Bible study. Use the tools in Exercise #1, or similar tools.
 4. After about a week or two, you will not need your Bible anymore—the 2nd level “Memorize” function on the app will take away half the words in the verses, and you will begin to complete verses without a Bible. I set my app for about 90% to account for mistakes, and still allow me to pass.
 5. After a week with **index cards**, you make a 2nd set of cards, but this time, you use only the FIRST LETTER of each word—including punctuation. This is the method taught in many Bible colleges, well before the Bible Memory App (and others) were created.
 6. After a few weeks, there will be some verses that touch your soul. [Studies](https://jamesclear.com/new-habit) show it takes on average two to three cycles of 21 days to replace a single thought or behavior (Interestingly, most 90-day addiction/recovery programs follow this pattern). Those are the ones you memorize. Use the flash card function on the Bible Memory App, or index cards. Repetition: keep them in your face all day long—you will already be intimately familiar with them.
