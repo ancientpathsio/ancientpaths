@@ -65,7 +65,7 @@ To prepare you for this journey, Exercise 1 introduces tools. They are good tool
 
 What is a [catechism](https://www.thegospelcoalition.org/article/should-know-catechisms/)? Think of it as Sunday School, well before computers and electricity. It summarizes what the Bible teaches. I posted two well-known catechisms: [Westminster Catechism](https://thewestminsterstandard.org/westminster-larger-catechism/) and [C.H. Spurgeon’s Catechism.](https://www.blueletterbible.org/study/ccc/chs_PuritanCatechism.cfm) Check out question 1 of each. _Learned men thought Question 1 was pretty important._ Then examine them so that you learn what they can do for you on this journey.
 
-:::tip
+:::note Did you know
 
 **Did you know:** It was a common practice for Christians coming out of the Reformation to memorize catechism questions and answers. Why? Because Christian education died under Catholicism after the 4th Century.
 
