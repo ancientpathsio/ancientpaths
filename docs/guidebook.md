@@ -317,8 +317,7 @@ Pointers on fasting:
 - Fasting is hungering for the Bridegroom to return (Jesus Christ); representative of our hunger for him, when all will be fulfilled
 - Although there are massive health benefits to fasting, none are mentioned in the Bible—and it should not be the purpose; nor even be in competition with the spiritual purpose; it there is any physical benefit to be gained, chalk it up to an added grace from God, _but don’t be distracted from the real purpose_
 
-[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)
-
+[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)<br />
 [A Hunger for God Through Prayer and Fasting - John Piper](https://www.youtube.com/watch?v=arQnr37lAQg) (3mins 6secs)
 
 **TALK WITH YOUR GUARDIAN:**
@@ -468,7 +467,7 @@ Did you notice how each point corresponds to at least one Ancient Paths Exercise
 A couple more resources:
 
 - For a related short book (really, really, short book), check out Kevin DeYoung’s [“The Art of Turning”](https://store.thegospelcoalition.org/product/9781911272212/the-art-of-turning-paperback). He deals with something few seminaries teach: **having a clear conscience towards God**.
-- [A Prayer for those stuck in sin - John Piper](https://www.youtube.com/watch?v=3JhBJNYBK28&t=370s)
+[A Prayer for those stuck in sin - John Piper](https://www.youtube.com/watch?v=3JhBJNYBK28&t=370s)
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -572,7 +571,7 @@ So knock it off. Whatever manner of faith God has worked in you, he also provide
 
 Here is what we propose if the first paragraph describes you:
 
-1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: @Jason @Damian... etc.
+1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: **@Jason @Damian**... etc.
 2. We will set up a Voice Channel with 2 or more Guardians to examine you. Remember, the beauty of Ancient Paths, it is a place where we can finally tell the truth about ourselves. We will cover your understanding of the Gospel, each exercise in the Ancient Paths, the basic theology contained therein, your implementation of the Spiritual Disciplines, any unconfessed sin, and whatever else is appropriate. This is to assist you to correct any bad theology or wrong thinking, Plan for 1.5 hours. We will not compel anything, but will merely highlight gaps in thinking, or unfruitful actions that retard spiritual growth. We will assist you to reconceptualize the path you have been called by identifying gaps and suggest practical remedies.
 3. We will set a date under the proposition that you will fight as if that date is the date of your expiration from this earth (Rev 2:5), in order to instill intensity for this fight. There is nothing more important, so be prepared to clear things off your calendar that are trivial. The gloves are coming off. No short-cutting or half-measures. No longer will you approach seeking the Spiritual Disciplines with a minimalist mindset (bartering with God by trying to find the bare minimums of obedience, in hopes that he sets you free). We've all done that. It doesn't work.
 4. Each week you will report to a Guardian assigned to you for that week by DM, phone, or zoom—or even more often if deemed necessary. You are not falling through the cracks.
@@ -638,10 +637,8 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 - Can modern brain science help to identify these patterns, even if they stem from our parents/environment?
 - Does that mean it’s not my fault, or do I need to take responsibility for their sins? (Read Ezekiel, Ch. 18)
 
-[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM) (Epigenetics)
-
-[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)
-
+[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM) (Epigenetics)<br />
+[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)<br />
 [“Winning the War in Your Mind”](https://www.youtube.com/watch?v=_xGqdYguORY) sermon by Craig Groeschel (Link to [Book](https://www.amazon.com/dp/0310362725?tag=cg0811-20))
 
 ![Alt text](../static/img/pentecost_gr.png)
@@ -706,8 +703,12 @@ Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright �
 
 All Scripture quotations, unless otherwise indicated, are taken from the *Holy Bible*, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. (www.zondervan.com) The “NIV” and “New International Version” are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
 
+:::Source
+
 **Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 Attribution given to [Michael Durham](https://theancientpaths.org/)
+
+:::
 
 **Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)
 **Website**: [www.ancientpaths.io](https://ancientpaths.io)
