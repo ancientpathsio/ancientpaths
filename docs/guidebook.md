@@ -703,11 +703,7 @@ Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright �
 
 All Scripture quotations, unless otherwise indicated, are taken from the *Holy Bible*, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. (www.zondervan.com) The “NIV” and “New International Version” are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
 
-:::Source
-
-Attribution given to [Michael Durham](https://theancientpaths.org/)
-
-:::
+🎖️Attribution given to [Michael Durham](https://theancientpaths.org/)
 
 **Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 **Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)
