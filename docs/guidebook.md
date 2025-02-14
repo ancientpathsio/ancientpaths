@@ -33,7 +33,8 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 **_and ask for the ancient paths,_**<br />
 **_where the good way is; and walk in it,_**<br />
 **_and find rest for your souls.”_**<br />
-**_But they said, ‘We will not walk in it.’_**<br /><br />
+**_But they said, ‘We will not walk in it.’_**
+
 **_– Jeremiah 6:16_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of were ancient during his time (630 BC). The paths were known by _learned men_. Sadly, the men of Judah rejected the warning and chose not to walk in it. Eyes wide-open rebellion to God. That same choice is given today to men ensnared in sexual immorality.
@@ -235,8 +236,9 @@ These short videos combine great theology and application:
 
 ## **Exercise 7: Scripture Memorization**
 
-**_“I have stored up your word in my heart, that I might not sin against you.”**<br /><br />
-**– Psalm 119:11_**
+**_“I have stored up your word in my heart, that I might not sin against you.”_**
+
+**_– Psalm 119:11_**
 
 Let’s face it gentlemen, _we have a problem with our thought life_. We are prone to go into fantasy land, and into sin. What’s needed?
 
@@ -495,7 +497,7 @@ Whether you use an app or index cards, the principles don’t change. I’ll int
 
 *Here's how it works:*
 
-1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
+1. Pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
 2. Select the verses
     - 1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
     - 2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
@@ -556,7 +558,7 @@ Meditate prayerfully and connect with God. Pray for joyful obedience. Don’t be
 
 *Want another det cord?*
 
-Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
+**Romans 6—all 23 verses.** Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -669,7 +671,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 ## **Appendix/Resources**
 
-**Ancient Paths Books:**
+**AncientPaths Books:**
 
 - [Praying the Bible](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
 - [Finally Free: Fighting for Purity with the Power of Grace](https://www.christianbook.com/finally-fighting-purity-power-grace-ebook/heath-lambert/9780310499244/pd/35449EB?event=ESRCG) (eBook)
