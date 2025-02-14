@@ -520,7 +520,7 @@ a. Select your verses to construct the det cord.
         3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
         4.  Pick your favorite verse on worship, rejoicing, glorifying God
 
-:::Tip
+:::tip
 
 **Fact:** This works for any sin or area in your life you need to overcome—start with the Resurrection, then chain biblical truth until it reaches thanksgiving, rejoicing, worship.
 
