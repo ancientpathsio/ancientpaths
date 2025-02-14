@@ -152,7 +152,7 @@ Let's understand what repentance is. Please acquire the cheap, 37-page booklet, 
 
 **Note:** A _Guardian_ is a brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
 
-
+:::
 
 ## **Exercise 4: Get In The Word**
 
