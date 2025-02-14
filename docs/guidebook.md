@@ -20,19 +20,6 @@ After the initial Destiny has concluded, they are eligible to continue through [
 
 The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (1) unwilling to separate from the world and (2) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
 
-### Copyright/Credit
-
-AncientPaths.io© 2025. ALL RIGHTS RESERVED.
-
-The ESV® Bible (The Holy Bible, English Standard Version®) copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. ESV Text Edition: 2016. The ESV® text has been reproduced in cooperation with and by permission of Good News Publishers. Unauthorized reproduction of this publication is prohibited. All rights reserved.
-
-Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org and 316publishing.com.
-
-All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. (www.zondervan.com) The “NIV” and “New International Version” are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
-
-Image credit: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
-Attribution given to [Michael Durham](https://theancientpaths.org/)
-
 ## **Exercise 1: The Ancient Paths**
 
 <div style={{ textAlign: "left" }}>
@@ -682,11 +669,24 @@ Here is how it works:
 - [Samson Society](https://samsonsociety.com/) (Zoom meetings over Slack, 24/7)
 - [Pure Life Ministries](https://www.purelifeministries.org/) (Short/Long-term residential options)
 
+### Copyright/Credit
+
 ![Alt text](../static/img/logo.svg)
 
-Discord: [@AncientPaths](https://discord.gg/xk6qxyZSkx)![Discord](../static/img/discord.svg)
-Website: [www.ancientpaths.io](https://ancientpaths.io)
+**AncientPaths.io©** 2025. ALL RIGHTS RESERVED.
+
+The ESV® Bible (*The Holy Bible*, English Standard Version®) copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. ESV Text Edition: 2016. The ESV® text has been reproduced in cooperation with and by permission of Good News Publishers. Unauthorized reproduction of this publication is prohibited. All rights reserved.
+
+Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org and 316publishing.com.
+
+All Scripture quotations, unless otherwise indicated, are taken from the *Holy Bible*, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission of Zondervan. All rights reserved worldwide. (www.zondervan.com) The “NIV” and “New International Version” are trademarks registered in the United States Patent and Trademark Office by Biblica, Inc.™
+
+**Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
+Attribution given to [Michael Durham](https://theancientpaths.org/)
+
+**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx)![Discord](../static/img/discord.svg)
+**Website**: [www.ancientpaths.io](https://ancientpaths.io)
 
 **AncientPaths** exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. This is a community-funded organization. Contributions help to continue their development into maturity as faithful sons of God.
 
-Special thanks: Julian G, Brett H, Damian J, Seth W, & Noble LM ([@MissionIsAgape](https://linktr.ee/missionisagape))
+**Special thanks**: Julian G, Brett H, Damian J, Seth W, & Noble LM ([@MissionIsAgape](https://linktr.ee/missionisagape))
