@@ -38,9 +38,9 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of were ancient during his time (630 BC). The paths were known by _learned men_. Sadly, the men of Judah rejected the warning and chose not to walk in it. Eyes wide-open rebellion to God. That same choice is given today to men ensnared in sexual immorality.
 
-In Jeremiah’s time, he was calling for men to repent and return to faith in God by the prescribed appropriate worship—which all pointed to Jesus Christ. It begs the question, **“How does a man get on the Ancient Paths today?”**
+In Jeremiah’s time, he was calling for men to repent and return to faith in God by the prescribed appropriate worship—which all pointed to Jesus Christ. It begs the question, *“How does a man get on the Ancient Paths today?”*
 
-Answer: The Gospel of Jesus Christ.
+**Answer: The Gospel of Jesus Christ.**
 
 But what happens when [only half of North American churches have a biblical worldview?](https://www.barna.com/research/only-half-of-protestant-pastors-have-a-biblical-worldview/) What then, is being preached in the pulpits? What does that do for the man caught in sexual sin? I cannot in good conscience encourage men to attempt walking the Ancient Paths, assuming they understand The Fact of Jesus Christ. So let’s get this right before we start by having a firm foundation.
 
