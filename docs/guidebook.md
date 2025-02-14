@@ -631,7 +631,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 [“Winning the War in Your Mind”](https://www.youtube.com/watch?v=_xGqdYguORY) sermon by Craig Groeschel (Link to [Book](https://www.amazon.com/dp/0310362725?tag=cg0811-20))
 
-![Alt text](../static/img/pentecost.png)
+![Alt text](../static/img/pentecost_gr.png)
 
 **INSTRUCTIONS FOR THE 40-DAY CHALLENGE**
 
