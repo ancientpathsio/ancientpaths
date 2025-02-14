@@ -33,8 +33,8 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 **_and ask for the ancient paths,_**<br />
 **_where the good way is; and walk in it,_**<br />
 **_and find rest for your souls.”_**<br />
-**_But they said, ‘We will not walk in it.’_**<br />
-**_- Jeremiah 6:16_**
+**_But they said, ‘We will not walk in it.’_**<br /><br />
+**_– Jeremiah 6:16_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of were ancient during his time (630 BC). The paths were known by _learned men_. Sadly, the men of Judah rejected the warning and chose not to walk in it. Eyes wide-open rebellion to God. That same choice is given today to men ensnared in sexual immorality.
 
@@ -632,7 +632,11 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 2. Wait patiently in _hopeful expectation_ of God’s response. He may direct you to Scripture, another brother, or answer it in peculiar ways (leave that up to Him). The key is to surrender the outcome.
 3. Lastly, return to your journal entries in later seasons, to reflect on the goodness of God for helping you heal from broken thought patterns and addictions that destroy your soul.
 
+:::tip
+
 **Remember**: We’re all in sanctification process to the day we pass from death to life. Just make sure you _“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_ (Philippians 3:14)
+
+:::
 
 **SELF-EXAMINATION:**
 
