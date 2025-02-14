@@ -551,7 +551,7 @@ What do these techniques do? **Chiefly, ending destructive thought patterns, and
 
 Meditate prayerfully and connect with God. Pray for joyful obedience. Don’t be discouraged if you don’t see immediate results; this is a _transformation process_ (2 Cor 3:18). Military bootcamp doesn’t produce soldiers or Marines in one week. Joyfully receive the admonition of the Lord as you walk the Ancient Paths.
 
-Want another det cord?
+*Want another det cord?*
 
 Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
 
@@ -708,8 +708,8 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 
 🎖️Attribution given to [Michael Durham](https://theancientpaths.org/)
 
-**Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
-**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)
+**Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)<br />
+**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)<br />
 **Website**: [www.ancientpaths.io](https://ancientpaths.io)
 
 **AncientPaths** exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. This is a community-funded organization. Contributions help to continue their development into maturity as faithful sons of God.
