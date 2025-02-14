@@ -225,7 +225,7 @@ These short videos combine great theology and application:
 - [A Theology of Prayer in 3 Minutes - John Piper](https://www.youtube.com/watch?v=OssBHX5rSiE) (3mins 52 secs)
 - [Teach us to Pray - John Piper](https://www.youtube.com/watch?v=V-_lmGR9EdE&t=14s) (4min 12 secs)
 
-[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
+[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)<br />
 [Psalms: The Prayer Book of the Bible - Dietrich Bonhoeffer](https://www.christianbook.com/psalms-the-prayer-book-the-bible/9781506480190/pd/480192?srsltid=AfmBOooQOgkORZJyBGyUKVuT7hR_zJeUEZFkjvF8OimT5G0uMOUZff_r)
 
 **TALK WITH YOUR GUARDIAN:**
