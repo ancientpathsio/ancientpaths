@@ -705,11 +705,11 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 
 :::Source
 
-**Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 Attribution given to [Michael Durham](https://theancientpaths.org/)
 
 :::
 
+**Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)
 **Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)
 **Website**: [www.ancientpaths.io](https://ancientpaths.io)
 
