@@ -491,9 +491,10 @@ Whether you use an app or index cards, the principles don’t change. I’ll int
 
 1. **Pressure Washing technique**. Just as it suggests, you are washing yourself with the Word. Not sprinkling. High-pressure spiritual hose.
 
-*Here is how it works:*
-- - 1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
-- - 2. Select the verses
+*Here's how it works:*
+
+1. pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
+2. Select the verses
         1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
         2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
         3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
