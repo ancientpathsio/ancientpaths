@@ -646,7 +646,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 ![Alt text](../static/img/pentecost_gr.png)
 
-## **Instructions for the 40-Day Challenge**
+## **Instructions for the 40-Day Challenge (DESTINY)**
 
 **DESTINY** is an exercise in putting Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
 
