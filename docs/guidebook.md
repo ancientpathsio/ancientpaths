@@ -628,7 +628,7 @@ To be blunt, the disciple caught in pornography and masturbation is not acting c
 
 :::note Key Verse to Memorize
 
-**“We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._” (2 Corinthians 10:5)**
+**“We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._”** (2 Corinthians 10:5)
 
 :::
 
@@ -655,7 +655,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 :::note Remember
 
-We’re all in sanctification process to the day we pass from death to life. Just make sure you **_“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_ (Philippians 3:14)**
+We’re all in sanctification process to the day we pass from death to life. Just make sure you **_“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_** (Philippians 3:14)
 
 :::
 
