@@ -613,7 +613,11 @@ The original Ancient Paths playbook—attributed to [Michael Durham](https://the
 
 To be blunt, the disciple caught in pornography and masturbation is not acting correctly. It is equivalent to a uniformed soldier locked in jail because of public drunkenness, or a member of the Royal family cozying up with common folk outside the palace guard. We need to own our role as Ambassadors of Christ (2 Cor 5:20), being sober-minded and alert because the Devil is on the hunt for wayward sheep (1 Peter 5:8-9).
 
-**Key Verse**: “We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._” (2 Corinthians 10:5)
+:::tip
+
+**Key Verse to Memorize**: “We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._” (2 Corinthians 10:5)
+
+:::
 
 As stated previously in Exercise 13, under the _Detonation Cord technique_—the amount of time you have to respond to a “triggering” sexual thought can be measured in seconds—less than that given our endless media feeds. Factoring in the addictive nature porn has on the brain, the sexual fantasy alone can be enough to send you into full-blown relapse (been there).
 
