@@ -24,7 +24,7 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
-    <source src="/audio/sample.wav" type="audio/wav" />
+    <source src="/audio/00_introduction.mp3" type="audio/mp3" />
   </audio>
 </div>
 
