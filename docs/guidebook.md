@@ -10,7 +10,7 @@ sidebar_position: 1
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
-    <source src="/audio/00_introduction.wav" type="audio/wav" />
+    <source src="/audio/00_introduction.mp3" type="audio/mpeg" />
   </audio>
 </div>
 
@@ -30,7 +30,7 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
-    <source src="/audio/01_exercise1.wav" type="audio/wav" />
+    <source src="/audio/01_exercise1.mp3" type="audio/mpeg" />
   </audio>
 </div>
 
