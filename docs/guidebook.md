@@ -604,9 +604,9 @@ Here is what we propose if the first paragraph describes you:
 
 We will seek to discover the unimaginable grace of God together in this partnership, by placing faith in the very Spiritual Disciplines He ordained.
 
-> "Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."
-
-> - Dr. Donald Whitney, _"Spiritual Disciplines for The Christian Life"_, Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
+> _Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him._
+>
+> Dr. Donald Whitney, _"Spiritual Disciplines for The Christian Life"_, Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
 
 **TALK WITH YOUR GUARDIAN:**
 
