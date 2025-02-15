@@ -8,6 +8,12 @@ sidebar_position: 1
 
 ## **Introduction: The Origin**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/00_introduction.wav" type="audio/wav" />
+  </audio>
+</div>
+
 The Ancient Paths is the biblically based, God-ordained path to walk in repentance by disciplining ourselves in a true discipleship process that starts with developing spiritual discipline and approaching God in faith that he will transform us; thereby killing off the desire to continually walk in sin.
 
 We recognize much of the universal church as forgotten how to teach and demonstrate this vital part of following Christ, exchanging the concept of revival in the heart of sinful man, to revivalism that presupposes a man-centered and man-orchestrated revival. Colonial pastors observed, understood, and preached about this phenomenon before the United States and Canada were sovereign nations. The rotten fruit of that philosophy is currently in full bloom in the church and is why the church has lost its voice towards its outreach with the Gospel.
@@ -24,7 +30,7 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 
 <div style={{ textAlign: "left" }}>
   <audio controls>
-    <source src="/audio/00_introduction.wav" type="audio/wav" />
+    <source src="/audio/01_exercise1.wav" type="audio/wav" />
   </audio>
 </div>
 
