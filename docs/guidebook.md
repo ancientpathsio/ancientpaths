@@ -439,7 +439,7 @@ God sifts all of humanity. He brought you to a place to hear a tough message tha
 
 :::note AP Course 
 
-Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-altar-sexual-idolatry-new-edition/steve-gallagher/9780986152825/pd/152822?srsltid=AfmBOorOiXNhqZM0X4cJVyrbiwIrH_9Ni4o63KpLzntDNcN6FDJSJEFX)” by Steve Gallagher (Champion read, very convicting stuff). They have [full-length sermons with handouts](https://purelifeministries.thinkific.com/courses/sexual-idolatry-group) that take each chapter from their book. Their [ministry](https://www.purelifeministries.org/) provides short/long term residential options for pornography and sexual sin.
+Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-altar-sexual-idolatry-new-edition/steve-gallagher/9780986152825/pd/152822?srsltid=AfmBOorOiXNhqZM0X4cJVyrbiwIrH_9Ni4o63KpLzntDNcN6FDJSJEFX)” by Steve Gallagher (Champion read, very convicting stuff). They have [full-length sermons with handouts](https://purelifeministries.thinkific.com/courses/sexual-idolatry-group) that unpack each chapter from their book. Their [ministry](https://www.purelifeministries.org/) provides short/long term residential options for those needing detox from pornography and sexual sin.
 
 :::
 
@@ -470,7 +470,7 @@ Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this 
 
 :::note Note
 
-Did you notice how each point corresponds to at least one Ancient Paths Exercise? Examine these Scriptures as you complete each module. It may take a few cycles to engrain these truths deeper within. See [40-Day challenge](#instructions-for-the-40-day-challenge-destiny) below for more details.
+Did you notice how each point corresponds to at least one Ancient Paths Exercise? Examine these Scriptures as you complete each module. It may take a few cycles to engrain these truths deeper within. See **[40-Day challenge](#instructions-for-the-40-day-challenge-destiny)** below for more details.
 
 :::
 
@@ -604,10 +604,9 @@ Here is what we propose if the first paragraph describes you:
 
 We will seek to discover the unimaginable grace of God together in this partnership, by placing faith in the very Spiritual Disciplines He ordained.
 
-_"Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."_
+> "Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."
 
-\- Dr. Donald Whitney, "Spiritual Disciplines for The Christian Life"  
-Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
+> - Dr. Donald Whitney, _"Spiritual Disciplines for The Christian Life"_, Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -655,7 +654,7 @@ Here are a few practical ways I’ve learned **_how_** to “renew your mind” 
 
 :::note Remember
 
-We’re all in sanctification process to the day we pass from death to life. Just make sure you **_“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_** (Philippians 3:14)
+In Christ, we're all in the sanctification process to the day we pass from death to life. Just make sure you **_“press on toward the goal for the prize of the upward call of God in Christ Jesus.”_** (Philippians 3:14)
 
 :::
 
