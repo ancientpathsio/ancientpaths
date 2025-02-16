@@ -5,41 +5,41 @@
 :root {
   --ifm-font-family-base: 'Inter', sans-serif;
   --ifm-font-family-monospace: 'DM Mono', monospace;
-  --ifm-color-primary: #9F8251;
-  --ifm-color-primary-dark: #907546;
-  --ifm-color-primary-darker: #81683e;
-  --ifm-color-primary-darkest: #725b36;
-  --ifm-color-primary-light: #af9260;
-  --ifm-color-primary-lighter: #bfa370;
-  --ifm-color-primary-lightest: #cfb481;
+  --ifm-color-primary: #8C6F42;
+  --ifm-color-primary-dark: #7E633A;
+  --ifm-color-primary-darker: #705732;
+  --ifm-color-primary-darkest: #624B2A;
+  --ifm-color-primary-light: #9B7F52;
+  --ifm-color-primary-lighter: #AA8F62;
+  --ifm-color-primary-lightest: #B99F72;
   --ifm-code-font-size: 92%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* Keep dark mode colors unchanged */
 [data-theme='dark'] {
-  --ifm-color-primary: #9F8251;
-  --ifm-color-primary-dark: #907546;
-  --ifm-color-primary-darker: #81683e;
-  --ifm-color-primary-darkest: #725b36;
-  --ifm-color-primary-light: #af9260;
-  --ifm-color-primary-lighter: #bfa370;
-  --ifm-color-primary-lightest: #cfb481;
+  --ifm-color-primary: #8C6F42;
+  --ifm-color-primary-dark: #7E633A;
+  --ifm-color-primary-darker: #705732;
+  --ifm-color-primary-darkest: #624B2A;
+  --ifm-color-primary-light: #9B7F52;
+  --ifm-color-primary-lighter: #AA8F62;
+  --ifm-color-primary-lightest: #B99F72;
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
 
 /* Force Tip Box to Use Mustard Yellow */
 .alert--info {
-  background-color: #cfb481 !important;
-  border-color: #9F8251 !important;
-  color: #56422a !important;
+  background-color: #B99F72 !important;
+  border-color: #8C6F42 !important;
+  color: #4E3A24 !important;
 }
 
 /* Adjust Tip Box Color in Dark Mode */
 [data-theme='dark'] .alert--info {
-  background-color: #af9260 !important;
-  border-color: #907546 !important;
-  color: #3e2e1b !important;
+  background-color: #9B7F52 !important;
+  border-color: #7E633A !important;
+  color: #332519 !important;
 }
 
 /* Hide the Contact link by default on all screen sizes */
