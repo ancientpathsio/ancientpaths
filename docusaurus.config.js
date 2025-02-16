@@ -62,11 +62,6 @@ const config = {
         },
         { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
-          label: 'Store',
-          href: 'https://www.bonfire.com/store/ancientpaths/',
-          position: 'left',
-        },
-        {
           label: 'Donate',
           href: '/give',
           position: 'right',
@@ -109,10 +104,6 @@ const config = {
             {
               label: 'Donate',
               to: '/give/',
-            },
-            {
-              label: 'Store',
-              href: 'https://www.bonfire.com/store/ancientpaths/',
             },
             {
               label: 'Contact',
