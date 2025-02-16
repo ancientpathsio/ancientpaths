@@ -1,51 +1,45 @@
-/**  
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-font-family-base: 'Inter', sans-serif; /* Reverted to Inter */
+  --ifm-font-family-base: 'Inter', sans-serif;
   --ifm-font-family-monospace: 'DM Mono', monospace;
-  --ifm-color-primary: #a4a83f; /* 25% darker */
-  --ifm-color-primary-dark: #969a3a; /* 25% darker */
-  --ifm-color-primary-darker: #888c35; /* 25% darker */
-  --ifm-color-primary-darkest: #7a7d30; /* 25% darker */
-  --ifm-color-primary-light: #b2b64c; /* Adjusted */
-  --ifm-color-primary-lighter: #c1c55f; /* Adjusted */
-  --ifm-color-primary-lightest: #d0d373; /* Adjusted */
+  --ifm-color-primary: #8F7245;
+  --ifm-color-primary-dark: #80663e;
+  --ifm-color-primary-darker: #715a37;
+  --ifm-color-primary-darkest: #624e30;
+  --ifm-color-primary-light: #9f8251;
+  --ifm-color-primary-lighter: #af9260;
+  --ifm-color-primary-lightest: #bfa370;
   --ifm-code-font-size: 92%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* Keep dark mode colors unchanged */
 [data-theme='dark'] {
-  --ifm-color-primary: #bfc545;
-  --ifm-color-primary-dark: #aab03e;
-  --ifm-color-primary-darker: #979c37;
-  --ifm-color-primary-darkest: #85892f;
-  --ifm-color-primary-light: #d1d76b;
-  --ifm-color-primary-lighter: #e3e992;
-  --ifm-color-primary-lightest: #f0f5b8;
+  --ifm-color-primary: #8F7245;
+  --ifm-color-primary-dark: #80663e;
+  --ifm-color-primary-darker: #715a37;
+  --ifm-color-primary-darkest: #624e30;
+  --ifm-color-primary-light: #9f8251;
+  --ifm-color-primary-lighter: #af9260;
+  --ifm-color-primary-lightest: #bfa370;
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.2);
 }
 
 /* Force Tip Box to Use Mustard Yellow */
 .alert--info {
-  background-color: #d0d373 !important; /* Mustard yellow */
-  border-color: #a4a83f !important; /* Darker mustard */
-  color: #5a5e1e !important; /* Contrast text */
+  background-color: #bfa370 !important;
+  border-color: #8F7245 !important;
+  color: #4e3a23 !important;
 }
 
 /* Adjust Tip Box Color in Dark Mode */
 [data-theme='dark'] .alert--info {
-  background-color: #bfc545 !important; /* Darker mustard yellow */
-  border-color: #969a3a !important; /* Dark border */
-  color: #323618 !important; /* Contrast text */
+  background-color: #9f8251 !important;
+  border-color: #80663e !important;
+  color: #3a2b19 !important;
 }
 
 /* Hide the Contact link by default on all screen sizes */
@@ -73,7 +67,7 @@
   cursor: pointer;
   transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
   margin-left: 10px;
-  display: none; /* Hide by default */
+  display: none;
 }
 
 /* Show Donate button on mobile */
@@ -100,12 +94,10 @@
 
 /* Adjust H1 and H2 font sizes for mobile view only on the main page */
 @media (max-width: 768px) {
-  /* Target only the main page header and subtitle */
   .hero__title {
-    font-size: 2.5rem; /* Adjust as needed */
+    font-size: 2.5rem;
   }
-
   .hero__subtitle {
-    font-size: 1.25rem; /* Adjust as needed */
+    font-size: 1.25rem;
   }
 }
