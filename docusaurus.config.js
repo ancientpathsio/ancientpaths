@@ -92,10 +92,6 @@ const config = {
               label: 'Discord',
               href: 'https://discord.gg/xk6qxyZSkx',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/ancientpathsio/ancientpaths/',
-            },
           ],
         },
         {
