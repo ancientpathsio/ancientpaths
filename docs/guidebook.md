@@ -49,7 +49,7 @@ When the young prophet Jeremiah was warning the Southern Kingdom of Judah to rep
 
 In Jeremiah’s time, he was calling for men to repent and return to faith in God by the prescribed appropriate worship—which all pointed to Jesus Christ. It begs the question, **“How does a man get on the Ancient Paths today?”**
 
-Answer: The Gospel of Jesus Christ.
+**Answer: The Gospel of Jesus Christ.**
 
 But what happens when [only half of North American churches have a biblical worldview?](https://www.barna.com/research/only-half-of-protestant-pastors-have-a-biblical-worldview/) What then, is being preached in the pulpits? What does that do for the man caught in sexual sin? I cannot in good conscience encourage men to attempt walking the Ancient Paths, assuming they understand The Fact of Jesus Christ. So let’s get this right before we start by having a firm foundation.
 
@@ -354,7 +354,6 @@ This is one of my favorites, and those that know my story can understand why. Br
 
 - [Ambush Satan With a Song - John Piper](https://www.youtube.com/watch?v=Yrw5roZDWqY) (3mins 36secs)
 - [Ambush Satan With a Song - John Piper](https://www.desiringgod.org/messages/ambushing-satan-with-song) (full message 2 Chronicles 20:1-25; 30 mins)
-- [Theologically Rich Christian Music Play List](https://www.youtube.com/watch?v=sk7qj4OGX1k) (edited)
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -410,7 +409,7 @@ I hope these videos from John Piper help orient you and your wife towards a life
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
-**[_Ephesians 5:3-7_](https://biblehub.com/esv/ephesians/5.htm)**<br />  
+**[_Ephesians 5:3-7_](https://biblehub.com/esv/ephesians/5.htm)**
 **[_Hebrews 10:26-31_](https://biblehub.com/esv/hebrews/10.htm)**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
@@ -576,7 +575,7 @@ The goal is to move your heart to a deeper relationship with Christ; not solely 
 
 Meditate prayerfully and connect with God. Pray for joyful obedience. Don’t be discouraged if you don’t see immediate results; this is a _transformation process_ (2 Cor 3:18). Military bootcamp doesn’t produce soldiers or Marines in one week. Joyfully receive the admonition of the Lord as you walk the Ancient Paths.
 
-Want another det cord?
+*Want another det cord?*
 
 Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
 
@@ -635,7 +634,7 @@ To be blunt, the disciple caught in pornography and masturbation is not acting c
 
 :::note Key Verse to Memorize
 
-**“We demolish arguments and every pretension that sets itself up against the knowledge of God, and _we take captive every thought to make it obedient to Christ._”** (2 Corinthians 10:5)
+“We demolish arguments and every pretension that sets itself up against the knowledge of God, and **_we take captive every thought to make it obedient to Christ._”** (2 Corinthians 10:5)
 
 :::
 
