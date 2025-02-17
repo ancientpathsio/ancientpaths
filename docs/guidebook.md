@@ -20,11 +20,13 @@ We recognize much of the universal church as forgotten how to teach and demonstr
 
 We do not entertain psychology, or any other worldly idea. All answers come from Scripture, as accepted by the Reformers and Early Church to be the 66 books and letters that comprise the library of the Holy Bible. The exercises of the Ancient Paths can be pursued among the fellowship of believers or may be installed in local churches (which is the preferred method). More on that later.
 
-Once the brother has completed Exercises 1-8, he informs the Ancient Paths leadership that he is ready for the Ancient Paths 40-Day Challenge (called Destiny). In the AP Discord, the brother is placed in a private channel, where he will walk for 40 days with other brothers (called Guardians) who will aid in instilling the spiritual disciplines from exercises 1-8. It is asynchronous, where there is no need for all the brothers to meet at a specific time—that would be far too unrealistic. Rather, they pray, share, and post emojis on the channel for accountability. If they need more accountability, they ask for it: from other brothers, AP leaders, or even in their own household and church.
+Once the brother has completed Exercises 1-8, he informs the Ancient Paths leadership that he is ready for the Ancient Paths 40-Day Challenge. In the AP Discord, the brother is placed on the Destiny private channel, where he will walk for 40 days with other brothers in installing and conducting the spiritual disciplines from exercises 1-8. It is asynchronous, where there is no need for all the brothers to meet at a specific time—that would be far too unrealistic. Rather, they pray, share, and post emojis on the channel for accountability. If they need more accountability, they ask for it: from other brothers, AP leaders, or even in their own household and church.
 
 After the initial Destiny has concluded, they are eligible to continue through ["Spiritual Disciplines for the Christian Life"](https://www.christianbook.com/spiritual-disciplines-christian-updated-anniversary-edition/donald-whitney/9781615216178/pd/216178?en=google&event=SHOP&kw=christian-living-0-20%7C216178&p=1179710&utm_source=google&p=1229913&dv=c&cb_src=google&cb_typ=shopping&cb_cmp=233748492&cb_adg=14306043372&cb_kyw=&utm_medium=shopping&snav=GMERCH&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvH_et1oPq8PwNR2hhfmJUC4KUGSWMI_DtujhJNfXfsdc8Ua7A4XeJBoCE9cQAvD_BwE) and a Bible Study of Ephesians. Why Ephesians? Because it perfectly summarizes Romans, and if you understand Romans, you understand the Bible.
 
 The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (1) unwilling to separate from the world and (2) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
+
+Finally. For participating in this challenge: I salute you. Not many dare to venture the hard and narrow road leading to life, but that is the Ancient-Way—the path to peace and understanding. It is the path to Christ.
 
 ## **Exercise 1: The Ancient Paths**
 
@@ -45,13 +47,13 @@ The entire discipleship process is meant to bring you closer to Christ and a lov
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of were ancient during his time (630 BC). The paths were known by _learned men_. Sadly, the men of Judah rejected the warning and chose not to walk in it. Eyes wide-open rebellion to God. That same choice is given today to men ensnared in sexual immorality.
 
-In Jeremiah’s time, he was calling for men to repent and return to faith in God by the prescribed appropriate worship—which all pointed to Jesus Christ. It begs the question, *“How does a man get on the Ancient Paths today?”*
+In Jeremiah’s time, he was calling for men to repent and return to faith in God by the prescribed appropriate worship—which all pointed to Jesus Christ. It begs the question, **“How does a man get on the Ancient Paths today?”**
 
-**Answer: The Gospel of Jesus Christ.**
+Answer: The Gospel of Jesus Christ.
 
 But what happens when [only half of North American churches have a biblical worldview?](https://www.barna.com/research/only-half-of-protestant-pastors-have-a-biblical-worldview/) What then, is being preached in the pulpits? What does that do for the man caught in sexual sin? I cannot in good conscience encourage men to attempt walking the Ancient Paths, assuming they understand The Fact of Jesus Christ. So let’s get this right before we start by having a firm foundation.
 
-Here is a clear presentation of The Gospel by pastor Jeff Duncan from the first sermon he did on Romans 1:1-7 entitled [“The Gospel of God”.](https://www.youtube.com/watch?v=owSVFabJwcI&list=PLlB062-zAjAFPEpYvfpjmP2TStVmC54Dq&index=5) Out of all the tools I will present to you, this is the most important: a pastor that faithfully preaches God’s Word. It has often been said, if you understand Romans, you understand the Bible. All of the Reformers knew this, chief among them, Martin Luther.
+Here is a clear presentation of The Gospel by pastor Jeff Duncan from the first sermon he did on Romans 1:1-7 entitled [“The Gospel of God”](https://www.youtube.com/watch?v=owSVFabJwcI&list=PLlB062-zAjAFPEpYvfpjmP2TStVmC54Dq&index=5). Out of all the tools I will present to you, this is the most important: a pastor that faithfully preaches God’s Word. It has often been said, if you understand Romans, you understand the Bible. All of the Reformers knew this, chief among them, Martin Luther.
 
 Daily disciplines. Holy habits. Spiritual disciplines. Means of grace. All designed to commune with our God, to worship him, and to be transformed/sanctified by Him. Don’t get twisted by the last sentence: this doesn’t mean offering up prayers to God to take away lust and then waiting on God as if he is a waiter to accomplish it while we twiddle our thumbs. Or worse. Self-help means the devices and schemes apart from delving into the graces God has already given. Prayer and study are fundamental. Self-examination is being brutally honest when confronted by biblical truth.
 
@@ -62,19 +64,19 @@ With that in mind, there are four things to keep in mind on the Ancient Paths:
 1. Your heart attitude towards Christ and his Scriptures will be the determining factor of whether or not you are victorious over lust. This is above all other factors, strategies, tools, or techniques. If you are failing, press in on this point.
 2. The Ancient Paths should develop holy structure and replaces unholy structure (or lack of any structure) in your life.
 3. Guard against partaking in religious exercise for the sole purpose of getting rid of sexual immorality. Fighting sin is holy, yes. But if your heart attitude is rooted in wanting to get on with life after ditching your lack of sexual control and its consequences, then you missed point 1: **The proper worship of God made possible by Christ, as revealed through Scripture.** Christ has zero interest remaining as an adjunct part of your life. He has to be the center. The majority of Christian counselors and para-church ministries, almost exclusively focus on dealing with sexual sin (the presenting problem), while ignoring the root problem: _the heart attitude towards Christ and Scripture_ (point 1). Brothers express anger and frustration because lust doesn’t immediately go away. Remember, you are on an Ancient Path to worship God because of revelation to you. Do your work while he does his.
-4. We must become masters as fleeing sexual immorality.
+4. We must become masters at fleeing sexual immorality.
    :::note Did you know
 
    **Sexual immorality is the only sin in which we are commanded to flee from?** 1 Cor 6:18 is a great memory verse, sure; but it also establishes we must perfect the art of fleeing. Press in on it. Fleeing takes on many forms: what does it mean to you?
 
    :::
-6. [Antinomianism](https://www.gotquestions.org/antinomianism.html) in the church is largely responsible for how many of us got here, so guard against it. Don’t know what that means? I have some tools for you.
+5. [Antinomianism](https://www.gotquestions.org/antinomianism.html) in the church is largely responsible for how many of us got here, so guard against it. Don’t know what that means? I have some tools for you.
 
-To prepare you for this journey, Exercise 1 introduces tools. They are good tools, but not the only tools. They are found at the top of the page, under “Useful Tools.” I gathered these tools from learned men—and you certainly may have some of your own.
+To prepare you for this journey, Exercise 1 introduces tools. They are good tools, but not the only tools. I gathered these tools from learned men—and you certainly may have some of your own.
 
 [Blue Letter Bible](https://www.blueletterbible.org/) offers much more than just the Bible. It’s free, you can pick your translation preference (even language), it has Bible Reading plans, commentaries, devotions, free Christian Education courses, catechisms, and much more.
 
-What is a [catechism](https://www.thegospelcoalition.org/article/should-know-catechisms/)? Think of it as Sunday School, well before computers and electricity. It summarizes what the Bible teaches. I posted two well-known catechisms: [Westminster Catechism](https://thewestminsterstandard.org/westminster-larger-catechism/) and [C.H. Spurgeon’s Catechism.](https://www.blueletterbible.org/study/ccc/chs_PuritanCatechism.cfm) Check out question 1 of each. _Learned men thought Question 1 was pretty important._ Then examine them so that you learn what they can do for you on this journey.
+What is a [catechism](https://www.thegospelcoalition.org/article/should-know-catechisms/)? Think of it as Sunday School, well before computers and electricity. It summarizes what the Bible teaches. I posted two well-known catechisms: [Westminster Catechism](https://thewestminsterstandard.org/westminster-larger-catechism/) and [C.H. Spurgeon’s Catechism](https://www.blueletterbible.org/study/ccc/chs_PuritanCatechism.cfm). Check out question 1 of each. _Learned men thought Question 1 was pretty important._ Then examine them so that you learn what they can do for you on this journey.
 
 :::note Did you know
 
@@ -90,12 +92,12 @@ Latin Mass (which common people didn’t speak), rituals, relics, and indulgence
 - [Impact Video Ministries](https://www.youtube.com/@ImpactVideoMinistries/playlists) I recently discovered this resource. Amazing how so many topics he did applies to what men dealing with sexual issues. Straight forward.
 - [How to Study the Bible and Journaling](https://www.tvcresources.net/wp-content/uploads/2020/02/201006260900FMWC22ATAAA_MattChandlerJoshPatterson_SaturdaySeminar-HowToStudyTheBible.mp3) A literal Master Class by Matt Chandler. This is where many men trapped in lust have problems with. This is a separate exercise by itself as it is vitally important. For exercise 1, you do not need to listen to this teaching, just know it’s coming.
 
-The following are the cheapest and best resources I have found for their respective topics. Each one is a separate exercise on this channel, and some can be acquired free:
+The following are the cheapest and best resources I have found for their respective topics. Each one is a separate exercise in this guidebook, and some can be acquired free:
 
-- [“Godliness Through Discipline”](https://www.christianbook.com/godliness-through-discipline-jay-adams/9780875520216/pd/5520219?event=BRSRCG|PSEN) by Dr. Jay E Adams is going to address one area because so many men fail at putting sexual sin to death: they simply were never trained to have the discipline to fight. This must be rectified first. Christ doesn’t want “vulnerable” men in his service. He wants steadfast men who are warriors. That doesn’t happen without discipline.
+- [“Godliness Through Discipline”](https://www.christianbook.com/godliness-through-discipline-jay-adams/9780875520216/pd/5520219?event=BRSRCG|PSEN) by Dr. Jay E Adams is going to address one specific area because so many men fail at putting sexual sin to death: they simply were never trained to have the discipline to fight. This must be rectified first. Christ doesn’t want “vulnerable” men in his service. He wants steadfast men who are warriors. That doesn’t happen without discipline.
 - ["What is Repentance?](https://www.christianbook.com/what-is-repentance-r-c-sproul/9781642890532/pd/890532?event=BRSRCG|PSEN) by RC Sproul, will settle the issue on a poorly taught subject in churches today. He will define it, show the picture, model, and regeneration of repentance. For $3.00 and 37 pages, you will understand what it means, and you will use it to guide you in this battle.
 - [“Praying the Bible”](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=BRSRCG|PSEN) by Donald Whitney, will restructure your prayer life like you never thought possible. It is a game-changer. I get more comments from brothers about this book than any other resource. Is $10.00 worth it to you to have a vibrant transformative prayer life? If you can’t afford it, I’ll buy it for you. Yeah, it’s that good.
-- [“The Mortification of Sin”](https://www.christianbook.com/the-mortification-of-sin/john-owen/9781800402683/pd/0402683?event=BRSRCG|PSEN) by John Owen, gets down to the nitty-gritty and reveals what most sin-soaked men missed in their Christian education, largely because the churches fail to teach. This is a classic and being discipled by a pastor from the year 1536 is worth the price of admission. You can get this book [FREE](https://librivox.org/the-mortification-of-sin-in-believers-by-john-owen/) in the audio form online, but I highly recommend the hard cover as you will keep referring to it.
+- [“The Mortification of Sin”](https://www.christianbook.com/the-mortification-of-sin/john-owen/9781800402683/pd/0402683?event=BRSRCG|PSEN) by John Owen, gets down to the nitty-gritty and reveals what most sin-soaked men missed in their Christian education, largely because the churches fail to teach. This is a classic, and being discipled by a pastor from the year 1536 is worth the price of admission. You can get this book for [FREE](https://librivox.org/the-mortification-of-sin-in-believers-by-john-owen/) in audio format online, but I highly recommend purchasing a hard cover copy as you will keep referring to it.
 
 **SELF-EXAMINATION:**
 
@@ -103,7 +105,7 @@ The following are the cheapest and best resources I have found for their respect
 - Question 1 on both Catechisms: Describe how lust prevents your chief purpose from being realized.
 - What is the truth about your Bible reading and prayer time as you read this? Describe each in one sentence. Write it in your journal and watch what God does.
 - How can your Guardian keep you accountable on this path?
-- What does fleeing sexual immorality look from a practical day-to-day standpoint?
+- What does fleeing sexual immorality look like from a practical day-to-day standpoint?
 
 ## **Exercise 2: Godliness Through Discipline**
 
@@ -166,7 +168,7 @@ Let's understand what repentance is. Please acquire the cheap, 37-page booklet, 
 
 :::note Definition
 
-**Guardian**: A brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
+**Guardian**: A _Guardian_ is a brother who has walked the Ancient Paths and is faithful to helping others on the path to sexual purity in Christ. For more information, see the Appendix or reach out to an Admin.
 
 :::
 
@@ -194,7 +196,10 @@ Main Point: Aim at God’s glory by joyfully keeping God’s Word in the power o
 Applications: Put these disciplines into practice and develop a daily rhythm to aid in your sanctification and renewal.
 
 - - Aim at glory by aiming at God’s Word
-    - Memorizing Scripture, meditating, feeding off Christ **daily** (Psalm 1:2-3, John 4:31)
+    - Memorizing Scripture, meditating, feeding off Christ **daily**
+
+(Psalm 1:2-3, John 4:31)
+
 - - Make every effort to add to your faith (1 Pe 1:5)
     - Aim at God’s glory by _depending on His Spirit_
     - Make use of the means he has given us; **the same power that resurrected Christ**
@@ -220,7 +225,7 @@ Now we put on the big-boy pants. I hope you notice a trend in all the exercises 
 
 I say yes. The Bible is structure. Repentance is structure. Prayer. Devotions. Self-Examination. Poke your head out the window and see creation. What do you see? Structure and power. Our God is a stabilizing force that uses structure. Recall the story, and you will see systematic restructuring of nothing into beauty.
 
-With that in mind, I give you the Master Class on Journaling and Bible study by Matt Chandler. The audio version (which I prefer) can be found here: [“How to Study the Bible”.](https://www.tvcresources.net/wp-content/uploads/2020/02/201006260900FMWC22ATAAA_MattChandlerJoshPatterson_SaturdaySeminar-HowToStudyTheBible.mp3) You will want to take notes and put this in your journal. No, really. Take notes because you will be referring back to them. The audio version runs for about 54 minutes—you do not have to listen to the 2nd speaker.
+With that in mind, I give you the Master Class on Journaling and Bible study by Matt Chandler. The audio version (which I prefer) can be found here: “[How to Study the Bible”](https://www.tvcresources.net/wp-content/uploads/2020/02/201006260900FMWC22ATAAA_MattChandlerJoshPatterson_SaturdaySeminar-HowToStudyTheBible.mp3). You will want to take notes and put this in your journal. No, really. Take notes because you will be referring back to them. The audio version runs for about 54 minutes—you do not have to listen to the 2nd speaker.
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -238,7 +243,8 @@ These short videos combine great theology and application:
 - [A Theology of Prayer in 3 Minutes - John Piper](https://www.youtube.com/watch?v=OssBHX5rSiE) (3mins 52 secs)
 - [Teach us to Pray - John Piper](https://www.youtube.com/watch?v=V-_lmGR9EdE&t=14s) (4min 12 secs)
 
-[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)<br />
+[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
+
 [Psalms: The Prayer Book of the Bible - Dietrich Bonhoeffer](https://www.christianbook.com/psalms-the-prayer-book-the-bible/9781506480190/pd/480192?srsltid=AfmBOooQOgkORZJyBGyUKVuT7hR_zJeUEZFkjvF8OimT5G0uMOUZff_r)
 
 **TALK WITH YOUR GUARDIAN:**
@@ -275,7 +281,11 @@ Here are some short videos to help you think about this topic:
 - [There is no Substitute for Memorizing Scripture - John Piper](https://www.youtube.com/watch?v=nMKJTA6kTkc) (5mins 25secs)
 - [5 Easy Tips to Memorize Scripture - Denise Trio](https://www.youtube.com/watch?v=NJuGw8Cb-n0&list=PLh9C0bgEBAtyIgLByQS14aMZsPlRl0sA4&index=2) (7mins 17secs)
 
-Note: the 5th technique is what many Bible colleges teach to freshman students. The [Bible Memory App](https://biblememory.com/) also has this option.
+:::note Note
+
+The 5th technique is what many Bible colleges teach to freshman students. The [Bible Memory App](https://biblememory.com/) also has this option.
+
+:::
 
 - [Why I Memorize Books of the Bible - Andrew Davis](https://www.desiringgod.org/articles/why-i-memorize-books-of-the-bible)
 
@@ -317,7 +327,7 @@ So, let’s cut to the chase: _We lust-filled men must fast_. From what? Food. R
 
 The Roman Christians normally fasted twice a week (see [Didache](https://www.ccel.org/ccel/richardson/fathers.viii.i.iii.html)), and they certainly didn’t live sedentary lives. They burned calories and did quite well in coming out of a culture of sin-soaked sexual immorality. **Every sexual pleasure for men was expected** _(there was a double standard with women)_ **which is why Christianity boldly collided with Roman culture**. Christians were hated because sexual purity was demanded.
 
-*Pointers on fasting:*
+Pointers on fasting:
 
 - Biblically, it almost always deals with the abstinence of food, but a thorough reading of Isaiah 58:6-12 broadens the scope; most pastors would agree that _abstaining from certain things that make you particularly uncomfortable (suffering loss) to pursue the glory of God, is worthy of consideration_
 - It always has a spiritual purpose
@@ -332,7 +342,8 @@ The Roman Christians normally fasted twice a week (see [Didache](https://www.cce
 - Fasting is hungering for the Bridegroom to return (Jesus Christ); representative of our hunger for him, when all will be fulfilled
 - Although there are massive health benefits to fasting, none are mentioned in the Bible—and it should not be the purpose; nor even be in competition with the spiritual purpose; it there is any physical benefit to be gained, chalk it up to an added grace from God, _but don’t be distracted from the real purpose_
 
-[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)<br />
+[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)
+
 [A Hunger for God Through Prayer and Fasting - John Piper](https://www.youtube.com/watch?v=arQnr37lAQg) (3mins 6secs)
 
 **TALK WITH YOUR GUARDIAN:**
@@ -369,8 +380,11 @@ Write a song to the Lord using Scripture and your imagination. David did it and 
 
 This is a recurring topic I’m sure many have faced. It is one of the toughest topics due to the trajectory of marriage in the U.S. and abroad. There are two forces at work here:
 
-1. A misunderstanding of what Biblical marriage is supposed to look like (most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
-2. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
+1. A misunderstanding of what Biblical marriage is supposed to look like
+
+(most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
+
+1. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
 
 John Piper has several videos addressing this (see below), including wisdom imparted by learned men along the way:
 
@@ -402,7 +416,7 @@ I hope these videos from John Piper help orient you and your wife towards a life
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
-**_Ephesians 5:3-7_**<br />
+**_Ephesians 5:3-7_** <br />
 **_Hebrews 10:26-31_**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
@@ -504,22 +518,19 @@ For advanced memorization, there are three principles:
 
 Whether you use an app or index cards, the principles don’t change. I’ll introduce two techniques for advanced memorization: **Pressure Washing**, and **Detonation Cord**.
 
-1. **Pressure Washing technique**. Just as it suggests, you are washing yourself with the Word. Not sprinkling. High-pressure spiritual hose.
-
-*Here's how it works:*
-
-1. Pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
-2. Select the verses
-    - 1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
-    - 2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
-    - 3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
-    - 4. If you are using a memory app: CHEAT. Open the Blue Letter Bible (or similar), and type all of the Scripture at the “Mastery” level (that is the level where there are no helps). You will have to do this the first time, otherwise, the app will not recognize that you have mastered it, and will not keep it for review in subsequent days. Remember, we are not trying to memorize at this point.
-    - 5. If you are using index cards, the first set of cards you prepare will have all of the verse on one side; and the reference on the opposite side. Again, we are not trying to memorize.
-6. Each day, type in the verses. Meditate and pray over them as you are doing so. If you do not understand a verse completely—Bible study. Use the tools in Exercise #1, or similar tools.
-4. After about a week or two, you will not need your Bible anymore—the 2nd level “Memorize” function on the app will take away half the words in the verses, and you will begin to complete verses without a Bible. I set my app for about 90% to account for mistakes, and still allow me to pass.
-5. After a week with **index cards**, you make a 2nd set of cards, but this time, you use only the FIRST LETTER of each word—including punctuation. This is the method taught in many Bible colleges, well before the Bible Memory App (and others) were created.
-6. After a few weeks, there will be some verses that touch your soul. [Studies](https://jamesclear.com/new-habit) show it takes on average two to three cycles of 21 days to replace a single thought or behavior (Interestingly, most 90-day addiction/recovery programs follow this pattern). Those are the ones you memorize. Use the flash card function on the Bible Memory App, or index cards. Repetition: keep them in your face all day long—you will already be intimately familiar with them.
-7. Keep at it until all of the verses are Mastered: that is, you need no helps, you know the verses and references by heart. Adjust the review frequency as needed. If it takes you three months, so be it. Do not be afraid to add more verses along the way. I am juggling about 140 right now, and **it is a natural part of my life. It glorifies God and transforms you**.
+1. **Pressure Washing technique**. Just as it suggests, you are washing yourself with the Word. Not sprinkling. High-pressure spiritual hose. Here is how it works:
+    1. Pick a ridiculous number of verses you think you can do in a month; that number is somewhere between 30 and 100.
+    2. Select the verses
+        1. For starters I suggest: 1 Thess 4:3-5 + Eph 4:17-24 + Eph 5:3-8; 1 Cor 6:11-14 + 1 Cor 6:18-20 (this will give you a great understanding of sexual immorality)
+        2. Then add a variety of verses dealing with **repentance, heart attitude, walking in the light, love of God, fear of God**, etc. If you are on the Bible Memory App, those collections are already there. I am not saying memorize the whole collections: pick the verses you are led to. If you are not using an app, simply do searches from those topics and pick your own. You want to eat a balanced diet of Scripture because LUST isn’t the main problem. It is deeper. Much deeper (Romans 1).
+        3. Then add 2 Cor 3:18 + all of 2nd John (13 verses). Memorizing 2nd John will give you the confidence of having an entire letter—and the main thrust of 2nd John hits the deeper issues in the heart. Gentlemen, the days of trying to ingest one or two verses are over. As I said before in Exercise #5, it was common for many Christians to memorize most of the New Testament. Martin Luther said _memorizing Romans_ should be a goal of every Christian. It was normal. (Try all of Romans 8, because it deals with Identity and _Sonship_).
+        4. If you are using a memory app: CHEAT. Open the Blue Letter Bible (or similar), and type all of the Scripture at the “Mastery” level (that is the level where there are no helps). You will have to do this the first time, otherwise, the app will not recognize that you have mastered it, and will not keep it for review in subsequent days. Remember, we are not trying to memorize at this point.
+        5. If you are using index cards, the first set of cards you prepare will have all of the verse on one side; and the reference on the opposite side. Again, we are not trying to memorize.
+        6. Each day, type in the verses. Meditate and pray over them as you are doing so. If you do not understand a verse completely—Bible study. Use the tools in Exercise #1, or similar tools.
+2. After about a week or two, you will not need your Bible anymore—the 2nd level “Memorize” function on the app will take away half the words in the verses, and you will begin to complete verses without a Bible. I set my app for about 90% to account for mistakes, and still allow me to pass.
+3. After a week with **index cards**, you make a 2nd set of cards, but this time, you use only the FIRST LETTER of each word—including punctuation. This is the method taught in many Bible colleges, well before the Bible Memory App (and others) were created.
+4. After a few weeks, there will be some verses that touch your soul. [Studies](https://jamesclear.com/new-habit) show it takes on average two to three cycles of 21 days to replace a single thought or behavior (Interestingly, most 90-day addiction/recovery programs follow this pattern). Those are the ones you memorize. Use the flash card function on the Bible Memory App, or index cards. Repetition: keep them in your face all day long—you will already be intimately familiar with them.
+5. Keep at it until all of the verses are Mastered: that is, you need no helps, you know the verses and references by heart. Adjust the review frequency as needed. If it takes you three months, so be it. Do not be afraid to add more verses along the way. I am juggling about 140 right now, and **it is a natural part of my life. It glorifies God and transforms you**.
 
 Gentlemen: Remember to journal those days when you feel compelled to review verses, rather than seeking sexual sin. It will happen.
 
@@ -548,11 +559,7 @@ This works for any sin or area in your life you need to overcome—start with th
 
 :::
 
-You MUST know these verses forwards and backwards—no fumbling or stumbling. Why?
-
-**Because the arousal template you have fallen so often has established a pattern in your heart and mind.**
-
-_Now you are “putting off the old man and putting on the new man”_ (Eph 4:22-24) and “_taking every thought captive to obey Christ”_ (2 Cor 10:4-5) at the same time by _“preparing your mind for action”_ (1 Pe 1:13-14).
+You MUST know these verses forwards and backwards—no fumbling or stumbling. Why? **Because the arousal template you have fallen so often has established a pattern in your heart and mind.** _Now you are “putting off the old man and putting on the new man”_ (Eph 4:22-24) and “_taking every thought captive to obey Christ”_ (2 Cor 10:4-5) at the same time by _“preparing your mind for action”_ (1 Pe 1:13-14).
 
 1. Here is an example:
     1. The Resurrection: John 11:25 _“Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live”_ (notice that this verse also contains an implication- but I’ll choose another to have two implications)
@@ -575,9 +582,9 @@ The goal is to move your heart to a deeper relationship with Christ; not solely 
 
 Meditate prayerfully and connect with God. Pray for joyful obedience. Don’t be discouraged if you don’t see immediate results; this is a _transformation process_ (2 Cor 3:18). Military bootcamp doesn’t produce soldiers or Marines in one week. Joyfully receive the admonition of the Lord as you walk the Ancient Paths.
 
-*Want another det cord?*
+Want another det cord?
 
-**Romans 6—all 23 verses.** Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
+Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctification. Go and read it SLOWLY. Do you see what is happening? Most Christians will only know Romans 6:23 because they memorized it as part of “Romans Road” for soul-winning and never understanding the depth that needs to be renewed in the spirit of their minds (Eph 4:23). I was amazed at what God started to do after I pressed in on Romans 6, confessing to God the portions I was not settled in, asking for his grace to transform my mind.
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -598,7 +605,7 @@ So knock it off. Whatever manner of faith God has worked in you, he also provide
 
 Here is what we propose if the first paragraph describes you:
 
-1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: **@Jason @Damian**... etc.
+1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: @Jason @Damian... etc.
 2. We will set up a Voice Channel with 2 or more Guardians to examine you. Remember, the beauty of Ancient Paths, it is a place where we can finally tell the truth about ourselves. We will cover your understanding of the Gospel, each exercise in the Ancient Paths, the basic theology contained therein, your implementation of the Spiritual Disciplines, any unconfessed sin, and whatever else is appropriate. This is to assist you to correct any bad theology or wrong thinking, Plan for 1.5 hours. We will not compel anything, but will merely highlight gaps in thinking, or unfruitful actions that retard spiritual growth. We will assist you to reconceptualize the path you have been called by identifying gaps and suggest practical remedies.
 3. We will set a date under the proposition that you will fight as if that date is the date of your expiration from this earth (Rev 2:5), in order to instill intensity for this fight. There is nothing more important, so be prepared to clear things off your calendar that are trivial. The gloves are coming off. No short-cutting or half-measures. No longer will you approach seeking the Spiritual Disciplines with a minimalist mindset (bartering with God by trying to find the bare minimums of obedience, in hopes that he sets you free). We've all done that. It doesn't work.
 4. Each week you will report to a Guardian assigned to you for that week by DM, phone, or zoom—or even more often if deemed necessary. You are not falling through the cracks.
@@ -610,9 +617,10 @@ Here is what we propose if the first paragraph describes you:
 
 We will seek to discover the unimaginable grace of God together in this partnership, by placing faith in the very Spiritual Disciplines He ordained.
 
-> _"Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."_
->
-> Dr. Donald Whitney, _"Spiritual Disciplines for The Christian Life"_, Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
+_"Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."_
+
+\- Dr. Donald Whitney, "Spiritual Disciplines for The Christian Life"  
+Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
 
 **TALK WITH YOUR GUARDIAN:**
 
@@ -671,8 +679,10 @@ In Christ, we're all in the sanctification process to the day we pass from death
 - Can modern brain science help to identify these patterns, even if they stem from our parents/environment?
 - Does that mean it’s not my fault, or do I need to take responsibility for their sins? (Read Ezekiel, Ch. 18)
 
-[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM) (Epigenetics)<br />
-[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)<br />
+[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM) (Epigenetics)
+
+[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)
+
 [“Winning the War in Your Mind”](https://www.youtube.com/watch?v=_xGqdYguORY) sermon by Craig Groeschel (Link to [Book](https://www.amazon.com/dp/0310362725?tag=cg0811-20))
 
 ![Alt text](../static/img/pentecost_gr.png)
@@ -681,7 +691,7 @@ In Christ, we're all in the sanctification process to the day we pass from death
 
 **DESTINY** is an exercise in putting Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
 
-*Here is how it works:*
+Here is how it works:
 
 - After completing Exercises 1-8 and implementing them into your lives, DM an Admin with a true statement: “I have completed Destiny, and I am implementing Exercises 1-8”. If that is not true of you, then please don’t join. It would be putting the cart before the horse.
 - New participants are asked to attend the Thursday, Newcomer meeting @ 7PM EST, and stay after the meeting for the Roundtable.
