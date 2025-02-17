@@ -24,7 +24,7 @@ Once the brother has completed Exercises 1-8, he informs the Ancient Paths leade
 
 After the initial Destiny has concluded, they are eligible to continue through ["Spiritual Disciplines for the Christian Life"](https://www.christianbook.com/spiritual-disciplines-christian-updated-anniversary-edition/donald-whitney/9781615216178/pd/216178?en=google&event=SHOP&kw=christian-living-0-20%7C216178&p=1179710&utm_source=google&p=1229913&dv=c&cb_src=google&cb_typ=shopping&cb_cmp=233748492&cb_adg=14306043372&cb_kyw=&utm_medium=shopping&snav=GMERCH&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvH_et1oPq8PwNR2hhfmJUC4KUGSWMI_DtujhJNfXfsdc8Ua7A4XeJBoCE9cQAvD_BwE) and a Bible Study of Ephesians. Why Ephesians? Because it perfectly summarizes Romans, and if you understand Romans, you understand the Bible.
 
-The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (1) unwilling to separate from the world and (2) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
+The entire discipleship process is meant to bring you closer to Christ and a love for Scripture. If it fails to do so, then that requires a deeper conversation on the understanding of the Gospel. But it is indicative you are (**1**) unwilling to separate from the world and (**2**) sin is preferred over the Kingdom of God and Christ. It is what it is: and it should serve as a grave flashing red light on your life, requiring radical amputation over the structure of your life. Having a complete understanding of Romans 1 is most helpful.
 
 Finally. For participating in this challenge: I salute you. Not many dare to venture the hard and narrow road leading to life, but that is the Ancient-Way—the path to peace and understanding. It is the path to Christ.
 
@@ -243,8 +243,7 @@ These short videos combine great theology and application:
 - [A Theology of Prayer in 3 Minutes - John Piper](https://www.youtube.com/watch?v=OssBHX5rSiE) (3mins 52 secs)
 - [Teach us to Pray - John Piper](https://www.youtube.com/watch?v=V-_lmGR9EdE&t=14s) (4min 12 secs)
 
-[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)
-
+[Praying the Bible - Donald Witney](https://www.christianbook.com/praying-the-bible-donald-whitney/9781433547843/pd/547843?event=ESRCG)<br />
 [Psalms: The Prayer Book of the Bible - Dietrich Bonhoeffer](https://www.christianbook.com/psalms-the-prayer-book-the-bible/9781506480190/pd/480192?srsltid=AfmBOooQOgkORZJyBGyUKVuT7hR_zJeUEZFkjvF8OimT5G0uMOUZff_r)
 
 **TALK WITH YOUR GUARDIAN:**
@@ -253,8 +252,7 @@ These short videos combine great theology and application:
 
 ## **Exercise 7: Scripture Memorization**
 
-**_“I have stored up your word in my heart, that I might not sin against you.”_**
-
+**_“I have stored up your word in my heart, that I might not sin against you.”_**<br />
 **_– Psalm 119:11_**
 
 Let’s face it gentlemen, _we have a problem with our thought life_. We are prone to go into fantasy land, and into sin. What’s needed?
@@ -310,8 +308,8 @@ Journal WHEN (not if) you make a conscious decision to review verses rather than
 **_to loose the bonds of wickedness,_**
 **_to undo the straps of the yok_**
 **_to let the oppressed go free,_**
-**_and to break every yoke?”_**
-**_\-Isaiah 58:6_**
+**_and to break every yoke?”_**<br />
+**_– Isaiah 58:6_**
 
 Loose the bonds of wickedness, undo, go free, and break every yoke... in the entire conversation of recovery/killing lust, do you think we might be missing something that is prescribed by God?
 
@@ -342,8 +340,7 @@ Pointers on fasting:
 - Fasting is hungering for the Bridegroom to return (Jesus Christ); representative of our hunger for him, when all will be fulfilled
 - Although there are massive health benefits to fasting, none are mentioned in the Bible—and it should not be the purpose; nor even be in competition with the spiritual purpose; it there is any physical benefit to be gained, chalk it up to an added grace from God, _but don’t be distracted from the real purpose_
 
-[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)
-
+[Why Do Christians Fast? - John Piper](https://www.youtube.com/watch?v=KTJb4DsFPQg) (12mins 50secs)<br />
 [A Hunger for God Through Prayer and Fasting - John Piper](https://www.youtube.com/watch?v=arQnr37lAQg) (3mins 6secs)
 
 **TALK WITH YOUR GUARDIAN:**
@@ -380,11 +377,8 @@ Write a song to the Lord using Scripture and your imagination. David did it and 
 
 This is a recurring topic I’m sure many have faced. It is one of the toughest topics due to the trajectory of marriage in the U.S. and abroad. There are two forces at work here:
 
-1. A misunderstanding of what Biblical marriage is supposed to look like
-
-(most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)
-
-1. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
+1. A misunderstanding of what Biblical marriage is supposed to look like (most people jump into marriage sideways, or come out of divorced homes without full understanding of what marriage is in God’s eyes)<br />
+2. A culture that does nothing to strengthen marriage (in fact, it does its level best to tear marriages apart). Both create misguided expectations that make divorce so popular, even in the church.
 
 John Piper has several videos addressing this (see below), including wisdom imparted by learned men along the way:
 
@@ -430,7 +424,7 @@ How is this deadly for the sexually immoral? Because sexual immorality is a powe
 
 Brothers, I mentioned in Exercise #1 that one of the most important factors in defeating this sin is sitting under good preaching. Being taught correctly. If you do not know what that means, you need to find out. Mark Devers wrote a book entitled, [“Nine Marks of a Healthy Church”](https://www.christianbook.com/nine-marks-healthy-church-revised-edition/mark-dever/9781433578113/pd/578113?event=BRSRCG|PSEN). You can conduct a search and discover what they are, without buying the book.
 
-For this exercise, I’d like to focus on Ephesians 5:3-7. John Piper will walk you through the passage in a series of 6 short videos. Wherever you stand on this passage, be careful to consider (1) the [_hermeneutics_](https://www.gotquestions.org/Biblical-hermeneutics.html) used (method of biblical interpretation): this is a pastoral letter to Christians, and the text is plain. (2) comparing with and harmonizing with other Scripture (Hebrews 10:26-31) and (3) the grace of God.
+For this exercise, I’d like to focus on Ephesians 5:3-7. John Piper will walk you through the passage in a series of 6 short videos. Wherever you stand on this passage, be careful to consider (**1**) the [_hermeneutics_](https://www.gotquestions.org/Biblical-hermeneutics.html) used (method of biblical interpretation): this is a pastoral letter to Christians, and the text is plain. (**2**) comparing with and harmonizing with other Scripture (Hebrews 10:26-31) and (**3**) the grace of God.
 
 What do I mean by “grace of God” in this sense? Consider the following:
 
@@ -480,7 +474,7 @@ Also, [a short 5-minute video from Pastor Mike Winger on Eph 5:5](https://www.yo
 
 ## **Exercise 12: How Do I Kill Secret Sin?**
 
-Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this exceptionally important topic. He gets to the “how to” toward the latter part of the message: ["How to Kill Secret Sin"](file:///C:\Users\jason\Downloads\ancientpaths.io\docs\%22How%20to%20Kill%20Secret%20Sin)
+Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this exceptionally important topic. He gets to the “how to” toward the latter part of the message: ["Killing the Sin in Your Life"](https://www.youtube.com/watch?v=zUSHEKnqp5A)
 
 1. Confess and forsake (all secret sin); time: 35:17 (Isa 55:7)
 2. Do not expose yourself to evil attractions; time: 36:22 (Job 31:1)
@@ -548,10 +542,10 @@ EVERY sinful thought requires a response. You must repudiate each thought with S
 
 a. Select your verses to construct the det cord.
 
-- - 1. Pick your favorite verse concerning the _Resurrection_ (this is just a suggestion because the unifying doctrine is the **Resurrection—there is no Christianity without it**—but you can select another anchoring point specific you your needs).
-        2.  Pick your favorite verse on the immediate implication towards you because of the Resurrection.
-        3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
-        4.  Pick your favorite verse on worship, rejoicing, glorifying God
+  1. Pick your favorite verse concerning the _Resurrection_ (this is just a suggestion because the unifying doctrine is the **Resurrection—there is no Christianity without it**—but you can select another anchoring point specific you your needs).
+  2.  Pick your favorite verse on the immediate implication towards you because of the Resurrection.
+  3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
+  4.  Pick your favorite verse on worship, rejoicing, glorifying God
 
 :::note DIY:
 
@@ -605,7 +599,7 @@ So knock it off. Whatever manner of faith God has worked in you, he also provide
 
 Here is what we propose if the first paragraph describes you:
 
-1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: @Jason @Damian... etc.
+1. Contact any one of the leaders in the Ancient Paths, to request entrance in this higher-level accountability: **@Jason @Damian...** etc.
 2. We will set up a Voice Channel with 2 or more Guardians to examine you. Remember, the beauty of Ancient Paths, it is a place where we can finally tell the truth about ourselves. We will cover your understanding of the Gospel, each exercise in the Ancient Paths, the basic theology contained therein, your implementation of the Spiritual Disciplines, any unconfessed sin, and whatever else is appropriate. This is to assist you to correct any bad theology or wrong thinking, Plan for 1.5 hours. We will not compel anything, but will merely highlight gaps in thinking, or unfruitful actions that retard spiritual growth. We will assist you to reconceptualize the path you have been called by identifying gaps and suggest practical remedies.
 3. We will set a date under the proposition that you will fight as if that date is the date of your expiration from this earth (Rev 2:5), in order to instill intensity for this fight. There is nothing more important, so be prepared to clear things off your calendar that are trivial. The gloves are coming off. No short-cutting or half-measures. No longer will you approach seeking the Spiritual Disciplines with a minimalist mindset (bartering with God by trying to find the bare minimums of obedience, in hopes that he sets you free). We've all done that. It doesn't work.
 4. Each week you will report to a Guardian assigned to you for that week by DM, phone, or zoom—or even more often if deemed necessary. You are not falling through the cracks.
@@ -617,9 +611,9 @@ Here is what we propose if the first paragraph describes you:
 
 We will seek to discover the unimaginable grace of God together in this partnership, by placing faith in the very Spiritual Disciplines He ordained.
 
-_"Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."_
-
-\- Dr. Donald Whitney, "Spiritual Disciplines for The Christian Life"  
+>_"Think of the Spiritual Disciplines as ways by which we can spiritually place ourselves in the path of God's grace and seek Him, much like Zacchaeus placed himself physically in Jesus' path and sought Him. The Lord, by His Spirit, still travels down certain paths, paths that He Himself has ordained and revealed in Scripture. We call these paths the Spiritual Disciplines, and if we will place ourselves on these paths and look for Him there by faith, we can expect to encounter Him."_
+>
+>\- Dr. Donald Whitney, "Spiritual Disciplines for The Christian Life"  
 Associate Dean for the School of Theology, Southern Baptist Theological Seminary, Louisville, KY
 
 **TALK WITH YOUR GUARDIAN:**
@@ -631,9 +625,9 @@ Associate Dean for the School of Theology, Southern Baptist Theological Seminary
 
 ## **Exercise 15: Mind-Renewal**
 
-**_“I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.”_**
-
-**_– Romans 12:1-2_**
+>**_“I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.”_**
+>
+>**_– Romans 12:1-2_**
 
 The original Ancient Paths playbook—attributed to [Michael Durham](https://theancientpaths.org/)—did not include this chapter. This later addition was added because of its critical application to our identity and authority as sons of God. “When you know who you are, you know how to act.”
 
@@ -679,13 +673,11 @@ In Christ, we're all in the sanctification process to the day we pass from death
 - Can modern brain science help to identify these patterns, even if they stem from our parents/environment?
 - Does that mean it’s not my fault, or do I need to take responsibility for their sins? (Read Ezekiel, Ch. 18)
 
-[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM) (Epigenetics)
-
-[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)
-
+[Science Confirms Bible on Generational Curses](https://www.youtube.com/watch?v=DK9OfNFE1zM)<br />
+[Everything you think you know about addiction is wrong | TED Talk](https://www.youtube.com/watch?v=PY9DcIMGxMs)<br />
 [“Winning the War in Your Mind”](https://www.youtube.com/watch?v=_xGqdYguORY) sermon by Craig Groeschel (Link to [Book](https://www.amazon.com/dp/0310362725?tag=cg0811-20))
 
-![Alt text](../static/img/pentecost_gr.png)
+![Alt text](../static/img/pentecost.png)
 
 ## **Instructions for the 40-Day Challenge (DESTINY)**
 
@@ -750,7 +742,7 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 🎖️Attribution given to [Michael Durham](https://theancientpaths.org/)
 
 **Image credit**: “David & Goliath” (RangerUp.com); “Pentecost’ (Flickr; William A. Foster)<br />
-**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx) ![Discord](../static/img/discord.svg)<br />
+**Discord**: [@AncientPaths](https://discord.gg/xk6qxyZSkx)
 **Website**: [www.ancientpaths.io](https://ancientpaths.io)
 
 **AncientPaths** exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. This is a community-funded organization. Contributions help to continue their development into maturity as faithful sons of God.
