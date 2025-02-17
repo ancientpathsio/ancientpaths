@@ -47,6 +47,13 @@ const config = {
   ],
 
   themeConfig: {
+    metadata: [
+      { name: 'og:image', content: '/img/social-preview.png' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:image', content: '/img/social-preview.png' },
+      { name: 'og:title', content: 'AncientPaths' },
+      { name: 'og:description', content: 'Purity, Integrity, Honor' }
+    ],
     navbar: {
       title: '',
       logo: {
