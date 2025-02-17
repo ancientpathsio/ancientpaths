@@ -36,14 +36,14 @@ Finally. For participating in this challenge: I salute you. Not many dare to ven
   </audio>
 </div>
 
-**_Thus says the LORD:_**<br />
-**_“Stand by the roads, and look,_**<br />
-**_and ask for the ancient paths,_**<br />
-**_where the good way is; and walk in it,_**<br />
-**_and find rest for your souls.”_**<br />
-**_But they said, ‘We will not walk in it.’_**
-
-**_– Jeremiah 6:16_**
+>**_Thus says the LORD:_**<br />
+>**_“Stand by the roads, and look,_**<br />
+>**_and ask for the ancient paths,_**<br />
+>**_where the good way is; and walk in it,_**<br />
+>**_and find rest for your souls.”_**<br />
+>**_But they said, ‘We will not walk in it.’_**
+>
+>**_– Jeremiah 6:16_**
 
 When the young prophet Jeremiah was warning the Southern Kingdom of Judah to repent from their wickedness and return to God, judgment was coming. The ancient paths Jeremiah spoke of were ancient during his time (630 BC). The paths were known by _learned men_. Sadly, the men of Judah rejected the warning and chose not to walk in it. Eyes wide-open rebellion to God. That same choice is given today to men ensnared in sexual immorality.
 
@@ -252,8 +252,8 @@ These short videos combine great theology and application:
 
 ## **Exercise 7: Scripture Memorization**
 
-**_“I have stored up your word in my heart, that I might not sin against you.”_**<br />
-**_– Psalm 119:11_**
+>**_“I have stored up your word in my heart, that I might not sin against you.”_**<br />
+>**_– Psalm 119:11_**
 
 Let’s face it gentlemen, _we have a problem with our thought life_. We are prone to go into fantasy land, and into sin. What’s needed?
 
@@ -304,12 +304,12 @@ Journal WHEN (not if) you make a conscious decision to review verses rather than
 
 ## **Exercise 8: Fasting**
 
-**_“Is not this the fast that I choose:_**
-**_to loose the bonds of wickedness,_**
-**_to undo the straps of the yok_**
-**_to let the oppressed go free,_**
-**_and to break every yoke?”_**<br />
-**_– Isaiah 58:6_**
+>**_“Is not this the fast that I choose:_**
+>**_to loose the bonds of wickedness,_**
+>**_to undo the straps of the yok_**
+>**_to let the oppressed go free,_**
+>**_and to break every yoke?”_**<br />
+>**_– Isaiah 58:6_**
 
 Loose the bonds of wickedness, undo, go free, and break every yoke... in the entire conversation of recovery/killing lust, do you think we might be missing something that is prescribed by God?
 
@@ -410,8 +410,8 @@ I hope these videos from John Piper help orient you and your wife towards a life
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
-**_Ephesians 5:3-7_** <br />
-**_Hebrews 10:26-31_**
+**[_Ephesians 5:3-7_](https://biblehub.com/esv/ephesians/5.htm)**<br />  
+**[_Hebrews 10:26-31_](https://biblehub.com/esv/hebrews/10.htm)**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
 
