@@ -126,6 +126,18 @@ const config = {
       darkTheme: darkCodeTheme,
     },
   },
+
+  // Add Logos RefTagger script
+  scripts: [
+    {
+      src: '/js/reftagger-config.js',
+      async: true,
+    },
+    {
+      src: 'https://api.reftagger.com/v2/RefTagger.js',
+      async: true,
+    },
+  ],
 };
 
 module.exports = config;
