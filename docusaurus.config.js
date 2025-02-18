@@ -127,14 +127,14 @@ const config = {
     },
   },
 
-  // Add the Reftagger script using headTags
-  headTags: [
+  // Add the Reftagger script using the scripts field
+  scripts: [
     {
-      tagName: 'script',
-      attributes: {
-        type: 'text/javascript',
-        nonce: '',  // if you need a nonce for CSP
-      },
+      src: 'https://api.reftagger.com/v2/RefTagger.js',
+      async: true,
+    },
+    {
+      type: 'text/javascript',
       innerHTML: `
         var refTagger = {
           settings: {
@@ -143,9 +143,10 @@ const config = {
         }; 
 
         (function(d, t) {
-          var n=d.querySelector('[nonce]');
-          refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-          var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+          var n = d.querySelector('[nonce]');
+          refTagger.settings.nonce = n && (n.nonce || n.getAttribute('nonce'));
+          var g = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
           g.src = 'https://api.reftagger.com/v2/RefTagger.js';
           g.nonce = refTagger.settings.nonce;
           s.parentNode.insertBefore(g, s);
