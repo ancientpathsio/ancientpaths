@@ -15,9 +15,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
-  projectName: 'ancientpaths', // Usually your repo name.
+  organizationName: 'ancientpaths',
+  projectName: 'ancientpaths',
 
   i18n: {
     defaultLocale: 'en',
@@ -54,6 +53,11 @@ const config = {
       { name: 'og:title', content: 'AncientPaths' },
       { name: 'og:description', content: 'Purity, Integrity, Honor' }
     ],
+    colorMode: {
+      defaultMode: 'light',  // Set light mode as default
+      disableSwitch: false,  // Allow users to toggle themes
+      respectPrefersColorScheme: false,  // Ignore system preferences
+    },
     navbar: {
       title: '',
       logo: {
@@ -63,9 +67,9 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'guidebook',  // Pointing to docs/guidebook.md
+          docId: 'guidebook',
           position: 'left',
-          label: 'Guidebook',  // Updated label to "Guidebook"
+          label: 'Guidebook',
         },
         { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
@@ -83,12 +87,12 @@ const config = {
           title: 'Docs',
           items: [
             {
-              label: 'Guidebook',  // Updated label to "Guidebook"
-              to: '/docs/guidebook',  // Pointing to docs/guidebook.md
+              label: 'Guidebook',
+              to: '/docs/guidebook',
             },
             {
-              label: 'Dev_',  // Updated label to "Guidebook"
-              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
+              label: 'Dev_',
+              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',
             },
           ],
         },
