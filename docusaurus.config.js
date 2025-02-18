@@ -15,8 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
-  organizationName: 'ancientpaths',
-  projectName: 'ancientpaths',
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
+  projectName: 'ancientpaths', // Usually your repo name.
 
   i18n: {
     defaultLocale: 'en',
@@ -53,11 +54,6 @@ const config = {
       { name: 'og:title', content: 'AncientPaths' },
       { name: 'og:description', content: 'Purity, Integrity, Honor' }
     ],
-    colorMode: {
-      defaultMode: 'light',  // Set light mode as default
-      disableSwitch: false,  // Allow users to toggle themes
-      respectPrefersColorScheme: false,  // Ignore system preferences
-    },
     navbar: {
       title: '',
       logo: {
@@ -67,9 +63,9 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'guidebook',
+          docId: 'guidebook',  // Pointing to docs/guidebook.md
           position: 'left',
-          label: 'Guidebook',
+          label: 'Guidebook',  // Updated label to "Guidebook"
         },
         { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
@@ -87,12 +83,12 @@ const config = {
           title: 'Docs',
           items: [
             {
-              label: 'Guidebook',
-              to: '/docs/guidebook',
+              label: 'Guidebook',  // Updated label to "Guidebook"
+              to: '/docs/guidebook',  // Pointing to docs/guidebook.md
             },
             {
-              label: 'Dev_',
-              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',
+              label: 'Dev_',  // Updated label to "Guidebook"
+              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
             },
           ],
         },
@@ -126,40 +122,6 @@ const config = {
       darkTheme: darkCodeTheme,
     },
   },
-
-  // Correctly add the Reftagger script using the `scripts` field
-  scripts: [
-    {
-      src: 'https://api.reftagger.com/v2/RefTagger.js',
-      async: true,
-    },
-  ],
-
-  // Add the Reftagger initialization script using headTags
-  headTags: [
-    {
-      tagName: 'script',
-      attributes: {
-        type: 'text/javascript',
-      },
-      innerHTML: `
-        var refTagger = {
-          settings: {
-            bibleVersion: 'ESV'
-          }
-        };
-
-        (function(d, t) {
-          var n = d.querySelector('[nonce]');
-          refTagger.settings.nonce = n && (n.nonce || n.getAttribute('nonce'));
-          var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-          g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-          g.nonce = refTagger.settings.nonce;
-          s.parentNode.insertBefore(g, s);
-        }(document, 'script'));
-      `,
-    },
-  ],
 };
 
 module.exports = config;
