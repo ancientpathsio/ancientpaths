@@ -4,7 +4,10 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
+// Import the custom NavbarLinkWithRefresh component
+const NavbarLinkWithRefresh = require('./src/components/HomepageFeatures/pagerefresh');
+
+ /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AncientPaths',
   tagline: 'Purity, Integrity, Honor',
@@ -66,13 +69,19 @@ const config = {
           docId: 'guidebook',  // Pointing to docs/guidebook.md
           position: 'left',
           label: 'Guidebook',  // Updated label to "Guidebook"
+          Component: NavbarLinkWithRefresh,  // Custom refresh behavior for Donate link
         },
-        { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
+        { 
+          to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', 
+          label: 'Dev_', 
+          position: 'left' 
+        },
         {
           label: 'Donate',
-          href: '/give',
+          to: '/give',
           position: 'right',
           className: 'navbar__item--donate',
+          Component: NavbarLinkWithRefresh,  // Custom refresh behavior for Donate link
         },
       ],
     },
