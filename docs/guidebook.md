@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-import BlueLetterBibleScript from '@site/src/components/HomepageFeatures/BlueLetterBibleScript';
-
-<RefreshOnFirstLoad />
+import BlueLetterBibleScript from '@site/src/components/BlueLetterBibleScript';
 
 # The Guidebook
 
