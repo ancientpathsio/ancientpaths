@@ -2,8 +2,11 @@ import React from 'react';
 import { Link } from '@docusaurus/Link';
 
 const NavbarLinkWithRefresh = ({ to, children }) => {
-  const handleClick = () => {
-    window.location.reload();
+  const handleClick = (event) => {
+    event.preventDefault();
+    // Custom refresh logic here (if needed)
+    // E.g., force the Docusaurus app to re-render
+    window.location.href = to;
   };
 
   return (
