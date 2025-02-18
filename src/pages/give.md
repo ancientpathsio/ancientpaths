@@ -3,7 +3,7 @@ title: Giving
 description: Support our community with a donation
 ---
 
-import BlueLetterBibleScript from '@site/src/components/BlueLetterBibleScript';
+import BlueLetterBibleScript from '@site/src/components/HomepageFeatures/BlueLetterBibleScript';
 
 # Support Our Community
 
