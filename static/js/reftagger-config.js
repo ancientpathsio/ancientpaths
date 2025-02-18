@@ -1,7 +1,8 @@
 window.RefTagger = {
   settings: {
-    bibleVersion: "ESV",
+    bibleVersion: "ESV",  // Change to preferred Bible version
     tagChapters: true,
     tooltipStyle: "dark",
+    socialSharing: ["twitter", "facebook"],  // Enable social sharing
   },
 };
