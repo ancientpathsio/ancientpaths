@@ -1,12 +1,16 @@
-import React, { useEffect } from 'react';
+import React from 'react';
+import { Link } from '@docusaurus/Link';
 
-const RefreshOnPageLoad = () => {
-  useEffect(() => {
-    // Trigger a page reload
+const NavbarLinkWithRefresh = ({ to, children }) => {
+  const handleClick = () => {
     window.location.reload();
-  }, []); // Empty dependency array ensures this effect runs once per page load
+  };
 
-  return null; // This component does not render anything
+  return (
+    <Link to={to} onClick={handleClick}>
+      {children}
+    </Link>
+  );
 };
 
-export default RefreshOnPageLoad;
+export default NavbarLinkWithRefresh;
