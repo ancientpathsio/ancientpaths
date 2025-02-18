@@ -127,15 +127,30 @@ const config = {
     },
   },
 
-  // Add Logos RefTagger script
-  scripts: [
+  // Add the Reftagger script using headTags
+  headTags: [
     {
-      src: '/js/reftagger-config.js',
-      async: true,
-    },
-    {
-      src: 'https://api.reftagger.com/v2/RefTagger.js',
-      async: true,
+      tagName: 'script',
+      attributes: {
+        type: 'text/javascript',
+        nonce: '',  // if you need a nonce for CSP
+      },
+      innerHTML: `
+        var refTagger = {
+          settings: {
+            bibleVersion: 'ESV'
+          }
+        }; 
+
+        (function(d, t) {
+          var n=d.querySelector('[nonce]');
+          refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+          var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+          g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+          g.nonce = refTagger.settings.nonce;
+          s.parentNode.insertBefore(g, s);
+        }(document, 'script'));
+      `,
     },
   ],
 };
