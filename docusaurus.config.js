@@ -67,7 +67,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          href: 'https://www.ancientpaths.io/docs/guidebook',
+          href: '/guidebook',
           docId: 'guidebook',
           position: 'left',
           label: 'Guidebook',
