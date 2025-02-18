@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-import RefreshOnFirstLoad from '@site/src/components/RefreshOnFirstLoad';
+import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnFirstLoad';
 
 <RefreshOnFirstLoad />
 
