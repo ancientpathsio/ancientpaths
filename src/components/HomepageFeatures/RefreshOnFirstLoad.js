@@ -1,12 +1,16 @@
 import React, { useEffect } from 'react';
 
-const RefreshOnLoad = () => {
+const RefreshOnFirstLoad = () => {
   useEffect(() => {
-    // Trigger a page reload every time the page is loaded
-    window.location.reload();
-  }, []); // Empty dependency array ensures the effect runs on every page load
+    if (!localStorage.getItem('hasVisited')) {
+      // Mark as visited
+      localStorage.setItem('hasVisited', 'true');
+      // Trigger a page reload
+      window.location.reload();
+    }
+  }, []);
 
   return null; // This component does not render anything
 };
 
-export default RefreshOnLoad;
+export default RefreshOnFirstLoad;
