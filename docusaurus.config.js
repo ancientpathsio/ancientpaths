@@ -4,10 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-// Import the custom NavbarLinkWithRefresh component
-const NavbarLinkWithRefresh = require('./src/components/HomepageFeatures/pagerefresh');
-
- /** @type {import('@docusaurus/types').Config} */
+/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AncientPaths',
   tagline: 'Purity, Integrity, Honor',
@@ -18,9 +15,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ancientpaths', // Usually your GitHub org/user name.
-  projectName: 'ancientpaths', // Usually your repo name.
+  organizationName: 'ancientpaths',
+  projectName: 'ancientpaths',
 
   i18n: {
     defaultLocale: 'en',
@@ -57,6 +53,11 @@ const config = {
       { name: 'og:title', content: 'AncientPaths' },
       { name: 'og:description', content: 'Purity, Integrity, Honor' }
     ],
+    colorMode: {
+      defaultMode: 'light',  // Set light mode as default
+      disableSwitch: false,  // Allow users to toggle themes
+      respectPrefersColorScheme: false,  // Ignore system preferences
+    },
     navbar: {
       title: '',
       logo: {
@@ -66,22 +67,16 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'guidebook',  // Pointing to docs/guidebook.md
+          docId: 'guidebook',
           position: 'left',
-          label: 'Guidebook',  // Updated label to "Guidebook"
-          Component: NavbarLinkWithRefresh,  // Custom refresh behavior for Donate link
+          label: 'Guidebook',
         },
-        { 
-          to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', 
-          label: 'Dev_', 
-          position: 'left' 
-        },
+        { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
           label: 'Donate',
-          to: '/give',
+          href: '/give',
           position: 'right',
           className: 'navbar__item--donate',
-          Component: NavbarLinkWithRefresh,  // Custom refresh behavior for Donate link
         },
       ],
     },
@@ -92,12 +87,12 @@ const config = {
           title: 'Docs',
           items: [
             {
-              label: 'Guidebook',  // Updated label to "Guidebook"
-              to: '/docs/guidebook',  // Pointing to docs/guidebook.md
+              label: 'Guidebook',
+              to: '/docs/guidebook',
             },
             {
-              label: 'Dev_',  // Updated label to "Guidebook"
-              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',  // Pointing to docs/guidebook.md
+              label: 'Dev_',
+              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',
             },
           ],
         },
@@ -131,6 +126,34 @@ const config = {
       darkTheme: darkCodeTheme,
     },
   },
+
+  // Correctly add the Reftagger script using the `scripts` field
+  scripts: [
+    {
+      src: 'https://api.reftagger.com/v2/RefTagger.js',
+      async: true,
+    },
+    {
+      src: 'https://api.reftagger.com/v2/RefTagger.js', // Reference the external script as src
+      type: 'text/javascript',
+      innerHTML: `
+        var refTagger = {
+          settings: {
+            bibleVersion: 'ESV'
+          }
+        };
+
+        (function(d, t) {
+          var n=d.querySelector('[nonce]');
+          refTagger.settings.nonce = n && (n.nonce || n.getAttribute('nonce'));
+          var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+          g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+          g.nonce = refTagger.settings.nonce;
+          s.parentNode.insertBefore(g, s);
+        }(document, 'script'));
+      `,
+    },
+  ],
 };
 
 module.exports = config;
