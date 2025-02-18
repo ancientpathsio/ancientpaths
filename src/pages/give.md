@@ -3,8 +3,6 @@ title: Giving
 description: Support our community with a donation
 ---
 
-import RefreshOnFirstLoad from '@site/src/components/RefreshOnFirstLoad';
-
 <RefreshOnFirstLoad />
 
 # Support Our Community
