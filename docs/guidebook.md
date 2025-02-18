@@ -754,7 +754,7 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 // Additional settings
-BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.Translation = 'ESV'; // Changed to ESV
 BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
 BLB.Tagger.HideTanslationAbbrev = false;
 BLB.Tagger.TargetNewWindow = true;
