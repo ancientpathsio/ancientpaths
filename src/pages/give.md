@@ -21,14 +21,4 @@ Your generosity makes a difference! Thank you for supporting our community. 🙌
 **_"Honest scales and balances belong to the LORD; all the weights in the bag are of his making."_ - Proverbs 16:11**
 
 <!-- RefTagger Script -->
-<script type="text/javascript">
-    var refTagger = {
-        defaultTranslation: "ESV",
-        services: {
-            "logos": {
-                "url": "https://www.logos.com/"
-            }
-        }
-    };
-</script>
-<script type="text/javascript" src="https://reftagger.bible.com/js/refTagger.js"></script>
+<script src='https://reftagger.bible.com/js/refTagger.js' type='text/javascript'></script>
