@@ -133,9 +133,15 @@ const config = {
       src: 'https://api.reftagger.com/v2/RefTagger.js',
       async: true,
     },
+  ],
+
+  // Add the Reftagger initialization script using headTags
+  headTags: [
     {
-      src: 'https://api.reftagger.com/v2/RefTagger.js', // Reference the external script as src
-      type: 'text/javascript',
+      tagName: 'script',
+      attributes: {
+        type: 'text/javascript',
+      },
       innerHTML: `
         var refTagger = {
           settings: {
@@ -144,7 +150,7 @@ const config = {
         };
 
         (function(d, t) {
-          var n=d.querySelector('[nonce]');
+          var n = d.querySelector('[nonce]');
           refTagger.settings.nonce = n && (n.nonce || n.getAttribute('nonce'));
           var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
           g.src = 'https://api.reftagger.com/v2/RefTagger.js';
