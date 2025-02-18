@@ -2,10 +2,6 @@
 sidebar_position: 1
 ---
 
-import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnFirstLoad';
-
-<RefreshOnFirstLoad />
-
 # The Guidebook
 
 ![Alt text](../static/img/warrior.png)
