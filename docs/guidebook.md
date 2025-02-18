@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-import BlueLetterBibleScript from '@site/src/components/BlueLetterBibleScript';
+import BlueLetterBibleScript from '@site/src/components/HomepageFeatures/BlueLetterBibleScript';
 
 <RefreshOnFirstLoad />
 
