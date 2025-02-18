@@ -749,3 +749,16 @@ All Scripture quotations, unless otherwise indicated, are taken from the *Holy B
 **Special thanks**: Julian G, Brett H, Damian J, Seth W, & Noble LM ([@MissionIsAgape](https://linktr.ee/missionisagape))
 
 ![Alt text](../static/img/logo.svg)
+
+<!-- Blue Letter Bible Script Tagger -->
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+// Additional settings
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; // 'line' or 'par'
+BLB.Tagger.NoSearchTagNames = ''; // HTML element list
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
+</script>
