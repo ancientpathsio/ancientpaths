@@ -413,7 +413,7 @@ I hope these videos from John Piper help orient you and your wife towards a life
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
-**[_Ephesians 5:3-7_](https://biblehub.com/esv/ephesians/5.htm)**
+**[_Ephesians 5:3-7_](https://biblehub.com/esv/ephesians/5.htm)**<br />
 **[_Hebrews 10:26-31_](https://biblehub.com/esv/hebrews/10.htm)**
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
