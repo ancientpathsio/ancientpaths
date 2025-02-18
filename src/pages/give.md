@@ -20,20 +20,8 @@ Your generosity makes a difference! Thank you for supporting our community. 🙌
 
 **_"Honest scales and balances belong to the LORD; all the weights in the bag are of his making."_ - Proverbs 16:11**
 
-<!-- RefTagger Script -->
-<script type="text/javascript">
-    var refTagger = {
-        settings: {
-            bibleVersion: 'ESV'
-        }
-    };
-
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce || n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    })(document, 'script');
+<script type='text/javascript'>
+    // Set translation before loading the Blue Letter Bible script
+    window.BLB = { Tagger: { Translation: 'ESV' } };
 </script>
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
