@@ -3,7 +3,7 @@ title: Giving
 description: Support our community with a donation
 ---
 
-import AudioPlayer from '@site/src/components/HomePageFeatures/AudioPlayer';
+import AudioPlayer from '../../components/HomePageFeatures/AudioPlayer';
 
 <AudioPlayer />
 
