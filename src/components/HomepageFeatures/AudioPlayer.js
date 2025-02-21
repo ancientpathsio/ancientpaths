@@ -52,7 +52,7 @@ const AudioPlayer = () => {
               padding: "10px",
               margin: "5px 0",
               cursor: "pointer",
-              background: index === currentTrack ? "#0078D4" : "#fff",
+              background: index === currentTrack ? "#000" : "#fff",
               color: index === currentTrack ? "#fff" : "#000",
               borderRadius: "5px",
             }}
