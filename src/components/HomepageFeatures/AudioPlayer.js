@@ -1,19 +1,26 @@
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 
 const AudioPlayer = () => {
+  const [isClient, setIsClient] = useState(false);
   const [currentTrack, setCurrentTrack] = useState(0);
-  const audioRef = useRef<HTMLAudioElement>(null);
+  const audioRef = useRef(null);
+
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
 
   const playlist = [
-    { title: "Introduction", src: "/audio/00_introduction.mp3" },
-    { title: "Exercise 1", src: "/audio/01_exercise1.mp3" },
-    { title: "Exercise 2", src: "/audio/02_exercise2.mp3" },
-    { title: "Exercise 3", src: "/audio/03_exercise3.mp3" },
+    { title: "Song 1", src: "/audio/00_introduction.mp3" },
+    { title: "Song 2", src: "/audio/01_exercise1.mp3" },
   ];
 
   const playNext = () => {
     setCurrentTrack((prev) => (prev + 1) % playlist.length);
   };
+
+  if (!isClient) {
+    return null;
+  }
 
   return (
     <div style={{ textAlign: "center", padding: "20px", maxWidth: "400px", margin: "auto" }}>
@@ -26,7 +33,6 @@ const AudioPlayer = () => {
         style={{ width: "100%", marginBottom: "10px" }}
       />
 
-      {/* Scrollable Playlist */}
       <div
         style={{
           maxHeight: "150px",
@@ -35,6 +41,7 @@ const AudioPlayer = () => {
           padding: "10px",
           borderRadius: "5px",
           background: "#f9f9f9",
+          textAlign: "left",
         }}
       >
         {playlist.map((track, index) => (
@@ -45,10 +52,9 @@ const AudioPlayer = () => {
               padding: "10px",
               margin: "5px 0",
               cursor: "pointer",
-              background: index === currentTrack ? "#8C6F42" : "#fff",
+              background: index === currentTrack ? "#0078D4" : "#fff",
               color: index === currentTrack ? "#fff" : "#000",
               borderRadius: "5px",
-              textAlign: "left",
             }}
           >
             {track.title}
