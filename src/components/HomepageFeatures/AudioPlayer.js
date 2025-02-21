@@ -5,9 +5,8 @@ const AudioPlayer = () => {
   const audioRef = useRef(null);
 
   const playlist = [
-    { title: "Song 1", src: "/audio/song1.mp3" },
-    { title: "Song 2", src: "/audio/song2.mp3" },
-    { title: "Song 3", src: "/audio/song3.mp3" },
+    { title: "Song 1", src: "/audio/00_introduction.mp3" },
+    { title: "Song 2", src: "/audio/01_exercise1.mp3" },
   ];
 
   const playNext = () => {
