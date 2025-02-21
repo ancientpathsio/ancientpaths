@@ -3,10 +3,6 @@ title: Giving
 description: Support our community with a donation
 ---
 
-import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
-
-<AudioPlayer />
-
 # Support Our Community
 
 [AncientPaths](https://www.ancientpaths.io/) exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. Your contributions help continue their development into maturity as faithful sons of God.
