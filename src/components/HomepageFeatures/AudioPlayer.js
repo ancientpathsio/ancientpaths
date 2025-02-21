@@ -40,7 +40,7 @@ const AudioPlayer = () => {
           border: "1px solid #ccc",
           padding: "10px",
           borderRadius: "5px",
-          background: "#f9f9f9",
+          background: "#0078D4",
           textAlign: "left",
         }}
       >
