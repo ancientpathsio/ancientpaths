@@ -5,7 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from '@vercel/analytics/next';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -29,13 +29,21 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={``}
-      description="">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
+    <html lang="en">
+      <head>
+        <title>{siteConfig.title}</title>
+      </head>
+      <body>
+        <Layout
+          title={siteConfig.title}
+          description={siteConfig.tagline}>
+          <HomepageHeader />
+          <main>
+            <HomepageFeatures />
+          </main>
+        </Layout>
+        <Analytics /> {/* Analytics here */}
+      </body>
+    </html>
   );
 }
