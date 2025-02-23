@@ -6,8 +6,6 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 <RefreshOnFirstLoad />
 
-# The Guidebook
-
 ![Alt text](../static/img/warrior.png)
 
 ## **Introduction: The Origin**
