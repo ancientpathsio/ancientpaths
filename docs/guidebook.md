@@ -113,6 +113,12 @@ The following are the cheapest and best resources I have found for their respect
 
 ## **Exercise 2: Godliness Through Discipline**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/02_exercise2.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 As soon as I read the pamphlet “[Godliness Through Discipline”](https://www.christianbook.com/godliness-through-discipline-jay-adams/9780875520216/pd/5520219?event=BRSRCG|PSEN) from the father of the modern biblical counseling movement, Dr. Jay E Adams, I knew I had to include this early in the Ancient Paths curriculum. Why? Because it addresses an issue so many men face: the elusiveness of change and their frustration when it seems no change is happening.
 
 If I had to summarize the 25 pages of Adam’s pamphlet, it would be this: **_Men don’t experience change because they have never been trained in discipline._** So they give up when they don’t see immediate results. Consequently, holy habits are not formed in the man’s life and the Holy Spirit has nothing to work with. Man doesn’t do his part, so God can’t do his. **Transformation doesn’t happen.**
@@ -148,6 +154,12 @@ Sexual sin was endemic when the kingdom of Judah refused. Most of the United Sta
 
 ## **Exercise 3: Repentance Verses Recovery**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/03_exercise3.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 There is a lot of shallow teaching on repentance. Many churches focus their entire ministry on the doctrine of justification (salvation) and little on the doctrine of sanctification/transformation. Ironically, _sanctification should be where the believer should focus the remainder of his time on earth after coming to Christ._ Justification is a one-time event. Sanctification is the rest of your life prior to the final progression of salvation, which is glorification.
 
 So what do we do about the term, "recovery?" I have two problems with this term, as fashionable as it is in all addiction circles.
@@ -177,6 +189,12 @@ Let's understand what repentance is. Please acquire the cheap, 37-page booklet, 
 :::
 
 ## **Exercise 4: Get In The Word**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/04_exercise4.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 Exercise #1 gave us an introduction to the Ancient Paths. Exercises #2 and #3 gave us a foundation on two of the main issues in which men get wrong from the start in the sanctification process. Exercise #4 provides us with the first spiritual discipline that will be the foundational for the rest of your life.
 
@@ -225,6 +243,12 @@ There are many plans out there. As I mentioned in Exercise #1, the Blue Letter B
 
 ## **Exercise 5: Bible Study/Journaling**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/05_exercise5.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 Now we put on the big-boy pants. I hope you notice a trend in all the exercises in Ancient Paths. Namely, STRUCTURE. Holy structure. The sexually immoral live the antithesis of structure in their life: **_it’s selfish, chaotic, unstructured, and rebellious living_**. It fractures structured areas of our life. Anyone lose a marriage? Relationships? Employment? Ministry opportunities? Is it possible that true repentance and healing comes from Jesus’ _remaking_ (sanctifying) you with biblical structure, found in the spiritual disciplines he designed?
 
 I say yes. The Bible is structure. Repentance is structure. Prayer. Devotions. Self-Examination. Poke your head out the window and see creation. What do you see? Structure and power. Our God is a stabilizing force that uses structure. Recall the story, and you will see systematic restructuring of nothing into beauty.
@@ -238,6 +262,12 @@ With that in mind, I give you the Master Class on Journaling and Bible study by 
 - How will you build in accountability so that this “task” leads to permanent structure in your life as you commune with the Lord?
 
 ## **Exercise 6: Prayer**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/06_exercise6.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 This exercise is meant to restructure your prayer life so that it is vibrant and allows the Lord to guide your thoughts by using Scripture. "Praying the Bible" is the single-most commented on resource from other brothers on the Ancient Paths. Why? Because they never had a prayer life so good, and the effects were remarkable.
 
@@ -255,6 +285,12 @@ These short videos combine great theology and application:
 - After you get the hang of the technique, compare your evolving new prayer life to what existed before.
 
 ## **Exercise 7: Scripture Memorization**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/07_exercise7.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 >**_“I have stored up your word in my heart, that I might not sin against you.”_**<br />
 >**_– Psalm 119:11_**
@@ -307,6 +343,12 @@ Journal WHEN (not if) you make a conscious decision to review verses rather than
 :::
 
 ## **Exercise 8: Fasting**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/08_exercise8.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 >**_“Is not this the fast that I choose:_**
 >**_to loose the bonds of wickedness,_**
