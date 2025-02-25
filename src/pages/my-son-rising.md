@@ -10,10 +10,10 @@ sidebar_position: 1
 
 import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
 
-<img src="/img/msr.png" alt="MSR" style={{ maxWidth: "25%", height: "auto", marginBottom: "20px", display: "block" }} />
-
 <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-start" }}>
   <div style={{ textAlign: "left" }}>
     <AudioPlayer />
   </div>
 </div>
+
+<img src="/img/msr.png" alt="MSR" style={{ maxWidth: "25%", height: "auto", marginBottom: "20px", display: "block" }} />
