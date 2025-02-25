@@ -11,8 +11,8 @@ description: Support our community with a donation
 
 import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
 
-<div style={{ display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "flex-start", marginBottom: "20px" }}>
-  <img src="/img/msr.jpg" alt="MSR" style={{ maxWidth: "35%", height: "auto", marginRight: "20px" }} />
+<div style={{ display: "flex", alignItems: "center", justifyContent: "flex-start" }}>
+  <img src="/img/msr.jpg" alt="MSR" style={{ maxWidth: "25%", height: "auto", marginRight: "20px" }} />
   <div style={{ textAlign: "left" }}>
     <AudioPlayer />
   </div>
