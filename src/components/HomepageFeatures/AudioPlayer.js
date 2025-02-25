@@ -39,7 +39,7 @@ const AudioMsrPlayer = () => {
   }
 
   return (
-    <div style={{ textAlign: "center", padding: "20px", maxWidth: "400px", margin: "auto" }}>
+    <div style={{ textAlign: "left", padding: "20px", maxWidth: "400px", margin: "auto" }}>
       <h3>{playlist[currentTrack].title}</h3>
       <audio
         ref={audioMsrRef}
@@ -57,7 +57,6 @@ const AudioMsrPlayer = () => {
           padding: "10px",
           borderRadius: "5px",
           background: "#fff",
-          textAlign: "left",
         }}
       >
         {playlist.map((track, index) => (
