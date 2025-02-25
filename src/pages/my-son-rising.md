@@ -11,6 +11,8 @@ description: Support our community with a donation
 
 <img src="/img/msr.jpg" alt="MSR" style={{ maxWidth: "50%", height: "auto", display: "block", margin: "0" }} />
 
-<div style={{ textAlign: "left", width: "100%" }}>
+import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
+
+<div style={{ textAlign: "left" }}>
   <AudioPlayer />
 </div>
