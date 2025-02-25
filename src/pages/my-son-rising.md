@@ -5,6 +5,8 @@ description: Support our community with a donation
 
 # My Son Rising
 
+![Scales](/img/msr.jpg)
+
 ↗️ **Amazon:** [Purchase](https://a.co/d/iDwhrJR)
 
 [![Download (PDF)](https://img.shields.io/badge/📖-Download-blue)](/blog)
