@@ -3,6 +3,10 @@ title: Giving
 description: Support our community with a donation
 ---
 
+import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
+
+<AudioPlayer />
+
 # Support Our Community
 
 [AncientPaths](https://www.ancientpaths.io/) exists to provide young men with a pathway to sexual purity and hope found in Jesus Christ. Your contributions help continue their development into maturity as faithful sons of God.
@@ -11,7 +15,7 @@ description: Support our community with a donation
 
 💸 **CashApp:** [Donate](https://cash.me/$ancientpathsio)  
 💳 **PayPal:** [Donate](https://www.paypal.com/ncp/payment/5UEDTRTKWPZVC)  
-🪙 **BTC:** [Send Crypto]([/give](https://cash.me/$ancientpathsio)
+🪙 **BTC:** [Send Crypto](https://cash.me/$ancientpathsio)  
 📬 **Check/Money Order:** [Email for Address](mailto:ancientpaths.io@gmail.com)
 
 Your generosity makes a difference! Thank you for supporting our community. 🙌
