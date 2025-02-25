@@ -71,7 +71,7 @@ const config = {
           position: 'left',
           label: 'Guidebook',
         },
-        { to: '/my-son-rising', label: 'Resources', position: 'left' },
+        { to: '/my-son-rising', label: 'My Son Rising', position: 'left' },
         {
           label: 'Donate',
           href: '/give',
@@ -91,7 +91,7 @@ const config = {
               to: '/docs/guidebook',
             },
             {
-              label: 'Resources',
+              label: 'My Son Rising',
               to: '/my-son-rising',
             },
           ],
