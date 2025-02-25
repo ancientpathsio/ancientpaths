@@ -51,7 +51,7 @@ const AudioMsrPlayer = () => {
 
       <div
         style={{
-          maxHeight: "350px",
+          maxHeight: "300px",
           overflowY: "auto",
           border: "1px solid #ccc",
           padding: "10px",
