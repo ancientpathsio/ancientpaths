@@ -1,15 +1,15 @@
 import React, { useState, useRef, useEffect } from "react";
 
-const audio/msr/msrPlayer = () => {
+const AudioMsrPlayer = () => {
   const [isClient, setIsClient] = useState(false);
   const [currentTrack, setCurrentTrack] = useState(0);
-  const audio/msr/msrRef = useRef(null);
+  const audioMsrRef = useRef(null);
 
   useEffect(() => {
     setIsClient(true);
   }, []);
 
-const playlist = [ 
+  const playlist = [
     { title: "Opening Credits", src: "/audio/msr/1.Opening Credits.mp3" },
     { title: "Introduction", src: "/audio/msr/2.Introduction.mp3" },
     { title: "Chapter 1 - Love", src: "/audio/msr/Chapter 1 - Love.mp3" },
@@ -27,8 +27,8 @@ const playlist = [
     { title: "Chapter 13 - Faith", src: "/audio/msr/Chapter 13 - Faith.mp3" },
     { title: "Chapter 14 - Hope", src: "/audio/msr/Chapter 14 - Hope.mp3" },
     { title: "Chapter 15 - Perseverance", src: "/audio/msr/Chapter 15 - Perseverance.mp3" },
-    { title: "Closing Credits", src: "/audio/msr/Closing Credits.mp3" }
-];
+    { title: "Closing Credits", src: "/audio/msr/Closing Credits.mp3" },
+  ];
 
   const playNext = () => {
     setCurrentTrack((prev) => (prev + 1) % playlist.length);
@@ -41,8 +41,8 @@ const playlist = [
   return (
     <div style={{ textAlign: "center", padding: "20px", maxWidth: "400px", margin: "auto" }}>
       <h3>{playlist[currentTrack].title}</h3>
-      <audio/msr/msr
-        ref={audio/msr/msrRef}
+      <audio
+        ref={audioMsrRef}
         controls
         src={playlist[currentTrack].src}
         onEnded={playNext}
@@ -81,4 +81,4 @@ const playlist = [
   );
 };
 
-export default audio/msr/msrPlayer;
+export default AudioMsrPlayer;
