@@ -1,9 +1,9 @@
 import React, { useState, useRef, useEffect } from "react";
 
-const audio/msrPlayer = () => {
+const audio/msr/msrPlayer = () => {
   const [isClient, setIsClient] = useState(false);
   const [currentTrack, setCurrentTrack] = useState(0);
-  const audio/msrRef = useRef(null);
+  const audio/msr/msrRef = useRef(null);
 
   useEffect(() => {
     setIsClient(true);
@@ -41,8 +41,8 @@ const playlist = [
   return (
     <div style={{ textAlign: "center", padding: "20px", maxWidth: "400px", margin: "auto" }}>
       <h3>{playlist[currentTrack].title}</h3>
-      <audio/msr
-        ref={audio/msrRef}
+      <audio/msr/msr
+        ref={audio/msr/msrRef}
         controls
         src={playlist[currentTrack].src}
         onEnded={playNext}
@@ -81,4 +81,4 @@ const playlist = [
   );
 };
 
-export default audio/msrPlayer;
+export default audio/msr/msrPlayer;
