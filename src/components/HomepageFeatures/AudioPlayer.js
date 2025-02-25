@@ -34,6 +34,12 @@ const AudioMsrPlayer = () => {
     setCurrentTrack((prev) => (prev + 1) % playlist.length);
   };
 
+  useEffect(() => {
+    if (audioMsrRef.current) {
+      audioMsrRef.current.play(); // Automatically play the current track when it's loaded
+    }
+  }, [currentTrack]);
+
   if (!isClient) {
     return null;
   }
