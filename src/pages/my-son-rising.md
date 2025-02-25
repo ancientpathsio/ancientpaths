@@ -1,6 +1,5 @@
 ---
-title: Giving
-description: Support our community with a donation
+sidebar_position: 1
 ---
 
 # My Son Rising
