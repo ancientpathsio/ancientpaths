@@ -17,17 +17,3 @@ import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
     <AudioPlayer />
   </div>
 </div>
-
-<style>
-  @media (max-width: 768px) {
-    div {
-      flex-direction: column;
-      align-items: center;
-    }
-    img {
-      margin-right: 0;
-      margin-bottom: 10px;
-      max-width: 80%;
-    }
-  }
-</style>
