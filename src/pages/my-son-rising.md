@@ -9,10 +9,9 @@ description: Support our community with a donation
 
 [![Download (PDF)](https://img.shields.io/badge/📖-Download-blue)](https://raw.githubusercontent.com/ancientpathsio/ancientpaths/main/static/docs/My_Son_Rising.pdf)
 
-<img src="/img/msr.jpg" alt="MSR" style={{ maxWidth: "25%", height: "auto", display: "block", margin: "0" }} />
-
-import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
-
-<div style={{ textAlign: "left" }}>
-  <AudioPlayer />
+<div style="display: flex; align-items: center;">
+  <img src="/img/msr.jpg" alt="MSR" style="max-width: 25%; height: auto; margin-right: 20px;" />
+  <div style="text-align: left; flex: 1;">
+    <AudioPlayer />
+  </div>
 </div>
