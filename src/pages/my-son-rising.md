@@ -16,4 +16,4 @@ import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
   </div>
 </div>
 
-<img src="/img/msr.png" alt="MSR" style={{ maxWidth: "25%", height: "auto", marginBottom: "20px", display: "block" }} />
+<img src="/img/msr.png" alt="MSR" style={{ maxWidth: "25%", height: "auto", marginTop: "20px", display: "block" }} />
