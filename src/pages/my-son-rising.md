@@ -10,3 +10,5 @@ description: Support our community with a donation
 [![Download (PDF)](https://img.shields.io/badge/📖-Download-blue)](/blog)
 
 import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
+
+<AudioPlayer />
