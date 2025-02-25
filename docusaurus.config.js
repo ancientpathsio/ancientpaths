@@ -71,7 +71,7 @@ const config = {
           position: 'left',
           label: 'Guidebook',
         },
-        { to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
+        //{ to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4', label: 'Dev_', position: 'left' },
         {
           label: 'Donate',
           href: '/give',
@@ -90,10 +90,10 @@ const config = {
               label: 'Guidebook',
               to: '/docs/guidebook',
             },
-            {
-              label: 'Dev_',
-              to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',
-            },
+            //{
+              //label: 'Dev_',
+              //to: 'https://ancientpaths.notion.site/Dev_-1993437bf52480e18a28e241fbfd9c0a?pvs=4',
+            //},
           ],
         },
         {
