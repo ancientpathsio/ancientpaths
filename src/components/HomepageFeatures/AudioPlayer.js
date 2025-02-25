@@ -40,7 +40,7 @@ const AudioMsrPlayer = () => {
 
   return (
     <div style={{ textAlign: "left", padding: "20px", maxWidth: "400px", margin: "auto" }}>
-      <h3>{playlist[currentTrack].title}</h3>
+      {/* Removed title <h3> */}
       <audio
         ref={audioMsrRef}
         controls
