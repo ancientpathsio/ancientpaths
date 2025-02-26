@@ -458,7 +458,7 @@ If we are being honest, you knew this was coming. At some point it needed to be 
 
 It isn’t profitable to whistle past the graveyard, nor to exhort anyone on the Ancient Paths, while skipping an issue the church avoids. Antinomianism is a poison many of us drank from. There’s that word again. It is imperative to understand what it means, along with its ugly sister, legalism. The church has largely ignored its peril. In Exercise # 1, tools were introduced to help you study. Also, Sinclair Ferguson dealt with both legalism and antinomianism in his excellent book, [“The Whole Christ”](https://store.ligonier.org/the-whole-christ-legalism-antinomianism-gospel-assurance-hardcover).
 
-What do legalism and antinomianism have to do with the above passages? **Both theological camps short-circuit repentance**, and by doing so, causes a poor understanding of the Gospel and how to harmonize the doctrines of Justification and Sanctification. Here is how both are deadly poisonous:
+What do legalism and antinomianism have to do with the above passages? **Both theological camps short-circuit repentance**, and by doing so, causes a poor understanding of the Gospel and how to harmonize the doctrines of Justification and Sanctification. Here is how both are deathly poisonous:
 
 - A legalistic theology will insist on lists of “Dos” and “Don’ts” that gives the adherent a false sense of assurance of their salvation, based on their own works.
 - An antinomian theology cherry-picks verses to construct a theology built on Justification alone, dismissing the need for sanctification as evidence of salvation.
