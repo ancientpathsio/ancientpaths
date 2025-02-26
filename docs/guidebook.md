@@ -472,7 +472,7 @@ For this exercise, I’d like to focus on Ephesians 5:3-7. John Piper will walk 
 What do I mean by “grace of God” in this sense? Consider the following:
 
 - There should be countless men in Ancient Paths. They are not here. **But you are.** God by his grace led you here.
-- There are many in this society itself, chasing worldly philosophies (Col 2:8) that are unbiblical, straying from The Path (that leads to godliness and freedom), even calling into question the _sufficiency of Scripture_. They are not in the Ancient Paths. **But you are.**
+- There are many in recovery, chasing worldly philosophies (Col 2:8) that are unbiblical, straying from the Path (that leads to godliness and freedom), even calling into question the _sufficiency of Scripture_. They are not in the Ancient Paths. **But you are.**
 - This is the sternest warning in the New Testament regarding sexual immorality. As I noted, it is a pastoral letter to professing Christians, and you are about to get a Master Class on this passage from one of the most esteemed pastors in the North American church. Not many will receive this message, nor will they be able to _harmonize the doctrines of justification, sanctification, and glorification_ (the three progressions of salvation). **But you will.**
 
 After studying the doctrines of Justification and Sanctification, using the tools in Exercise 1 (they are in the catechisms for you to review), and sitting under good preaching, I was instructed in what I was missing: an understanding of sanctification, and what that means to the sexually immoral. **If there is progressive sanctification in your life**, then that is the work of the Spirit (2 Corinthians 3:18). That is great news. Keep going!
