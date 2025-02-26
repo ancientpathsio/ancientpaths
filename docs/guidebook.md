@@ -432,7 +432,7 @@ John Piper has several videos addressing this (see below), including wisdom impa
 - Your wife needs to see commitment rather than hearing you talk about it (that includes the spiritual disciplines mentioned in these exercises)
 - Your wife needs to see transformation (you cannot remain the same person—and that only comes from God through the spiritual disciplines)
 - You must accept you cannot force your wife to remain in the marriage: nonetheless, that should have zero bearing on your seriousness to abandon a shallow relationship with Christ, and press in on cultivating a love for Christ
-- If journaling scares you because of privacy issues, have a straight-forward conversation with you wife and establish boundaries allowing you to work through your sin with God, in private
+- If journaling scares you because of privacy issues, have a straight-forward conversation with your wife and establish boundaries allowing you to work through your sin with God, in private
 - Having your wife as an ally monitoring your internet/cell usage is generally a bad idea; more accountability with other men is usually a better option because you need to develop walking in the light by encouragement from other men—not breaking your wife’s heart and discouraging her, even though you are on the right path
 
 I hope these videos from John Piper help orient you and your wife towards a life-long pursuit of Christ:
