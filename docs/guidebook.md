@@ -394,6 +394,12 @@ Pointers on fasting:
 
 ## **Exercise 9: Memorize A Good Hymn**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/09_exercise9.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 This is one of my favorites, and those that know my story can understand why. Brothers, when facing temptation or experiencing the “dip” in faith that precedes a choice to obey Christ or give into lust: _A theologically rich hymn cuts through temptation like a hot knife through butter._ There is biblical precedent in this part of spiritual warfare, and in the life of God in the broader sense. It’s as ancient as the ancient paths we seek to walk in.
 
 - [Ambush Satan With a Song - John Piper](https://www.youtube.com/watch?v=Yrw5roZDWqY) (3mins 36secs)
@@ -417,6 +423,12 @@ Write a song to the Lord using Scripture and your imagination. David did it and 
 :::
 
 ## **Exercise 10: Help! My Marriage is in Jeopardy**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/10_exercise10.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 This is a recurring topic I’m sure many have faced. It is one of the toughest topics due to the trajectory of marriage in the U.S. and abroad. There are two forces at work here:
 
@@ -450,6 +462,12 @@ I hope these videos from John Piper help orient you and your wife towards a life
 - How will I build accountability to ensure this path isn’t only aspirational, but becomes objectively real?
 
 ## **Exercise 11: The 800lb Gorilla In The Room**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/11_exercise11.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 If we are being honest, you knew this was coming. At some point it needed to be addressed. It’s the topic everyone dances around. It makes people uncomfortable and many automatically throw up a straw-man argument using cherry-picked verses that trumps all other doctrines with no attempt to harmonize. It’s the most terrifying passages in Scripture for the sexually immoral, and we pretend it’s not there like the proverbial 800lb gorilla in the room:
 
@@ -500,11 +518,11 @@ Read “[At the Altar of Sexual Idolatry](https://www.christianbook.com/the-alta
 
 :::
 
-I pray this Bible study establishes you and ignites a passion to pursue Christ with all diligence. The Ancient Paths leading to the life of God (Eph 4:18) from this point on, shouldn’t be an adjunct activity in your life, it should be “the thing” which leads to a total re-centering of your heart. Remember Exercise 1: the determining factor is your heart attitude towards Christ and Scripture. So, continue to restructure with holy structure.
+I pray this Bible study establishes you and ignites a passion to pursue Christ with all diligence. The Ancient Paths leading to the life of God (Eph 4:18) from this point on, shouldn’t be an adjunct activity in your life, it should be “the thing” which leads to a total re-centering of your heart. Remember Exercise 1: the determining factor is your heart attitude towards Christ and Scripture. So, continue to rebuild with holy structure.
 
-Also, [a short 5-minute video from Pastor Mike Winger on Eph 5:5](https://www.youtube.com/watch?v=hiAc1v899nQ). I don’t agree with him on everything, but he also gets to the issue, and is worth your time to consider. His remedy is altogether consistent with Scripture.
+Also, [a short 5-minute video from Pastor Mike Winger on Eph 5:5](https://www.youtube.com/watch?v=hiAc1v899nQ). I don’t agree with him on everything, but he gets straight to the issue, and is worth your time to consider. His remedy is altogether consistent with Scripture.
 
-**FINALLY**: The last part of the 800lb gorilla we need to address—one of the by-products of legalism and antinomianism: **the lack of a healthy fear God**. If you do not have it, _pray and fast for it_. Get others praying and fasting for you. Seriously, put it on your prayer list in your journal. **Repentance does not happen without fearing God.** Study it out.
+**FINALLY**: The last part of the 800lb gorilla we need to address—one of the by-products of legalism and antinomianism: **the lack of a healthy fear of God**. If you do not have it, _pray and fast for it_. Get others praying and fasting for you. Seriously, put it on your prayer list in your journal. **Repentance does not happen without fearing God.** Study it out.
 
 **SELF-EXAMINATION:**
 
@@ -516,6 +534,12 @@ Also, [a short 5-minute video from Pastor Mike Winger on Eph 5:5](https://www.yo
 - Is my fear of God honest, clean, and active in my heart?
 
 ## **Exercise 12: How Do I Kill Secret Sin?**
+
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/12_exercise12.mp3" type="audio/mpeg" />
+  </audio>
+</div>
 
 Follow along with [John MacArthur](https://www.youtube.com/@gracetoyou) on this exceptionally important topic. He gets to the “how to” toward the latter part of the message: ["Killing the Sin in Your Life"](https://www.youtube.com/watch?v=zUSHEKnqp5A)
 
@@ -538,7 +562,7 @@ Did you notice how each point corresponds to at least one Ancient Paths Exercise
 
 **TALK WITH YOUR GUARDIAN:**
 
-- Make a list of secret sins, and ask your Guardian to pray with you, asking God for forgiveness—this will bring everything into the light. Remember, we tell the truth about ourselves, and our brothers are just as broken.
+- Make a list of secret sins, and ask your Guardian to pray with you, petitioning God's forgiveness—this will bring everything into the light. Remember, we tell the truth about ourselves, and our brothers are just as broken.
 - See [“How to Write Your Story”](https://raw.githubusercontent.com/ancientpathsio/ancientpaths/main/static/docs/How-to-Write-Your-Story.pdf) handout for example (Samson Society).
 
 ## **Exercise 13: Advanced Scripture Memorization**
