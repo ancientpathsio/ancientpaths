@@ -609,7 +609,7 @@ EVERY sinful thought requires a response. You must repudiate each thought with S
 
 a. Select your verses to construct the det cord.
 
-  1. Pick your favorite verse concerning the _Resurrection_ (this is just a suggestion because the unifying doctrine is the **Resurrection—there is no Christianity without it**—but you can select another anchoring point specific you your needs).
+  1. Pick your favorite verse concerning the _Resurrection_ (this is just a suggestion because the unifying doctrine is the **Resurrection—there is no Christianity without it**—but you can select another anchoring point specific to your needs).
   2.  Pick your favorite verse on the immediate implication towards you because of the Resurrection.
   3.  Pick your favorite verses (plural) on how you are to walk/worship/duty because of the implication.
   4.  Pick your favorite verse on worship, rejoicing, glorifying God
