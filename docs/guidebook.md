@@ -567,6 +567,12 @@ Did you notice how each point corresponds to at least one Ancient Paths Exercise
 
 ## **Exercise 13: Advanced Scripture Memorization**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/13_exercise13.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 In exercise #5 the importance and basic theology for Scripture memorization was discussed. Now we press in on the aspect of “washing” and turn it into its own exercise. [The Bible Memory App](https://biblememory.com/), do a few verses, and then... nothing more. **Scripture memorization wasn’t an established discipline as part of their lives, and so when the lust didn’t stop on a dime with a handful of verses, they quit.**
 
 Part of it is the _heart attitude_ towards Christ and Scripture (Exercise #1). Part of it is _lacking the faith that this discipline eventually does a transformation in the heart over time_. The excuse of “I’m not good at memorization” doesn’t hold water. God designed you with an amazing brain in order to **meditate on his Word** (Deut 6) **morning, noon, and night**: that is the normal holy structure for God’s people. It is no wonder that Psalm 119 is the longest chapter in the Bible.
