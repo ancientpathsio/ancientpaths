@@ -704,6 +704,12 @@ Associate Dean for the School of Theology, Southern Baptist Theological Seminary
 
 ## **Exercise 15: Mind-Renewal**
 
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/15_exercise15.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
 >**_“I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.”_**
 >
 >**_– Romans 12:1-2_**
@@ -760,7 +766,13 @@ In Christ, we're all in the sanctification process to the day we pass from death
 
 ## **Instructions for the 40-Day Challenge (DESTINY)**
 
-**DESTINY** is an exercise in putting Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/16_destiny.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
+**DESTINY** is a focused plan that combines Exercises 1-8 together, implementing them in your life. It is meant to move a man from talking to action, by developing spiritual discipline into each life, thereby replacing unholy structure, with holy structure. The spiritual disciplines addressed are: _Bible reading, Prayer, Journaling, Scripture memorization,_ **_Fasting_**_, and of course self-examination_.
 
 Here is how it works:
 
