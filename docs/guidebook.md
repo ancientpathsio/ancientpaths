@@ -660,7 +660,13 @@ Romans 6—all 23 verses. Why? Because Romans 6 is the foundation for sanctifica
 
 ## **Exercise 14: Fight for Your Life**
 
-So, you've started on the Ancient Paths, but weeks and months have passed and very little has changed. In fact, in some instances, things have become worse now that you have come to realize the strength of a besetting sin. The confidence of what the Bible is accomplishers concerning the Spiritual Disciplines isn't manifesting itself. The hope you wanted held at the beginning, has since dissipated and you have returned to old habits.
+<div style={{ textAlign: "left" }}>
+  <audio controls>
+    <source src="/audio/14_exercise14.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
+So, you've started on the Ancient Paths, but weeks and months have passed and very little has changed. In fact, in some instances, things have become worse now that you have come to realize the strength of a besetting sin. The confidence of what the Bible is accomplishing concerning the Spiritual Disciplines isn't manifesting itself. The hope you wanted held at the beginning, has since dissipated and you have returned to old habits.
 
 **"Fight for Your Life"** may be for you.
 
