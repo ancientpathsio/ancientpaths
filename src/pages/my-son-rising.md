@@ -14,3 +14,5 @@ import AudioPlayer from '@site/src/components/HomepageFeatures/AudioPlayer';
     <AudioPlayer />
   </div>
 </div>
+
+![MSR](/img/msr_full.png)
