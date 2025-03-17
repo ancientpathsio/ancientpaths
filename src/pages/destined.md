@@ -31,5 +31,6 @@ description: Support our community with a donation
   Preview Book
 </a>
 
+<br />
 
 ![Mockup](/img/mockup.png)
