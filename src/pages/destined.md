@@ -9,7 +9,7 @@ A testimony of modern-day miracles, supernatural encounters, and raw personal li
 
 ## Preview
 
-![Scales](/img/mockup.png)
+![Mockup](/img/mockup.png)
 
 <a
   href="https://destined-book.notion.site/DESTINED-2025-1b950ab615eb80fd98d2c66c2356bb78?pvs=73"
