@@ -76,7 +76,7 @@ const config = {
           label: 'My Son Rising',
           position: 'left',
         },
-        { to: 'https://www.bonfire.com/store/destined-brand/', label: 'DESTINED', position: 'left' },
+        { to: '/destined', label: 'DESTINED (2025)', position: 'left' },
         {
           label: '>Donate',
           href: '/give',
