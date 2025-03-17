@@ -123,7 +123,7 @@
   border: 2px solid black;
   border-radius: 8px;
   transition: background-color 0.3s, color 0.3s;
-  text-decoration: none;
+  text-decoration: none; /* Ensures no underline on the link */
   margin-bottom: 20px; /* Adjust the margin for spacing */
 }
 
