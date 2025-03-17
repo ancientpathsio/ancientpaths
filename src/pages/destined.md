@@ -11,10 +11,10 @@ description: Support our community with a donation
   href="https://destined-book.notion.site/DESTINED-2025-1b950ab615eb80fd98d2c66c2356bb78?pvs=73"
   style={{
     display: "inline-block",
-    padding: "12px 24px",
+    padding: "9px 22px",
     color: "black",
     backgroundColor: "white",
-    border: "1px solid black",
+    border: "2px solid black",
     borderRadius: "8px",
     transition: "background-color 0.3s, color 0.3s",
     textDecoration: "none", // Removes underline
@@ -30,5 +30,5 @@ description: Support our community with a donation
 >
   Preview Book
 </a>
-
+<br />
 ![Mockup](/img/mockup.png)
