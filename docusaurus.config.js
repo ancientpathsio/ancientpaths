@@ -71,7 +71,11 @@ const config = {
           position: 'left',
           label: 'Guidebook',
         },
-        { to: '/my-son-rising', label: 'My Son Rising', position: 'left' },
+        {
+          to: '/my-son-rising',
+          label: '<em>My Son Rising</em>',
+          position: 'left',
+        },
         { to: 'https://www.bonfire.com/store/destined-brand/', label: 'DESTINED', position: 'left' },
         {
           label: 'Donate',
