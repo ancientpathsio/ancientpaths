@@ -78,7 +78,7 @@ const config = {
         },
         { to: 'https://www.bonfire.com/store/destined-brand/', label: 'DESTINED', position: 'left' },
         {
-          label: 'Donate',
+          label: 'Give',
           href: '/give',
           position: 'right',
           className: 'navbar__item--donate',
@@ -99,6 +99,10 @@ const config = {
               label: 'My Son Rising',
               to: '/my-son-rising',
             },
+            {
+              label: 'DESTINED',
+              to: 'https://www.bonfire.com/store/destined-brand/',
+            },
           ],
         },
         {
@@ -114,7 +118,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: '>Donate',
+              label: 'Donate',
               to: '/give/',
             },
             {
