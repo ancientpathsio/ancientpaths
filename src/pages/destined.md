@@ -5,7 +5,7 @@ description: Support our community with a donation
 
 # DESTINED (2025)
 
-A testimony of modern-day miracles, supernatural encounters, and raw personal life stories that will leave you questioning the goodness of God in dark world.
+A testimony of modern-day miracles, supernatural encounters, and raw personal life stories that will leave you questioning the goodness of God in a dark world.
 
 ## Preview
 
