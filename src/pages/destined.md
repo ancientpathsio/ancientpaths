@@ -11,7 +11,7 @@ description: Support our community with a donation
   href="https://destined-book.notion.site/DESTINED-2025-1b950ab615eb80fd98d2c66c2356bb78?pvs=73"
   style={{
     display: "inline-block",
-    padding: "9px 22px",
+    padding: "8px 22px",
     color: "black",
     backgroundColor: "white",
     border: "2px solid black",
