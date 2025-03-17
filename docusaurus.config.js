@@ -114,7 +114,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Donate',
+              label: '>Donate',
               to: '/give/',
             },
             {
