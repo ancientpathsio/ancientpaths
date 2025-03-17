@@ -99,10 +99,6 @@ const config = {
               label: 'My Son Rising',
               to: '/my-son-rising',
             },
-            {
-              label: 'DESTINED',
-              to: 'https://www.bonfire.com/store/destined-brand/',
-            },
           ],
         },
         {
