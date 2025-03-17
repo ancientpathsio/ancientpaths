@@ -134,7 +134,7 @@
 
 /* Hero section with banner image */
 .hero {
-  background-image: url('/img/banner.png'); /* Replace with your actual image path */
+  background-image: url('/img/banner.jpg'); /* Replace with your actual image path */
   background-size: cover;      /* Ensures the image covers the container */
   background-position: center; /* Centers the image within the container */
   background-repeat: no-repeat;
