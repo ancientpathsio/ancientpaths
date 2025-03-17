@@ -106,3 +106,10 @@
     font-size: 1.25rem;
   }
 }
+
+/* Italicize My Son Rising in Nav bar */
+
+.navbar a[href="/my-son-rising"] {
+  font-style: italic;
+}
+
