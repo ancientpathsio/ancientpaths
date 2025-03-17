@@ -128,7 +128,6 @@
 }
 
 .preview-button:hover {
-  background-color: gray;
+  background-color: #d3d3d3; /* Light gray color */
   color: white;
 }
-
