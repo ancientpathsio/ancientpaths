@@ -78,7 +78,7 @@ const config = {
         },
         { to: 'https://www.bonfire.com/store/destined-brand/', label: 'DESTINED', position: 'left' },
         {
-          label: 'Give',
+          label: '>Donate',
           href: '/give',
           position: 'right',
           className: 'navbar__item--donate',
