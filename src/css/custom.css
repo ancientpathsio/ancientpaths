@@ -132,32 +132,33 @@
   font-weight: 600;
   font-size: 1rem;
   min-width: 150px;
+  border: 2px solid transparent; /* Default transparent border */
 }
 
 /* Styling for Preview Book button */
 .preview-button {
   color: black;
   background-color: white;
-  border: 2px solid black;
+  border-color: black; /* Set the default border color */
 }
 
 .preview-button:hover {
   background-color: gray;
   color: white;
-  border-color: gray;
+  border-color: gray; /* Hover border color */
 }
 
 /* Styling for Buy Merch button */
 .preview-button2 {
   color: white;
   background-color: black;
-  border: 2px solid white;
+  border-color: white; /* Set the default border color */
 }
 
 .preview-button2:hover {
   background-color: white;
   color: black;
-  border: 2px solid black;
+  border-color: black; /* Hover border color */
 }
 
 /* Button container for proper alignment */
