@@ -113,18 +113,28 @@
   font-style: italic;
 }
 
-/* space for button and image for DESTINED */
+.button-container {
+  display: flex;
+  gap: 16px; /* Adds space between buttons */
+  justify-content: center; /* Centers buttons horizontally */
+  margin-bottom: 20px; /* Space between buttons and the image */
+}
 
-.preview-button {
+.preview-button,
+.preview-button2 {
   display: inline-block;
   padding: 8px 22px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Styling for Preview Book button */
+.preview-button {
   color: black;
   background-color: white;
   border: 2px solid black;
-  border-radius: 8px;
-  transition: background-color 0.3s, color 0.3s;
-  text-decoration: none; /* Ensures no underline on the link */
-  margin-bottom: 20px; /* Adjust the margin for spacing */
 }
 
 .preview-button:hover {
@@ -132,18 +142,11 @@
   color: white;
 }
 
-/* space for button and image for DESTINED2 */
-
+/* Styling for Buy Merch button */
 .preview-button2 {
-  display: inline-block;
-  padding: 8px 22px;
   color: white;
   background-color: black;
   border: 2px solid white;
-  border-radius: 8px;
-  transition: background-color 0.3s, color 0.3s;
-  text-decoration: none; /* Ensures no underline on the link */
-  margin-bottom: 20px; /* Adjust the margin for spacing */
 }
 
 .preview-button2:hover {
@@ -151,7 +154,6 @@
   color: black;
   border: 2px solid black;
 }
-
 
 /* Hero section with banner image */
 .hero {
