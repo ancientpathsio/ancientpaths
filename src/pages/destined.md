@@ -17,7 +17,7 @@ description: Support our community with a donation
 
   <a
     href="https://www.bonfire.com/store/destined-brand/"
-    class="preview-button"
+    class="preview-button2"
   >
     Buy Merch
   </a>
