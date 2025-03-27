@@ -14,6 +14,6 @@ description: Support our community with a donation
 🪙 **BTC:** [Send Crypto](https://cash.me/$ancientpathsio)  
 📬 **Check/Money Order:** [Email for Address](mailto:ancientpaths.io@gmail.com)
 
-Your generosity makes a difference! Thank you for supporting our community. 🙌
-
 ![Handshake](/img/handshake.png)
+
+Your generosity makes a difference! Thank you for supporting our community. 🙌
