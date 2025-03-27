@@ -71,7 +71,7 @@ const config = {
           position: 'left',
           label: 'Guidebook',
         },
-        { to: '/destined', label: 'DESTINED', position: 'left' },
+        //{ to: '/destined', label: 'DESTINED', position: 'left' },
         {
           to: '/my-son-rising',
           label: 'My Son Rising',
@@ -94,10 +94,6 @@ const config = {
             {
               label: 'Guidebook',
               to: '/docs/guidebook',
-            },
-            {
-              label: 'DESTINED',
-              to: '/destined',
             },
             {
               label: 'My Son Rising',
