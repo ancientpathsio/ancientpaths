@@ -9,7 +9,7 @@ description: Support our community with a donation
 
 <div class="button-container">
   <a
-    href="https://destined-book.notion.site/DESTINED-2025-1b950ab615eb80fd98d2c66c2356bb78?pvs=73"
+    href="https://destined-book.notion.site/DESTINED-2025-1b950ab615eb80fd98d2c66c2356bb78?pvs=4"
     class="preview-button"
   >
     Preview Book
