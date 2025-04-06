@@ -73,9 +73,9 @@ const config = {
         },
         {
           type: 'doc',
-          docId: 'DESTINED',
+          docId: 'Destined',
           position: 'left',
-          label: 'Destined (2025)',
+          label: 'DESTINED',
         },
         {
           to: '/my-son-rising',
