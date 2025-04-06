@@ -404,11 +404,11 @@ I recalled when Julian first encouraged me to ride a skateboard. Here I was, 35 
 
 I still have the moment recorded when I first rode a skateboard without falling. We recorded it skating documentary where Julian and I evangelized and saw the hand of God move in our generation. I’ve still never fallen to date in my short tenure of skating. Not once. Impossible?
 
-![tebow](../static/img/tebow.jpg)
+![tebow](/img/tebow.jpg)
 
-![evangel_1](../static/img/evangel_1.jpeg)
+![evangel_1](/img/evangel_1.jpeg)
 
-![evangel_2](../static/img/evangel_2.jpg)
+![evangel_2](/img/evangel_2.jpg)
 
 <!-- Blue Letter Bible Script Tagger -->
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
