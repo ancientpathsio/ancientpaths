@@ -10,7 +10,7 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 *A testimony of modern-day miracles, supernatural encounters, and raw personal life stories that will leave you questioning the goodness of God in a dark and disenchanted world.*
 
-![Mockup](../static/mockup.png)
+![Mockup](../static/img/mockup.png)
 
 ## Dedication
 
