@@ -6,8 +6,6 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 <RefreshOnFirstLoad />
 
-# DESTINED (2025)
-
 *A testimony of modern-day miracles, supernatural encounters, and raw personal life stories that will leave you questioning the goodness of God in a dark and disenchanted world.*
 
 ![Mockup](../static/img/mockup.png)
