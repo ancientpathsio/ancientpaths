@@ -71,7 +71,12 @@ const config = {
           position: 'left',
           label: 'Guidebook',
         },
-        { to: '/destined', label: 'DESTINED', position: 'left' },
+        {
+          type: 'doc',
+          docId: 'DESTINED',
+          position: 'left',
+          label: 'Destined (2025)',
+        },
         {
           to: '/my-son-rising',
           label: 'My Son Rising',
