@@ -1,7 +1,10 @@
 ---
-title: Giving
-description: Support our community with a donation
+sidebar_position: 1
 ---
+
+import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnFirstLoad';
+
+<RefreshOnFirstLoad />
 
 # DESTINED (2025)
 
@@ -401,8 +404,21 @@ I recalled when Julian first encouraged me to ride a skateboard. Here I was, 35 
 
 I still have the moment recorded when I first rode a skateboard without falling. We recorded it skating documentary where Julian and I evangelized and saw the hand of God move in our generation. I’ve still never fallen to date in my short tenure of skating. Not once. Impossible?
 
-![tebow.JPG](attachment:354599cb-1dc7-49d4-a3d3-ed7f159c07df:tebow.jpg)
+![tebow](../static/img/tebow.jpg)
 
-![evangel_1.jpeg](attachment:90fa09ac-40e7-4654-a99b-7c385c45ce08:evangel_1.jpeg)
+![evangel_1](../static/img/evangel_1.jpeg)
 
-![evangel_2.jpg](attachment:50dfd297-c445-4a9e-af93-f2f962687a80:evangel_2.jpg)
+![evangel_2](../static/img/evangel_2.jpg)
+
+<!-- Blue Letter Bible Script Tagger -->
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+// Additional settings
+BLB.Tagger.Translation = 'ESV'; // Changed to ESV
+BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; // 'line' or 'par'
+BLB.Tagger.NoSearchTagNames = ''; // HTML element list
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
+</script>
