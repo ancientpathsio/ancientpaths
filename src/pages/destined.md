@@ -404,7 +404,7 @@ I recalled when Julian first encouraged me to ride a skateboard. Here I was, 35 
 
 I still have the moment recorded when I first rode a skateboard without falling. We recorded it skating documentary where Julian and I evangelized and saw the hand of God move in our generation. I’ve still never fallen to date in my short tenure of skating. Not once. Impossible?
 
-![tebow](/img/tebow.jpg)
+![tebow](/img/tebow.JPG)
 
 ![evangel_1](/img/evangel_1.jpeg)
 
