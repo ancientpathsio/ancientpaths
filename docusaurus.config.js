@@ -101,6 +101,10 @@ const config = {
               to: '/docs/guidebook',
             },
             {
+              label: 'DESTINED',
+              to: '/docs/destined',
+            },
+            {
               label: 'My Son Rising',
               to: '/my-son-rising',
             },
