@@ -73,9 +73,9 @@ const config = {
         },
         {
           type: 'doc',
-          docId: 'WAR WITHIN',
+          docId: 'WarWithin',
           position: 'left',
-          label: 'WAR WITHIN',
+          label: 'WarWithin',
         },
         {
           to: '/my-son-rising',
