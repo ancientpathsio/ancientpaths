@@ -6,7 +6,7 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 <RefreshOnFirstLoad />
 
-![Mockup](../static/img/mockup.png)
+![Mockup](../static/img/checkmate.png)
 
 ## **Introduction: The War Within**
 
