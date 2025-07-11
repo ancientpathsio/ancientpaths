@@ -73,9 +73,9 @@ const config = {
         },
         {
           type: 'doc',
-          docId: 'Destined',
+          docId: 'WAR WITHIN',
           position: 'left',
-          label: 'DESTINED',
+          label: 'WAR WITHIN',
         },
         {
           to: '/my-son-rising',
@@ -101,8 +101,8 @@ const config = {
               to: '/docs/guidebook',
             },
             {
-              label: 'DESTINED',
-              to: '/docs/destined',
+              label: 'WAR WITHIN',
+              to: '/docs/WarWithin',
             },
             {
               label: 'My Son Rising',
