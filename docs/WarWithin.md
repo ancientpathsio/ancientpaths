@@ -1,6 +1,6 @@
 ---
 title: The War Within: Understanding and Overcoming Lust
-description: A raw and spiritual look at how lust sabotages purpose and how transformation can begin.
+description: "A raw and spiritual look at how lust sabotages purpose and how transformation can begin."
 sidebar_position: 1
 ---
 
@@ -12,14 +12,10 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 ![Mockup](../static/img/checkmate.png)
 
-## Dedication
-
-For those battling silently. For those rising loudly.
-
 ## Quote
 
-> *Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.*  
-> — 2 Timothy 2:22 (KJV)
+> *Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.*  
+> — 2 Timothy 2:22 (NIV)
 
 ## Introduction
 
