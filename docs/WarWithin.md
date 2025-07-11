@@ -1,12 +1,14 @@
 ---
-title: The War Within: Understanding and Overcoming Lust
-description: "A raw and spiritual look at how lust sabotages purpose and how transformation can begin."
 sidebar_position: 1
 ---
 
 import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnFirstLoad';
 
 <RefreshOnFirstLoad />
+
+![Mockup](../static/img/mockup.png)
+
+## **Introduction: The War Within**
 
 *A piercing examination of lust’s spiritual cost—and the radical purity that reclaims everything it tried to steal.*
 
