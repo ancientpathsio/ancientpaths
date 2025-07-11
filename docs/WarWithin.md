@@ -6,8 +6,6 @@ import RefreshOnFirstLoad from '@site/src/components/HomepageFeatures/RefreshOnF
 
 <RefreshOnFirstLoad />
 
-![Mockup](../static/img/checkmate.png)
-
 ## **Introduction: The War Within**
 
 *A piercing examination of lust’s spiritual cost—and the radical purity that reclaims everything it tried to steal.*
