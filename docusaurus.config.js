@@ -73,7 +73,7 @@ const config = {
         },
         {
           type: 'doc',
-          docId: 'WarWithin',
+          docId: 'WAR WITHIN',
           position: 'left',
           label: 'WarWithin',
         },
